@@ -25,8 +25,26 @@ Update project_2.crime_nyc.;
 
 
 Alter Table crime_nyc
-Add Borough_ID INT NOT NULL
+Add Borough_ID INT NOT NULL;
 
-SELECT * FROM project_2.crime_nyc;
+SET SQL_SAFE_UPDATES = 0;
 
+Update crime_nyc
+Set Boroughs_ID = 1
+WHERE Boroughs = "BROOKLYN";
 
+Update crime_nyc
+Set Boroughs_ID = 2
+WHERE Boroughs = "BRONX";
+
+Update crime_nyc
+Set Boroughs_ID = 3
+WHERE Boroughs = "MANHATTAN";
+
+Update crime_nyc
+Set Boroughs_ID = 4
+WHERE Boroughs = "QUEENS";
+
+Update crime_nyc
+Set Boroughs_ID = 5
+WHERE Boroughs = "STATEN ISLAND";

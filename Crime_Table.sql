@@ -24,3 +24,4 @@ DROP COLUMN  SUSP_SEX, DROP COLUMN  VIC_AGE_GROUP, DROP COLUMN  VIC_RACE, DROP C
 
 Alter TABLE crime_nyc
 Drop COlumn Latitude, Drop Column Longitude;
+
