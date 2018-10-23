@@ -1,0 +1,1857 @@
+Yelp_Reviews(NYC)
+Borough_ID,Borough,Name,Review,Service_name,Type
+1,BRONX,Martha’s Country Bakery,4.5,restaurants," Italian, Pizza, Desserts "
+1,BRONX,Antonio’s Trattoria,4,restaurants, Latin American 
+1,BRONX,Travesias,4,restaurants," Cuban, Latin American "
+1,BRONX,Havana Cafe,4.5,restaurants, Mexican 
+1,BRONX,Taqueria Tlaxcalli,4,restaurants," Colombian, Empanadas "
+1,BRONX,La Masa,3.5,restaurants," Seafood, Italian, American (Traditional) "
+1,BRONX,The Original Crab Shanty Restaurant,4,restaurants," American (Traditional), Pubs "
+1,BRONX,Bronx Alehouse,4,restaurants," Sports Bars, American (Traditional) "
+1,BRONX,The Bronx Public,4,restaurants, Seafood 
+1,BRONX,Johnny’s Reef Restaurant,4.5,restaurants," American (Traditional), Speakeasies "
+1,BRONX,Beatstro,4.5,restaurants," American (Traditional), Wine Bars "
+1,BRONX,The Hill Bistro,4,restaurants," American (New), Latin American, Dominican "
+1,BRONX,Leche Y Miel Restaurant,4.5,restaurants," American (New), Seafood, Breakfast & Brunch "
+1,BRONX,The Waterfront NYC,4,restaurants, Vietnamese 
+1,BRONX,Com Tam Ninh Kieu,4,restaurants," Italian, Pizza "
+1,BRONX,Trattoria Zero Otto Nove,3.5,restaurants, Seafood 
+1,BRONX,City Island Lobster House,4,restaurants, Diners 
+1,BRONX,Jimmy’s Grand Cafe,4,restaurants," Caribbean, Seafood, Bars "
+1,BRONX,Fish N’ Ting,4.5,restaurants," American (New), Gastropubs, Burgers "
+1,BRONX,Archie’s Tap & Table,4,restaurants," Bars, American (Traditional), Salad "
+1,BRONX,Charlie’s Bar & Kitchen,4,restaurants, American (Traditional) 
+1,BRONX,Landin Mac & Cheese,4,restaurants, Italian 
+1,BRONX,Patricia’s,4,restaurants, Italian 
+1,BRONX,Dominick’s Restaurant,4.5,restaurants, Diners 
+1,BRONX,George’s Diner & Cafe,4,restaurants, Dominican 
+1,BRONX,Ajo Y Oregano,4.5,restaurants," Greek, Seafood, Mediterranean "
+1,BRONX,SOFRA - Traditional Greek & Albanian cuisine,4.5,restaurants, Burgers 
+1,BRONX,Bronx Burger Bistro,4,restaurants," Seafood, Steakhouses, Caterers "
+1,BRONX,Arties Steak & Seafood,4.5,restaurants," Coffee & Tea, Cafes "
+1,BRONX,The Boogie Down Grind Café,4,restaurants, American (New) 
+1,BRONX,Hudson Garden Grill,4.5,restaurants," Italian, Pizza, Desserts "
+1,BRONX,Antonio’s Trattoria,4,restaurants, Latin American 
+1,BRONX,Travesias,4,restaurants," Cuban, Latin American "
+1,BRONX,Havana Cafe,4.5,restaurants, Mexican 
+1,BRONX,Taqueria Tlaxcalli,4,restaurants," Colombian, Empanadas "
+1,BRONX,La Masa,3.5,restaurants," Seafood, Italian, American (Traditional) "
+1,BRONX,The Original Crab Shanty Restaurant,4,restaurants," American (Traditional), Pubs "
+1,BRONX,Bronx Alehouse,4,restaurants," Sports Bars, American (Traditional) "
+1,BRONX,The Bronx Public,4,restaurants, Seafood 
+1,BRONX,Johnny’s Reef Restaurant,4.5,restaurants," American (Traditional), Speakeasies "
+1,BRONX,Beatstro,4.5,restaurants," American (Traditional), Wine Bars "
+1,BRONX,The Hill Bistro,4,restaurants," American (New), Latin American, Dominican "
+1,BRONX,Leche Y Miel Restaurant,4.5,restaurants," American (New), Seafood, Breakfast & Brunch "
+1,BRONX,The Waterfront NYC,4,restaurants, Vietnamese 
+1,BRONX,Com Tam Ninh Kieu,4,restaurants," Italian, Pizza "
+1,BRONX,Trattoria Zero Otto Nove,3.5,restaurants, Seafood 
+1,BRONX,City Island Lobster House,4,restaurants, Diners 
+1,BRONX,Jimmy’s Grand Cafe,4,restaurants," Caribbean, Seafood, Bars "
+1,BRONX,Fish N’ Ting,4.5,restaurants," American (New), Gastropubs, Burgers "
+1,BRONX,Archie’s Tap & Table,4,restaurants," Bars, American (Traditional), Salad "
+1,BRONX,Charlie’s Bar & Kitchen,4,restaurants, American (Traditional) 
+1,BRONX,Landin Mac & Cheese,4,restaurants, Italian 
+1,BRONX,Patricia’s,4,restaurants, Italian 
+1,BRONX,Dominick’s Restaurant,4.5,restaurants, Diners 
+1,BRONX,George’s Diner & Cafe,4,restaurants, Dominican 
+1,BRONX,Ajo Y Oregano,4.5,restaurants," Greek, Seafood, Mediterranean "
+1,BRONX,SOFRA - Traditional Greek & Albanian cuisine,4.5,restaurants, Burgers 
+1,BRONX,Bronx Burger Bistro,4,restaurants," Seafood, Steakhouses, Caterers "
+1,BRONX,Arties Steak & Seafood,4.5,restaurants," Coffee & Tea, Cafes "
+1,BRONX,The Boogie Down Grind Café,4,restaurants, American (New) 
+1,BRONX,Hudson Garden Grill,4.5,restaurants," Italian, Pizza, Desserts "
+1,BRONX,Antonio’s Trattoria,4,restaurants, Latin American 
+1,BRONX,Travesias,4,restaurants," Cuban, Latin American "
+1,BRONX,Havana Cafe,4.5,restaurants, Mexican 
+1,BRONX,Taqueria Tlaxcalli,4,restaurants," Colombian, Empanadas "
+1,BRONX,La Masa,3.5,restaurants," Seafood, Italian, American (Traditional) "
+1,BRONX,The Original Crab Shanty Restaurant,4,restaurants," American (Traditional), Pubs "
+1,BRONX,Bronx Alehouse,4,restaurants," Sports Bars, American (Traditional) "
+1,BRONX,The Bronx Public,4,restaurants, Seafood 
+1,BRONX,Johnny’s Reef Restaurant,4.5,restaurants," American (Traditional), Speakeasies "
+1,BRONX,Beatstro,4.5,restaurants," American (Traditional), Wine Bars "
+1,BRONX,The Hill Bistro,4,restaurants," American (New), Latin American, Dominican "
+1,BRONX,Leche Y Miel Restaurant,4.5,restaurants," American (New), Seafood, Breakfast & Brunch "
+1,BRONX,The Waterfront NYC,4,restaurants, Vietnamese 
+1,BRONX,Com Tam Ninh Kieu,4,restaurants," Italian, Pizza "
+1,BRONX,Trattoria Zero Otto Nove,3.5,restaurants, Seafood 
+1,BRONX,City Island Lobster House,4,restaurants, Diners 
+1,BRONX,Jimmy’s Grand Cafe,4,restaurants," Caribbean, Seafood, Bars "
+1,BRONX,Fish N’ Ting,4.5,restaurants," American (New), Gastropubs, Burgers "
+1,BRONX,Archie’s Tap & Table,4,restaurants," Bars, American (Traditional), Salad "
+1,BRONX,Charlie’s Bar & Kitchen,4,restaurants, American (Traditional) 
+1,BRONX,Landin Mac & Cheese,4,restaurants, Italian 
+1,BRONX,Patricia’s,4,restaurants, Italian 
+1,BRONX,Dominick’s Restaurant,4.5,restaurants, Diners 
+1,BRONX,George’s Diner & Cafe,4,restaurants, Dominican 
+1,BRONX,Ajo Y Oregano,4.5,restaurants," Greek, Seafood, Mediterranean "
+1,BRONX,SOFRA - Traditional Greek & Albanian cuisine,4.5,restaurants, Burgers 
+1,BRONX,Bronx Burger Bistro,4,restaurants," Seafood, Steakhouses, Caterers "
+1,BRONX,Arties Steak & Seafood,4.5,restaurants," Coffee & Tea, Cafes "
+1,BRONX,The Boogie Down Grind Café,4,restaurants, American (New) 
+1,BRONX,Hudson Garden Grill,4.5,restaurants," Italian, Pizza, Desserts "
+1,BRONX,Antonio’s Trattoria,4,restaurants, Latin American 
+1,BRONX,Travesias,4,restaurants," Cuban, Latin American "
+1,BRONX,Havana Cafe,4.5,restaurants, Mexican 
+1,BRONX,Taqueria Tlaxcalli,4,restaurants," Colombian, Empanadas "
+1,BRONX,La Masa,3.5,restaurants," Seafood, Italian, American (Traditional) "
+1,BRONX,The Original Crab Shanty Restaurant,4,restaurants," American (Traditional), Pubs "
+1,BRONX,Bronx Alehouse,4,restaurants," Sports Bars, American (Traditional) "
+1,BRONX,The Bronx Public,4,restaurants, Seafood 
+1,BRONX,Johnny’s Reef Restaurant,4.5,restaurants," American (Traditional), Speakeasies "
+1,BRONX,Beatstro,4.5,restaurants," American (Traditional), Wine Bars "
+1,BRONX,The Hill Bistro,4,restaurants," American (New), Latin American, Dominican "
+1,BRONX,Leche Y Miel Restaurant,4.5,restaurants," American (New), Seafood, Breakfast & Brunch "
+1,BRONX,The Waterfront NYC,4,restaurants, Vietnamese 
+1,BRONX,Com Tam Ninh Kieu,4,restaurants," Italian, Pizza "
+1,BRONX,Trattoria Zero Otto Nove,3.5,restaurants, Seafood 
+1,BRONX,City Island Lobster House,4,restaurants, Diners 
+1,BRONX,Jimmy’s Grand Cafe,4,restaurants," Caribbean, Seafood, Bars "
+1,BRONX,Fish N’ Ting,4.5,restaurants," American (New), Gastropubs, Burgers "
+1,BRONX,Archie’s Tap & Table,4,restaurants," Bars, American (Traditional), Salad "
+1,BRONX,Charlie’s Bar & Kitchen,4,restaurants, American (Traditional) 
+1,BRONX,Landin Mac & Cheese,4,restaurants, Italian 
+1,BRONX,Patricia’s,4,restaurants, Italian 
+1,BRONX,Dominick’s Restaurant,4.5,restaurants, Diners 
+1,BRONX,George’s Diner & Cafe,4,restaurants, Dominican 
+1,BRONX,Ajo Y Oregano,4.5,restaurants," Greek, Seafood, Mediterranean "
+1,BRONX,SOFRA - Traditional Greek & Albanian cuisine,4.5,restaurants, Burgers 
+1,BRONX,Bronx Burger Bistro,4,restaurants," Seafood, Steakhouses, Caterers "
+1,BRONX,Arties Steak & Seafood,4.5,restaurants," Coffee & Tea, Cafes "
+1,BRONX,The Boogie Down Grind Café,4,restaurants, American (New) 
+1,BRONX,Hudson Garden Grill,4.5,restaurants," Italian, Pizza, Desserts "
+1,BRONX,Antonio’s Trattoria,4,restaurants, Latin American 
+1,BRONX,Travesias,4,restaurants," Cuban, Latin American "
+1,BRONX,Havana Cafe,4.5,restaurants, Mexican 
+1,BRONX,Taqueria Tlaxcalli,4,restaurants," Colombian, Empanadas "
+1,BRONX,La Masa,3.5,restaurants," Seafood, Italian, American (Traditional) "
+1,BRONX,The Original Crab Shanty Restaurant,4,restaurants," American (Traditional), Pubs "
+1,BRONX,Bronx Alehouse,4,restaurants," Sports Bars, American (Traditional) "
+1,BRONX,The Bronx Public,4,restaurants, Seafood 
+1,BRONX,Johnny’s Reef Restaurant,4.5,restaurants," American (Traditional), Speakeasies "
+1,BRONX,Beatstro,4.5,restaurants," American (Traditional), Wine Bars "
+1,BRONX,The Hill Bistro,4,restaurants," American (New), Latin American, Dominican "
+1,BRONX,Leche Y Miel Restaurant,4.5,restaurants," American (New), Seafood, Breakfast & Brunch "
+1,BRONX,The Waterfront NYC,4,restaurants, Vietnamese 
+1,BRONX,Com Tam Ninh Kieu,4,restaurants," Italian, Pizza "
+1,BRONX,Trattoria Zero Otto Nove,3.5,restaurants, Seafood 
+1,BRONX,City Island Lobster House,4,restaurants, Diners 
+1,BRONX,Jimmy’s Grand Cafe,4,restaurants," Caribbean, Seafood, Bars "
+1,BRONX,Fish N’ Ting,4.5,restaurants," American (New), Gastropubs, Burgers "
+1,BRONX,Archie’s Tap & Table,4,restaurants," Bars, American (Traditional), Salad "
+1,BRONX,Charlie’s Bar & Kitchen,4,restaurants, American (Traditional) 
+1,BRONX,Landin Mac & Cheese,4,restaurants, Italian 
+1,BRONX,Patricia’s,4,restaurants, Italian 
+1,BRONX,Dominick’s Restaurant,4.5,restaurants, Diners 
+1,BRONX,George’s Diner & Cafe,4,restaurants, Dominican 
+1,BRONX,Ajo Y Oregano,4.5,restaurants," Greek, Seafood, Mediterranean "
+1,BRONX,SOFRA - Traditional Greek & Albanian cuisine,4.5,restaurants, Burgers 
+1,BRONX,Bronx Burger Bistro,4,restaurants," Seafood, Steakhouses, Caterers "
+1,BRONX,Arties Steak & Seafood,4.5,restaurants," Coffee & Tea, Cafes "
+1,BRONX,The Boogie Down Grind Café,4,restaurants, American (New) 
+1,BRONX,Hudson Garden Grill,4.5,restaurants," Italian, Pizza, Desserts "
+1,BRONX,Antonio’s Trattoria,4,restaurants, Latin American 
+1,BRONX,Travesias,4,restaurants," Cuban, Latin American "
+1,BRONX,Havana Cafe,4.5,restaurants, Mexican 
+1,BRONX,Taqueria Tlaxcalli,4,restaurants," Colombian, Empanadas "
+1,BRONX,La Masa,3.5,restaurants," Seafood, Italian, American (Traditional) "
+1,BRONX,The Original Crab Shanty Restaurant,4,restaurants," American (Traditional), Pubs "
+1,BRONX,Bronx Alehouse,4,restaurants," Sports Bars, American (Traditional) "
+1,BRONX,The Bronx Public,4,restaurants, Seafood 
+1,BRONX,Johnny’s Reef Restaurant,4.5,restaurants," American (Traditional), Speakeasies "
+1,BRONX,Beatstro,4.5,restaurants," American (Traditional), Wine Bars "
+1,BRONX,The Hill Bistro,4,restaurants," American (New), Latin American, Dominican "
+1,BRONX,Leche Y Miel Restaurant,4.5,restaurants," American (New), Seafood, Breakfast & Brunch "
+1,BRONX,The Waterfront NYC,4,restaurants, Vietnamese 
+1,BRONX,Com Tam Ninh Kieu,4,restaurants," Italian, Pizza "
+1,BRONX,Trattoria Zero Otto Nove,3.5,restaurants, Seafood 
+1,BRONX,City Island Lobster House,4,restaurants, Diners 
+1,BRONX,Jimmy’s Grand Cafe,4,restaurants," Caribbean, Seafood, Bars "
+1,BRONX,Fish N’ Ting,4.5,restaurants," American (New), Gastropubs, Burgers "
+1,BRONX,Archie’s Tap & Table,4,restaurants," Bars, American (Traditional), Salad "
+1,BRONX,Charlie’s Bar & Kitchen,4,restaurants, American (Traditional) 
+1,BRONX,Landin Mac & Cheese,4,restaurants, Italian 
+1,BRONX,Patricia’s,4,restaurants, Italian 
+1,BRONX,Dominick’s Restaurant,4.5,restaurants, Diners 
+1,BRONX,George’s Diner & Cafe,4,restaurants, Dominican 
+1,BRONX,Ajo Y Oregano,4.5,restaurants," Greek, Seafood, Mediterranean "
+1,BRONX,SOFRA - Traditional Greek & Albanian cuisine,4.5,restaurants, Burgers 
+1,BRONX,Bronx Burger Bistro,4,restaurants," Seafood, Steakhouses, Caterers "
+1,BRONX,Arties Steak & Seafood,4.5,restaurants," Coffee & Tea, Cafes "
+1,BRONX,The Boogie Down Grind Café,4,restaurants, American (New) 
+1,BRONX,Hudson Garden Grill,4.5,restaurants," Italian, Pizza, Desserts "
+1,BRONX,Antonio’s Trattoria,4,restaurants, Latin American 
+1,BRONX,Travesias,4,restaurants," Cuban, Latin American "
+1,BRONX,Havana Cafe,4.5,restaurants, Mexican 
+1,BRONX,Taqueria Tlaxcalli,4,restaurants," Colombian, Empanadas "
+1,BRONX,La Masa,3.5,restaurants," Seafood, Italian, American (Traditional) "
+1,BRONX,The Original Crab Shanty Restaurant,4,restaurants," American (Traditional), Pubs "
+1,BRONX,Bronx Alehouse,4,restaurants," Sports Bars, American (Traditional) "
+1,BRONX,The Bronx Public,4,restaurants, Seafood 
+1,BRONX,Johnny’s Reef Restaurant,4.5,restaurants," American (Traditional), Speakeasies "
+1,BRONX,Beatstro,4.5,restaurants," American (Traditional), Wine Bars "
+1,BRONX,The Hill Bistro,4,restaurants," American (New), Latin American, Dominican "
+1,BRONX,Leche Y Miel Restaurant,4.5,restaurants," American (New), Seafood, Breakfast & Brunch "
+1,BRONX,The Waterfront NYC,4,restaurants, Vietnamese 
+1,BRONX,Com Tam Ninh Kieu,4,restaurants," Italian, Pizza "
+1,BRONX,Trattoria Zero Otto Nove,3.5,restaurants, Seafood 
+1,BRONX,City Island Lobster House,4,restaurants, Diners 
+1,BRONX,Jimmy’s Grand Cafe,4,restaurants," Caribbean, Seafood, Bars "
+1,BRONX,Fish N’ Ting,4.5,restaurants," American (New), Gastropubs, Burgers "
+1,BRONX,Archie’s Tap & Table,4,restaurants," Bars, American (Traditional), Salad "
+1,BRONX,Charlie’s Bar & Kitchen,4,restaurants, American (Traditional) 
+1,BRONX,Landin Mac & Cheese,4,restaurants, Italian 
+1,BRONX,Patricia’s,4,restaurants, Italian 
+1,BRONX,Dominick’s Restaurant,4.5,restaurants, Diners 
+1,BRONX,George’s Diner & Cafe,4,restaurants, Dominican 
+1,BRONX,Ajo Y Oregano,4.5,restaurants," Greek, Seafood, Mediterranean "
+1,BRONX,SOFRA - Traditional Greek & Albanian cuisine,4.5,restaurants, Burgers 
+1,BRONX,Bronx Burger Bistro,4,restaurants," Seafood, Steakhouses, Caterers "
+1,BRONX,Arties Steak & Seafood,4.5,restaurants," Coffee & Tea, Cafes "
+1,BRONX,The Boogie Down Grind Café,4,restaurants, American (New) 
+1,BRONX,Hudson Garden Grill,4.5,restaurants," Italian, Pizza, Desserts "
+1,BRONX,Antonio’s Trattoria,4,restaurants, Latin American 
+1,BRONX,Travesias,4,restaurants," Cuban, Latin American "
+1,BRONX,Havana Cafe,4.5,restaurants, Mexican 
+1,BRONX,Taqueria Tlaxcalli,4,restaurants," Colombian, Empanadas "
+1,BRONX,La Masa,3.5,restaurants," Seafood, Italian, American (Traditional) "
+1,BRONX,The Original Crab Shanty Restaurant,4,restaurants," American (Traditional), Pubs "
+1,BRONX,Bronx Alehouse,4,restaurants," Sports Bars, American (Traditional) "
+1,BRONX,The Bronx Public,4,restaurants, Seafood 
+1,BRONX,Johnny’s Reef Restaurant,4.5,restaurants," American (Traditional), Speakeasies "
+1,BRONX,Beatstro,4.5,restaurants," American (Traditional), Wine Bars "
+1,BRONX,The Hill Bistro,4,restaurants," American (New), Latin American, Dominican "
+1,BRONX,Leche Y Miel Restaurant,4.5,restaurants," American (New), Seafood, Breakfast & Brunch "
+1,BRONX,The Waterfront NYC,4,restaurants, Vietnamese 
+1,BRONX,Com Tam Ninh Kieu,4,restaurants," Italian, Pizza "
+1,BRONX,Trattoria Zero Otto Nove,3.5,restaurants, Seafood 
+1,BRONX,City Island Lobster House,4,restaurants, Diners 
+1,BRONX,Jimmy’s Grand Cafe,4,restaurants," Caribbean, Seafood, Bars "
+1,BRONX,Fish N’ Ting,4.5,restaurants," American (New), Gastropubs, Burgers "
+1,BRONX,Archie’s Tap & Table,4,restaurants," Bars, American (Traditional), Salad "
+1,BRONX,Charlie’s Bar & Kitchen,4,restaurants, American (Traditional) 
+1,BRONX,Landin Mac & Cheese,4,restaurants, Italian 
+1,BRONX,Patricia’s,4,restaurants, Italian 
+1,BRONX,Dominick’s Restaurant,4.5,restaurants, Diners 
+1,BRONX,George’s Diner & Cafe,4,restaurants, Dominican 
+1,BRONX,Ajo Y Oregano,4.5,restaurants," Greek, Seafood, Mediterranean "
+1,BRONX,SOFRA - Traditional Greek & Albanian cuisine,4.5,restaurants, Burgers 
+1,BRONX,Bronx Burger Bistro,4,restaurants," Seafood, Steakhouses, Caterers "
+1,BRONX,Arties Steak & Seafood,4.5,restaurants," Coffee & Tea, Cafes "
+1,BRONX,The Boogie Down Grind Café,4,restaurants, American (New) 
+1,BRONX,Hudson Garden Grill,4,Nightlife, Lounges 
+1,BRONX,Skyline Bar,4.5,Nightlife, Hookah Bars 
+1,BRONX,Lotus Lounge,5,Nightlife," American (New), Lounges "
+1,BRONX,Boca Restaurant and Lounge,3.5,Nightlife," Hookah Bars, Cocktail Bars "
+1,BRONX,Illusions Hookah & Mixology Lounge,5,Nightlife, Club Crawl 
+1,BRONX,The Garage,5,Nightlife," Bars, American (Traditional), Indian "
+1,BRONX,The Last Stop,4.5,Entertainment," Italian, Pizza, Desserts "
+1,BRONX,Plush101 lounge,4.5,Entertainment, Botanical Gardens 
+1,BRONX,Antonio’s Trattoria,4,Entertainment, Zoos 
+1,BRONX,New York Botanical Garden,4.5,Entertainment, Mexican 
+1,BRONX,Bronx Zoo,4,Entertainment," Italian, Pizza "
+1,BRONX,Taqueria Tlaxcalli,4,Entertainment," American (Traditional), Pubs "
+1,BRONX,Trattoria Zero Otto Nove,4,Entertainment," Cuban, Latin American "
+1,BRONX,Bronx Alehouse,4,Entertainment, Latin American 
+1,BRONX,Havana Cafe,4.5,Entertainment," Delis, Cheese Shops "
+1,BRONX,Travesias,4,Entertainment," Colombian, Empanadas "
+1,BRONX,Casa Della Mozzarella Italian Deli,4.5,Entertainment," Italian, Pizza, Desserts "
+1,BRONX,La Masa,4.5,Entertainment, Botanical Gardens 
+1,BRONX,Antonio’s Trattoria,4,Entertainment, Zoos 
+1,BRONX,New York Botanical Garden,4.5,Entertainment, Mexican 
+1,BRONX,Bronx Zoo,4,Entertainment," Italian, Pizza "
+1,BRONX,Taqueria Tlaxcalli,4,Entertainment," American (Traditional), Pubs "
+1,BRONX,Trattoria Zero Otto Nove,4,Entertainment," Cuban, Latin American "
+1,BRONX,Bronx Alehouse,4,Entertainment, Latin American 
+1,BRONX,Havana Cafe,4.5,Entertainment," Delis, Cheese Shops "
+1,BRONX,Travesias,4,Entertainment," Colombian, Empanadas "
+1,BRONX,Casa Della Mozzarella Italian Deli,4.5,Entertainment," Italian, Pizza, Desserts "
+1,BRONX,La Masa,4.5,Entertainment, Botanical Gardens 
+1,BRONX,Antonio’s Trattoria,4,Entertainment, Zoos 
+1,BRONX,New York Botanical Garden,4.5,Entertainment, Mexican 
+1,BRONX,Bronx Zoo,4,Entertainment," Italian, Pizza "
+1,BRONX,Taqueria Tlaxcalli,4,Entertainment," American (Traditional), Pubs "
+1,BRONX,Trattoria Zero Otto Nove,4,Entertainment," Cuban, Latin American "
+1,BRONX,Bronx Alehouse,4,Entertainment, Latin American 
+1,BRONX,Havana Cafe,4.5,Entertainment," Delis, Cheese Shops "
+1,BRONX,Travesias,4,Entertainment," Colombian, Empanadas "
+1,BRONX,Casa Della Mozzarella Italian Deli,4.5,Entertainment," Italian, Pizza, Desserts "
+1,BRONX,La Masa,4.5,Entertainment, Botanical Gardens 
+1,BRONX,Antonio’s Trattoria,4,Entertainment, Zoos 
+1,BRONX,New York Botanical Garden,4.5,Entertainment, Mexican 
+1,BRONX,Bronx Zoo,4,Entertainment," Italian, Pizza "
+1,BRONX,Taqueria Tlaxcalli,4,Entertainment," American (Traditional), Pubs "
+1,BRONX,Trattoria Zero Otto Nove,4,Entertainment," Cuban, Latin American "
+1,BRONX,Bronx Alehouse,4,Entertainment, Latin American 
+1,BRONX,Havana Cafe,4.5,Entertainment," Delis, Cheese Shops "
+1,BRONX,Travesias,4,Entertainment," Colombian, Empanadas "
+1,BRONX,Casa Della Mozzarella Italian Deli,4.5,Entertainment," Italian, Pizza, Desserts "
+1,BRONX,La Masa,4.5,Entertainment, Botanical Gardens 
+1,BRONX,Antonio’s Trattoria,4,Entertainment, Zoos 
+1,BRONX,New York Botanical Garden,4.5,Entertainment, Mexican 
+1,BRONX,Bronx Zoo,4,Entertainment," Italian, Pizza "
+1,BRONX,Taqueria Tlaxcalli,4,Entertainment," American (Traditional), Pubs "
+1,BRONX,Trattoria Zero Otto Nove,4,Entertainment," Cuban, Latin American "
+1,BRONX,Bronx Alehouse,4,Entertainment, Latin American 
+1,BRONX,Havana Cafe,4.5,Entertainment," Delis, Cheese Shops "
+1,BRONX,Travesias,4,Entertainment," Colombian, Empanadas "
+1,BRONX,Casa Della Mozzarella Italian Deli,4.5,Entertainment," Italian, Pizza, Desserts "
+1,BRONX,La Masa,4.5,Entertainment, Botanical Gardens 
+1,BRONX,Antonio’s Trattoria,4,Entertainment, Zoos 
+1,BRONX,New York Botanical Garden,4.5,Entertainment, Mexican 
+1,BRONX,Bronx Zoo,4,Entertainment," Italian, Pizza "
+1,BRONX,Taqueria Tlaxcalli,4,Entertainment," American (Traditional), Pubs "
+1,BRONX,Trattoria Zero Otto Nove,4,Entertainment," Cuban, Latin American "
+1,BRONX,Bronx Alehouse,4,Entertainment, Latin American 
+1,BRONX,Havana Cafe,4.5,Entertainment," Delis, Cheese Shops "
+1,BRONX,Travesias,4,Entertainment," Colombian, Empanadas "
+1,BRONX,Casa Della Mozzarella Italian Deli,4.5,Entertainment," Italian, Pizza, Desserts "
+1,BRONX,La Masa,4.5,Entertainment, Botanical Gardens 
+1,BRONX,Antonio’s Trattoria,4,Entertainment, Zoos 
+1,BRONX,New York Botanical Garden,4.5,Entertainment, Mexican 
+1,BRONX,Bronx Zoo,4,Entertainment," Italian, Pizza "
+1,BRONX,Taqueria Tlaxcalli,4,Entertainment," American (Traditional), Pubs "
+1,BRONX,Trattoria Zero Otto Nove,4,Entertainment," Cuban, Latin American "
+1,BRONX,Bronx Alehouse,4,Entertainment, Latin American 
+1,BRONX,Havana Cafe,4.5,Entertainment," Delis, Cheese Shops "
+1,BRONX,Travesias,4,Entertainment," Colombian, Empanadas "
+1,BRONX,Casa Della Mozzarella Italian Deli,4.5,Entertainment," Italian, Pizza, Desserts "
+1,BRONX,La Masa,4.5,Entertainment, Botanical Gardens 
+1,BRONX,Antonio’s Trattoria,4,Entertainment, Zoos 
+1,BRONX,New York Botanical Garden,4.5,Entertainment, Mexican 
+1,BRONX,Bronx Zoo,4,Entertainment," Italian, Pizza "
+1,BRONX,Taqueria Tlaxcalli,4,Entertainment," American (Traditional), Pubs "
+1,BRONX,Trattoria Zero Otto Nove,4,Entertainment," Cuban, Latin American "
+1,BRONX,Bronx Alehouse,4,Entertainment, Latin American 
+1,BRONX,Havana Cafe,4.5,Entertainment," Delis, Cheese Shops "
+1,BRONX,Travesias,4,Entertainment," Colombian, Empanadas "
+2,BROOKLYN,Los Tacos No.1,4,restaurants," American (Traditional), Gastropubs "
+2,BROOKLYN,Burger & Lobster,4.5,restaurants," Bars, Breakfast & Brunch, Sicilian "
+2,BROOKLYN,The High Line,5,restaurants," Turkish, Mediterranean "
+2,BROOKLYN,Uglyduckling,5,restaurants," American (New), Beer Bar, Wine Bars "
+2,BROOKLYN,Concrete,4,restaurants," American (New), Breakfast & Brunch "
+2,BROOKLYN,Tava Turkish and Mediterranean,4.5,restaurants," Korean, Bars "
+2,BROOKLYN,Bernie’s,4.5,restaurants," Italian, Gluten-Free, Salad "
+2,BROOKLYN,Buttermilk Channel,4.5,restaurants, Pizza 
+2,BROOKLYN,Silver Factory,4,restaurants, Steakhouses 
+2,BROOKLYN,Mariella,4,restaurants," Coffee & Tea, Desserts, Breakfast & Brunch "
+2,BROOKLYN,Juliana’s Pizza,4,restaurants," American (New), Cocktail Bars "
+2,BROOKLYN,Peter Luger,4.5,restaurants," American (New), Bars, Seafood "
+2,BROOKLYN,Milk & Honey Cafe,4,restaurants, Seafood 
+2,BROOKLYN,Bijan’s,4.5,restaurants," Vegan, Vegetarian "
+2,BROOKLYN,Baron’s,4,restaurants," Cajun/Creole, Barbeque, Soul Food "
+2,BROOKLYN,Red Hook Lobster Pound,4,restaurants," French, Cocktail Bars, Seafood "
+2,BROOKLYN,Greedi Vegan,4,restaurants," Vietnamese, Gastropubs, Cocktail Bars "
+2,BROOKLYN,Soco,4.5,restaurants," American (Traditional), Comfort Food "
+2,BROOKLYN,Mominette,4.5,restaurants," American (New), French, Bars "
+2,BROOKLYN,Bricolage,4.5,restaurants," Mediterranean, Turkish, Seafood "
+2,BROOKLYN,The Brooklyn Tree,4,restaurants, Shanghainese 
+2,BROOKLYN,Gentleman Farmer - Fort Greene,4,restaurants," Vietnamese, Coffee & Tea, Salad "
+2,BROOKLYN,Seed,4,restaurants," Southern, American (Traditional), Bars "
+2,BROOKLYN,Yaso Tangbao,4,restaurants," Barbeque, Bars, American (Traditional) "
+2,BROOKLYN,5ive Spice,4,restaurants," Southern, Breakfast & Brunch, American (Traditional) "
+2,BROOKLYN,Peaches HotHouse,4,restaurants," Breakfast & Brunch, Mediterranean, Beer, Wine & Spirits "
+2,BROOKLYN,Mable’s Smokehouse & Banquet Hall,4.5,restaurants," Cajun/Creole, Seafood, Southern "
+2,BROOKLYN,Sweet Chick,5,restaurants," Italian, Breakfast & Brunch "
+2,BROOKLYN,Olea,4.5,restaurants, Hot Pot 
+2,BROOKLYN,Lowerline,5,restaurants, Taiwanese 
+2,BROOKLYN,Flora,4,restaurants," American (Traditional), Gastropubs "
+2,BROOKLYN,Laojie Hotpot,4.5,restaurants," Bars, Breakfast & Brunch, Sicilian "
+2,BROOKLYN,Fan Fried Rice Bar,5,restaurants," Turkish, Mediterranean "
+2,BROOKLYN,Uglyduckling,5,restaurants," American (New), Beer Bar, Wine Bars "
+2,BROOKLYN,Concrete,4,restaurants," American (New), Breakfast & Brunch "
+2,BROOKLYN,Tava Turkish and Mediterranean,4.5,restaurants," Korean, Bars "
+2,BROOKLYN,Bernie’s,4.5,restaurants," Italian, Gluten-Free, Salad "
+2,BROOKLYN,Buttermilk Channel,4.5,restaurants, Pizza 
+2,BROOKLYN,Silver Factory,4,restaurants, Steakhouses 
+2,BROOKLYN,Mariella,4,restaurants," Coffee & Tea, Desserts, Breakfast & Brunch "
+2,BROOKLYN,Juliana’s Pizza,4,restaurants," American (New), Cocktail Bars "
+2,BROOKLYN,Peter Luger,4.5,restaurants," American (New), Bars, Seafood "
+2,BROOKLYN,Milk & Honey Cafe,4,restaurants, Seafood 
+2,BROOKLYN,Bijan’s,4.5,restaurants," Vegan, Vegetarian "
+2,BROOKLYN,Baron’s,4,restaurants," Cajun/Creole, Barbeque, Soul Food "
+2,BROOKLYN,Red Hook Lobster Pound,4,restaurants," French, Cocktail Bars, Seafood "
+2,BROOKLYN,Greedi Vegan,4,restaurants," Vietnamese, Gastropubs, Cocktail Bars "
+2,BROOKLYN,Soco,4.5,restaurants," American (Traditional), Comfort Food "
+2,BROOKLYN,Mominette,4.5,restaurants," American (New), French, Bars "
+2,BROOKLYN,Bricolage,4.5,restaurants," Mediterranean, Turkish, Seafood "
+2,BROOKLYN,The Brooklyn Tree,4,restaurants, Shanghainese 
+2,BROOKLYN,Gentleman Farmer - Fort Greene,4,restaurants," Vietnamese, Coffee & Tea, Salad "
+2,BROOKLYN,Seed,4,restaurants," Southern, American (Traditional), Bars "
+2,BROOKLYN,Yaso Tangbao,4,restaurants," Barbeque, Bars, American (Traditional) "
+2,BROOKLYN,5ive Spice,4,restaurants," Southern, Breakfast & Brunch, American (Traditional) "
+2,BROOKLYN,Peaches HotHouse,4,restaurants," Breakfast & Brunch, Mediterranean, Beer, Wine & Spirits "
+2,BROOKLYN,Mable’s Smokehouse & Banquet Hall,4.5,restaurants," Cajun/Creole, Seafood, Southern "
+2,BROOKLYN,Sweet Chick,5,restaurants," Italian, Breakfast & Brunch "
+2,BROOKLYN,Olea,4.5,restaurants, Hot Pot 
+2,BROOKLYN,Lowerline,5,restaurants, Taiwanese 
+2,BROOKLYN,Flora,4,restaurants," American (Traditional), Gastropubs "
+2,BROOKLYN,Laojie Hotpot,4.5,restaurants," Bars, Breakfast & Brunch, Sicilian "
+2,BROOKLYN,Fan Fried Rice Bar,5,restaurants," Turkish, Mediterranean "
+2,BROOKLYN,Uglyduckling,5,restaurants," American (New), Beer Bar, Wine Bars "
+2,BROOKLYN,Concrete,4,restaurants," American (New), Breakfast & Brunch "
+2,BROOKLYN,Tava Turkish and Mediterranean,4.5,restaurants," Korean, Bars "
+2,BROOKLYN,Bernie’s,4.5,restaurants," Italian, Gluten-Free, Salad "
+2,BROOKLYN,Buttermilk Channel,4.5,restaurants, Pizza 
+2,BROOKLYN,Silver Factory,4,restaurants, Steakhouses 
+2,BROOKLYN,Mariella,4,restaurants," Coffee & Tea, Desserts, Breakfast & Brunch "
+2,BROOKLYN,Juliana’s Pizza,4,restaurants," American (New), Cocktail Bars "
+2,BROOKLYN,Peter Luger,4.5,restaurants," American (New), Bars, Seafood "
+2,BROOKLYN,Milk & Honey Cafe,4,restaurants, Seafood 
+2,BROOKLYN,Bijan’s,4.5,restaurants," Vegan, Vegetarian "
+2,BROOKLYN,Baron’s,4,restaurants," Cajun/Creole, Barbeque, Soul Food "
+2,BROOKLYN,Red Hook Lobster Pound,4,restaurants," French, Cocktail Bars, Seafood "
+2,BROOKLYN,Greedi Vegan,4,restaurants," Vietnamese, Gastropubs, Cocktail Bars "
+2,BROOKLYN,Soco,4.5,restaurants," American (Traditional), Comfort Food "
+2,BROOKLYN,Mominette,4.5,restaurants," American (New), French, Bars "
+2,BROOKLYN,Bricolage,4.5,restaurants," Mediterranean, Turkish, Seafood "
+2,BROOKLYN,The Brooklyn Tree,4,restaurants, Shanghainese 
+2,BROOKLYN,Gentleman Farmer - Fort Greene,4,restaurants," Vietnamese, Coffee & Tea, Salad "
+2,BROOKLYN,Seed,4,restaurants," Southern, American (Traditional), Bars "
+2,BROOKLYN,Yaso Tangbao,4,restaurants," Barbeque, Bars, American (Traditional) "
+2,BROOKLYN,5ive Spice,4,restaurants," Southern, Breakfast & Brunch, American (Traditional) "
+2,BROOKLYN,Peaches HotHouse,4,restaurants," Breakfast & Brunch, Mediterranean, Beer, Wine & Spirits "
+2,BROOKLYN,Mable’s Smokehouse & Banquet Hall,4.5,restaurants," Cajun/Creole, Seafood, Southern "
+2,BROOKLYN,Sweet Chick,5,restaurants," Italian, Breakfast & Brunch "
+2,BROOKLYN,Olea,4.5,restaurants, Hot Pot 
+2,BROOKLYN,Lowerline,5,restaurants, Taiwanese 
+2,BROOKLYN,Flora,4,restaurants," American (Traditional), Gastropubs "
+2,BROOKLYN,Laojie Hotpot,4.5,restaurants," Bars, Breakfast & Brunch, Sicilian "
+2,BROOKLYN,Fan Fried Rice Bar,5,restaurants," Turkish, Mediterranean "
+2,BROOKLYN,Uglyduckling,5,restaurants," American (New), Beer Bar, Wine Bars "
+2,BROOKLYN,Concrete,4,restaurants," American (New), Breakfast & Brunch "
+2,BROOKLYN,Tava Turkish and Mediterranean,4.5,restaurants," Korean, Bars "
+2,BROOKLYN,Bernie’s,4.5,restaurants," Italian, Gluten-Free, Salad "
+2,BROOKLYN,Buttermilk Channel,4.5,restaurants, Pizza 
+2,BROOKLYN,Silver Factory,4,restaurants, Steakhouses 
+2,BROOKLYN,Mariella,4,restaurants," Coffee & Tea, Desserts, Breakfast & Brunch "
+2,BROOKLYN,Juliana’s Pizza,4,restaurants," American (New), Cocktail Bars "
+2,BROOKLYN,Peter Luger,4.5,restaurants," American (New), Bars, Seafood "
+2,BROOKLYN,Milk & Honey Cafe,4,restaurants, Seafood 
+2,BROOKLYN,Bijan’s,4.5,restaurants," Vegan, Vegetarian "
+2,BROOKLYN,Baron’s,4,restaurants," Cajun/Creole, Barbeque, Soul Food "
+2,BROOKLYN,Red Hook Lobster Pound,4,restaurants," French, Cocktail Bars, Seafood "
+2,BROOKLYN,Greedi Vegan,4,restaurants," Vietnamese, Gastropubs, Cocktail Bars "
+2,BROOKLYN,Soco,4.5,restaurants," American (Traditional), Comfort Food "
+2,BROOKLYN,Mominette,4.5,restaurants," American (New), French, Bars "
+2,BROOKLYN,Bricolage,4.5,restaurants," Mediterranean, Turkish, Seafood "
+2,BROOKLYN,The Brooklyn Tree,4,restaurants, Shanghainese 
+2,BROOKLYN,Gentleman Farmer - Fort Greene,4,restaurants," Vietnamese, Coffee & Tea, Salad "
+2,BROOKLYN,Seed,4,restaurants," Southern, American (Traditional), Bars "
+2,BROOKLYN,Yaso Tangbao,4,restaurants," Barbeque, Bars, American (Traditional) "
+2,BROOKLYN,5ive Spice,4,restaurants," Southern, Breakfast & Brunch, American (Traditional) "
+2,BROOKLYN,Peaches HotHouse,4,restaurants," Breakfast & Brunch, Mediterranean, Beer, Wine & Spirits "
+2,BROOKLYN,Mable’s Smokehouse & Banquet Hall,4.5,restaurants," Cajun/Creole, Seafood, Southern "
+2,BROOKLYN,Sweet Chick,5,restaurants," Italian, Breakfast & Brunch "
+2,BROOKLYN,Olea,4.5,restaurants, Hot Pot 
+2,BROOKLYN,Lowerline,5,restaurants, Taiwanese 
+2,BROOKLYN,Flora,4,restaurants," American (Traditional), Gastropubs "
+2,BROOKLYN,Laojie Hotpot,4.5,restaurants," Bars, Breakfast & Brunch, Sicilian "
+2,BROOKLYN,Fan Fried Rice Bar,5,restaurants," Turkish, Mediterranean "
+2,BROOKLYN,Uglyduckling,5,restaurants," American (New), Beer Bar, Wine Bars "
+2,BROOKLYN,Concrete,4,restaurants," American (New), Breakfast & Brunch "
+2,BROOKLYN,Tava Turkish and Mediterranean,4.5,restaurants," Korean, Bars "
+2,BROOKLYN,Bernie’s,4.5,restaurants," Italian, Gluten-Free, Salad "
+2,BROOKLYN,Buttermilk Channel,4.5,restaurants, Pizza 
+2,BROOKLYN,Silver Factory,4,restaurants, Steakhouses 
+2,BROOKLYN,Mariella,4,restaurants," Coffee & Tea, Desserts, Breakfast & Brunch "
+2,BROOKLYN,Juliana’s Pizza,4,restaurants," American (New), Cocktail Bars "
+2,BROOKLYN,Peter Luger,4.5,restaurants," American (New), Bars, Seafood "
+2,BROOKLYN,Milk & Honey Cafe,4,restaurants, Seafood 
+2,BROOKLYN,Bijan’s,4.5,restaurants," Vegan, Vegetarian "
+2,BROOKLYN,Baron’s,4,restaurants," Cajun/Creole, Barbeque, Soul Food "
+2,BROOKLYN,Red Hook Lobster Pound,4,restaurants," French, Cocktail Bars, Seafood "
+2,BROOKLYN,Greedi Vegan,4,restaurants," Vietnamese, Gastropubs, Cocktail Bars "
+2,BROOKLYN,Soco,4.5,restaurants," American (Traditional), Comfort Food "
+2,BROOKLYN,Mominette,4.5,restaurants," American (New), French, Bars "
+2,BROOKLYN,Bricolage,4.5,restaurants," Mediterranean, Turkish, Seafood "
+2,BROOKLYN,The Brooklyn Tree,4,restaurants, Shanghainese 
+2,BROOKLYN,Gentleman Farmer - Fort Greene,4,restaurants," Vietnamese, Coffee & Tea, Salad "
+2,BROOKLYN,Seed,4,restaurants," Southern, American (Traditional), Bars "
+2,BROOKLYN,Yaso Tangbao,4,restaurants," Barbeque, Bars, American (Traditional) "
+2,BROOKLYN,5ive Spice,4,restaurants," Southern, Breakfast & Brunch, American (Traditional) "
+2,BROOKLYN,Peaches HotHouse,4,restaurants," Breakfast & Brunch, Mediterranean, Beer, Wine & Spirits "
+2,BROOKLYN,Mable’s Smokehouse & Banquet Hall,4.5,restaurants," Cajun/Creole, Seafood, Southern "
+2,BROOKLYN,Sweet Chick,5,restaurants," Italian, Breakfast & Brunch "
+2,BROOKLYN,Olea,4.5,restaurants, Hot Pot 
+2,BROOKLYN,Lowerline,5,restaurants, Taiwanese 
+2,BROOKLYN,Flora,4,restaurants," American (Traditional), Gastropubs "
+2,BROOKLYN,Laojie Hotpot,4.5,restaurants," Bars, Breakfast & Brunch, Sicilian "
+2,BROOKLYN,Fan Fried Rice Bar,5,restaurants," Turkish, Mediterranean "
+2,BROOKLYN,Uglyduckling,5,restaurants," American (New), Beer Bar, Wine Bars "
+2,BROOKLYN,Concrete,4,restaurants," American (New), Breakfast & Brunch "
+2,BROOKLYN,Tava Turkish and Mediterranean,4.5,restaurants," Korean, Bars "
+2,BROOKLYN,Bernie’s,4.5,restaurants," Italian, Gluten-Free, Salad "
+2,BROOKLYN,Buttermilk Channel,4.5,restaurants, Pizza 
+2,BROOKLYN,Silver Factory,4,restaurants, Steakhouses 
+2,BROOKLYN,Mariella,4,restaurants," Coffee & Tea, Desserts, Breakfast & Brunch "
+2,BROOKLYN,Juliana’s Pizza,4,restaurants," American (New), Cocktail Bars "
+2,BROOKLYN,Peter Luger,4.5,restaurants," American (New), Bars, Seafood "
+2,BROOKLYN,Milk & Honey Cafe,4,restaurants, Seafood 
+2,BROOKLYN,Bijan’s,4.5,restaurants," Vegan, Vegetarian "
+2,BROOKLYN,Baron’s,4,restaurants," Cajun/Creole, Barbeque, Soul Food "
+2,BROOKLYN,Red Hook Lobster Pound,4,restaurants," French, Cocktail Bars, Seafood "
+2,BROOKLYN,Greedi Vegan,4,restaurants," Vietnamese, Gastropubs, Cocktail Bars "
+2,BROOKLYN,Soco,4.5,restaurants," American (Traditional), Comfort Food "
+2,BROOKLYN,Mominette,4.5,restaurants," American (New), French, Bars "
+2,BROOKLYN,Bricolage,4.5,restaurants," Mediterranean, Turkish, Seafood "
+2,BROOKLYN,The Brooklyn Tree,4,restaurants, Shanghainese 
+2,BROOKLYN,Gentleman Farmer - Fort Greene,4,restaurants," Vietnamese, Coffee & Tea, Salad "
+2,BROOKLYN,Seed,4,restaurants," Southern, American (Traditional), Bars "
+2,BROOKLYN,Yaso Tangbao,4,restaurants," Barbeque, Bars, American (Traditional) "
+2,BROOKLYN,5ive Spice,4,restaurants," Southern, Breakfast & Brunch, American (Traditional) "
+2,BROOKLYN,Peaches HotHouse,4,restaurants," Breakfast & Brunch, Mediterranean, Beer, Wine & Spirits "
+2,BROOKLYN,Mable’s Smokehouse & Banquet Hall,4.5,restaurants," Cajun/Creole, Seafood, Southern "
+2,BROOKLYN,Sweet Chick,5,restaurants," Italian, Breakfast & Brunch "
+2,BROOKLYN,Olea,4.5,restaurants, Hot Pot 
+2,BROOKLYN,Lowerline,5,restaurants, Taiwanese 
+2,BROOKLYN,Flora,4,restaurants," American (Traditional), Gastropubs "
+2,BROOKLYN,Laojie Hotpot,4.5,restaurants," Bars, Breakfast & Brunch, Sicilian "
+2,BROOKLYN,Fan Fried Rice Bar,5,restaurants," Turkish, Mediterranean "
+2,BROOKLYN,Uglyduckling,5,restaurants," American (New), Beer Bar, Wine Bars "
+2,BROOKLYN,Concrete,4,restaurants," American (New), Breakfast & Brunch "
+2,BROOKLYN,Tava Turkish and Mediterranean,4.5,restaurants," Korean, Bars "
+2,BROOKLYN,Bernie’s,4.5,restaurants," Italian, Gluten-Free, Salad "
+2,BROOKLYN,Buttermilk Channel,4.5,restaurants, Pizza 
+2,BROOKLYN,Silver Factory,4,restaurants, Steakhouses 
+2,BROOKLYN,Mariella,4,restaurants," Coffee & Tea, Desserts, Breakfast & Brunch "
+2,BROOKLYN,Juliana’s Pizza,4,restaurants," American (New), Cocktail Bars "
+2,BROOKLYN,Peter Luger,4.5,restaurants," American (New), Bars, Seafood "
+2,BROOKLYN,Milk & Honey Cafe,4,restaurants, Seafood 
+2,BROOKLYN,Bijan’s,4.5,restaurants," Vegan, Vegetarian "
+2,BROOKLYN,Baron’s,4,restaurants," Cajun/Creole, Barbeque, Soul Food "
+2,BROOKLYN,Red Hook Lobster Pound,4,restaurants," French, Cocktail Bars, Seafood "
+2,BROOKLYN,Greedi Vegan,4,restaurants," Vietnamese, Gastropubs, Cocktail Bars "
+2,BROOKLYN,Soco,4.5,restaurants," American (Traditional), Comfort Food "
+2,BROOKLYN,Mominette,4.5,restaurants," American (New), French, Bars "
+2,BROOKLYN,Bricolage,4.5,restaurants," Mediterranean, Turkish, Seafood "
+2,BROOKLYN,The Brooklyn Tree,4,restaurants, Shanghainese 
+2,BROOKLYN,Gentleman Farmer - Fort Greene,4,restaurants," Vietnamese, Coffee & Tea, Salad "
+2,BROOKLYN,Seed,4,restaurants," Southern, American (Traditional), Bars "
+2,BROOKLYN,Yaso Tangbao,4,restaurants," Barbeque, Bars, American (Traditional) "
+2,BROOKLYN,5ive Spice,4,restaurants," Southern, Breakfast & Brunch, American (Traditional) "
+2,BROOKLYN,Peaches HotHouse,4,restaurants," Breakfast & Brunch, Mediterranean, Beer, Wine & Spirits "
+2,BROOKLYN,Mable’s Smokehouse & Banquet Hall,4.5,restaurants," Cajun/Creole, Seafood, Southern "
+2,BROOKLYN,Sweet Chick,5,restaurants," Italian, Breakfast & Brunch "
+2,BROOKLYN,Olea,4.5,restaurants, Hot Pot 
+2,BROOKLYN,Lowerline,5,restaurants, Taiwanese 
+2,BROOKLYN,Flora,4,restaurants," American (Traditional), Gastropubs "
+2,BROOKLYN,Laojie Hotpot,4.5,restaurants," Bars, Breakfast & Brunch, Sicilian "
+2,BROOKLYN,Fan Fried Rice Bar,5,restaurants," Turkish, Mediterranean "
+2,BROOKLYN,Uglyduckling,5,restaurants," American (New), Beer Bar, Wine Bars "
+2,BROOKLYN,Concrete,4,restaurants," American (New), Breakfast & Brunch "
+2,BROOKLYN,Tava Turkish and Mediterranean,4.5,restaurants," Korean, Bars "
+2,BROOKLYN,Bernie’s,4.5,restaurants," Italian, Gluten-Free, Salad "
+2,BROOKLYN,Buttermilk Channel,4.5,restaurants, Pizza 
+2,BROOKLYN,Silver Factory,4,restaurants, Steakhouses 
+2,BROOKLYN,Mariella,4,restaurants," Coffee & Tea, Desserts, Breakfast & Brunch "
+2,BROOKLYN,Juliana’s Pizza,4,restaurants," American (New), Cocktail Bars "
+2,BROOKLYN,Peter Luger,4.5,restaurants," American (New), Bars, Seafood "
+2,BROOKLYN,Milk & Honey Cafe,4,restaurants, Seafood 
+2,BROOKLYN,Bijan’s,4.5,restaurants," Vegan, Vegetarian "
+2,BROOKLYN,Baron’s,4,restaurants," Cajun/Creole, Barbeque, Soul Food "
+2,BROOKLYN,Red Hook Lobster Pound,4,restaurants," French, Cocktail Bars, Seafood "
+2,BROOKLYN,Greedi Vegan,4,restaurants," Vietnamese, Gastropubs, Cocktail Bars "
+2,BROOKLYN,Soco,4.5,restaurants," American (Traditional), Comfort Food "
+2,BROOKLYN,Mominette,4.5,restaurants," American (New), French, Bars "
+2,BROOKLYN,Bricolage,4.5,restaurants," Mediterranean, Turkish, Seafood "
+2,BROOKLYN,The Brooklyn Tree,4,restaurants, Shanghainese 
+2,BROOKLYN,Gentleman Farmer - Fort Greene,4,restaurants," Vietnamese, Coffee & Tea, Salad "
+2,BROOKLYN,Seed,4,restaurants," Southern, American (Traditional), Bars "
+2,BROOKLYN,Yaso Tangbao,4,restaurants," Barbeque, Bars, American (Traditional) "
+2,BROOKLYN,5ive Spice,4,restaurants," Southern, Breakfast & Brunch, American (Traditional) "
+2,BROOKLYN,Peaches HotHouse,4,restaurants," Breakfast & Brunch, Mediterranean, Beer, Wine & Spirits "
+2,BROOKLYN,Mable’s Smokehouse & Banquet Hall,4.5,restaurants," Cajun/Creole, Seafood, Southern "
+2,BROOKLYN,Sweet Chick,5,restaurants," Italian, Breakfast & Brunch "
+2,BROOKLYN,Olea,4.5,restaurants, Hot Pot 
+2,BROOKLYN,Lowerline,5,restaurants, Taiwanese 
+2,BROOKLYN,Flora,4,Nightlife, Lounges 
+2,BROOKLYN,Laojie Hotpot,4,Nightlife," Lounges, Cocktail Bars "
+2,BROOKLYN,Fan Fried Rice Bar,4.5,Nightlife, Bars 
+2,BROOKLYN,Brooklyn Vibes Bar & Lounge,4.5,Nightlife," Sushi Bars, Lounges "
+2,BROOKLYN,Rooftop 93,4,Nightlife," Pubs, Music Venues "
+2,BROOKLYN,Our Wicked Lady,4.5,Nightlife," Caribbean, Modern European, Lounges "
+2,BROOKLYN,Minami Lounge,4,Nightlife, Dive Bars 
+2,BROOKLYN,Union Hall,5,Nightlife," Dance Clubs, Bars "
+2,BROOKLYN,Dkalabash,3.5,Nightlife," Bars, Music Venues "
+2,BROOKLYN,Boobie Trap,5,Nightlife, Dive Bars 
+2,BROOKLYN,101 Brooklyn,3.5,Nightlife, Dance Clubs 
+2,BROOKLYN,Friends and Lovers,5,Nightlife," Social Clubs, Lounges "
+2,BROOKLYN,Luv Story Bar,5,Nightlife, Lounges 
+2,BROOKLYN,Bembe,3,Nightlife," Dance Clubs, Gay Bars "
+2,BROOKLYN,Bare Naked Bake Sale,4.5,Nightlife," Bars, American (New) "
+2,BROOKLYN,RFTP,4.5,Nightlife, Cocktail Bars 
+2,BROOKLYN,Xstasy Night Club,4.5,Nightlife, Lounges 
+2,BROOKLYN,The CopperPot,4,Nightlife," Dance Clubs, Venues & Event Spaces "
+2,BROOKLYN,The Armory,5,Nightlife," Seafood, Bars "
+2,BROOKLYN,Sev Studio Lounge,5,Nightlife, Cocktail Bars 
+2,BROOKLYN,B66 Club,4.5,Nightlife, Tiki Bars 
+2,BROOKLYN,Saint Julivert,4.5,Nightlife," Arcades, Lounges, Virtual Reality Centers "
+2,BROOKLYN,L’Wren,4.5,Nightlife, Dance Clubs 
+2,BROOKLYN,Flatbush Zombie House,4.5,Nightlife, Music Venues 
+2,BROOKLYN,YokeyPokey Virtual Reality Club,5,Nightlife," Bars, Sandwiches, Tapas/Small Plates "
+2,BROOKLYN,The Rub,3,Nightlife," Lounges, Dance Clubs "
+2,BROOKLYN,Depot 52,3.5,Nightlife," Music Venues, Bars "
+2,BROOKLYN,Mekelburg’s Domino,4.5,Nightlife," Cocktail Bars, Lounges "
+2,BROOKLYN,The Social Butterfly,4.5,Nightlife, Bars 
+2,BROOKLYN,C’mon Everybody,5,Nightlife," Performing Arts, Bars "
+2,BROOKLYN,Drink,4,Nightlife, Lounges 
+2,BROOKLYN,Bar 718,4,Nightlife," Lounges, Cocktail Bars "
+2,BROOKLYN,The Illuminati Ball,4.5,Nightlife, Bars 
+2,BROOKLYN,Brooklyn Vibes Bar & Lounge,4.5,Nightlife," Sushi Bars, Lounges "
+2,BROOKLYN,Rooftop 93,4,Nightlife," Pubs, Music Venues "
+2,BROOKLYN,Our Wicked Lady,4.5,Nightlife," Caribbean, Modern European, Lounges "
+2,BROOKLYN,Minami Lounge,4,Nightlife, Dive Bars 
+2,BROOKLYN,Union Hall,5,Nightlife," Dance Clubs, Bars "
+2,BROOKLYN,Dkalabash,3.5,Nightlife," Bars, Music Venues "
+2,BROOKLYN,Boobie Trap,5,Nightlife, Dive Bars 
+2,BROOKLYN,101 Brooklyn,3.5,Nightlife, Dance Clubs 
+2,BROOKLYN,Friends and Lovers,5,Nightlife," Social Clubs, Lounges "
+2,BROOKLYN,Luv Story Bar,5,Nightlife, Lounges 
+2,BROOKLYN,Bembe,3,Nightlife," Dance Clubs, Gay Bars "
+2,BROOKLYN,Bare Naked Bake Sale,4.5,Nightlife," Bars, American (New) "
+2,BROOKLYN,RFTP,4.5,Nightlife, Cocktail Bars 
+2,BROOKLYN,Xstasy Night Club,4.5,Nightlife, Lounges 
+2,BROOKLYN,The CopperPot,4,Nightlife," Dance Clubs, Venues & Event Spaces "
+2,BROOKLYN,The Armory,5,Nightlife," Seafood, Bars "
+2,BROOKLYN,Sev Studio Lounge,5,Nightlife, Cocktail Bars 
+2,BROOKLYN,B66 Club,4.5,Nightlife, Tiki Bars 
+2,BROOKLYN,Saint Julivert,4.5,Nightlife," Arcades, Lounges, Virtual Reality Centers "
+2,BROOKLYN,L’Wren,4.5,Nightlife, Dance Clubs 
+2,BROOKLYN,Flatbush Zombie House,4.5,Nightlife, Music Venues 
+2,BROOKLYN,YokeyPokey Virtual Reality Club,5,Nightlife," Bars, Sandwiches, Tapas/Small Plates "
+2,BROOKLYN,The Rub,3,Nightlife," Lounges, Dance Clubs "
+2,BROOKLYN,Depot 52,3.5,Nightlife," Music Venues, Bars "
+2,BROOKLYN,Mekelburg’s Domino,4.5,Nightlife," Cocktail Bars, Lounges "
+2,BROOKLYN,The Social Butterfly,4.5,Nightlife, Bars 
+2,BROOKLYN,C’mon Everybody,5,Nightlife," Performing Arts, Bars "
+2,BROOKLYN,Drink,4,Nightlife, Lounges 
+2,BROOKLYN,Bar 718,4,Nightlife," Lounges, Cocktail Bars "
+2,BROOKLYN,The Illuminati Ball,4.5,Nightlife, Bars 
+2,BROOKLYN,Brooklyn Vibes Bar & Lounge,4.5,Nightlife," Sushi Bars, Lounges "
+2,BROOKLYN,Rooftop 93,4,Nightlife," Pubs, Music Venues "
+2,BROOKLYN,Our Wicked Lady,4.5,Nightlife," Caribbean, Modern European, Lounges "
+2,BROOKLYN,Minami Lounge,4,Nightlife, Dive Bars 
+2,BROOKLYN,Union Hall,5,Nightlife," Dance Clubs, Bars "
+2,BROOKLYN,Dkalabash,3.5,Nightlife," Bars, Music Venues "
+2,BROOKLYN,Boobie Trap,5,Nightlife, Dive Bars 
+2,BROOKLYN,101 Brooklyn,3.5,Nightlife, Dance Clubs 
+2,BROOKLYN,Friends and Lovers,5,Nightlife," Social Clubs, Lounges "
+2,BROOKLYN,Luv Story Bar,5,Nightlife, Lounges 
+2,BROOKLYN,Bembe,3,Nightlife," Dance Clubs, Gay Bars "
+2,BROOKLYN,Bare Naked Bake Sale,4.5,Nightlife," Bars, American (New) "
+2,BROOKLYN,RFTP,4.5,Nightlife, Cocktail Bars 
+2,BROOKLYN,Xstasy Night Club,4.5,Nightlife, Lounges 
+2,BROOKLYN,The CopperPot,4,Nightlife," Dance Clubs, Venues & Event Spaces "
+2,BROOKLYN,The Armory,5,Nightlife," Seafood, Bars "
+2,BROOKLYN,Sev Studio Lounge,5,Nightlife, Cocktail Bars 
+2,BROOKLYN,B66 Club,4.5,Nightlife, Tiki Bars 
+2,BROOKLYN,Saint Julivert,4.5,Nightlife," Arcades, Lounges, Virtual Reality Centers "
+2,BROOKLYN,L’Wren,4.5,Nightlife, Dance Clubs 
+2,BROOKLYN,Flatbush Zombie House,4.5,Nightlife, Music Venues 
+2,BROOKLYN,YokeyPokey Virtual Reality Club,5,Nightlife," Bars, Sandwiches, Tapas/Small Plates "
+2,BROOKLYN,The Rub,3,Nightlife," Lounges, Dance Clubs "
+2,BROOKLYN,Depot 52,3.5,Nightlife," Music Venues, Bars "
+2,BROOKLYN,Mekelburg’s Domino,4.5,Nightlife," Cocktail Bars, Lounges "
+2,BROOKLYN,The Social Butterfly,4.5,Nightlife, Bars 
+2,BROOKLYN,C’mon Everybody,5,Nightlife," Performing Arts, Bars "
+2,BROOKLYN,Drink,4,Nightlife, Lounges 
+2,BROOKLYN,Bar 718,4,Nightlife," Lounges, Cocktail Bars "
+2,BROOKLYN,The Illuminati Ball,4.5,Nightlife, Bars 
+2,BROOKLYN,Brooklyn Vibes Bar & Lounge,4.5,Nightlife," Sushi Bars, Lounges "
+2,BROOKLYN,Rooftop 93,4,Nightlife," Pubs, Music Venues "
+2,BROOKLYN,Our Wicked Lady,4.5,Nightlife," Caribbean, Modern European, Lounges "
+2,BROOKLYN,Minami Lounge,4,Nightlife, Dive Bars 
+2,BROOKLYN,Union Hall,5,Nightlife," Dance Clubs, Bars "
+2,BROOKLYN,Dkalabash,3.5,Nightlife," Bars, Music Venues "
+2,BROOKLYN,Boobie Trap,5,Nightlife, Dive Bars 
+2,BROOKLYN,101 Brooklyn,3.5,Nightlife, Dance Clubs 
+2,BROOKLYN,Friends and Lovers,5,Nightlife," Social Clubs, Lounges "
+2,BROOKLYN,Luv Story Bar,5,Nightlife, Lounges 
+2,BROOKLYN,Bembe,3,Nightlife," Dance Clubs, Gay Bars "
+2,BROOKLYN,Bare Naked Bake Sale,4.5,Nightlife," Bars, American (New) "
+2,BROOKLYN,RFTP,4.5,Nightlife, Cocktail Bars 
+2,BROOKLYN,Xstasy Night Club,4.5,Nightlife, Lounges 
+2,BROOKLYN,The CopperPot,4,Nightlife," Dance Clubs, Venues & Event Spaces "
+2,BROOKLYN,The Armory,5,Nightlife," Seafood, Bars "
+2,BROOKLYN,Sev Studio Lounge,5,Nightlife, Cocktail Bars 
+2,BROOKLYN,B66 Club,4.5,Nightlife, Tiki Bars 
+2,BROOKLYN,Saint Julivert,4.5,Nightlife," Arcades, Lounges, Virtual Reality Centers "
+2,BROOKLYN,L’Wren,4.5,Nightlife, Dance Clubs 
+2,BROOKLYN,Flatbush Zombie House,4.5,Nightlife, Music Venues 
+2,BROOKLYN,YokeyPokey Virtual Reality Club,5,Nightlife," Bars, Sandwiches, Tapas/Small Plates "
+2,BROOKLYN,The Rub,3,Nightlife," Lounges, Dance Clubs "
+2,BROOKLYN,Depot 52,3.5,Nightlife," Music Venues, Bars "
+2,BROOKLYN,Mekelburg’s Domino,4.5,Nightlife," Cocktail Bars, Lounges "
+2,BROOKLYN,The Social Butterfly,4.5,Nightlife, Bars 
+2,BROOKLYN,C’mon Everybody,5,Nightlife," Performing Arts, Bars "
+2,BROOKLYN,Drink,4,Nightlife, Lounges 
+2,BROOKLYN,Bar 718,4,Nightlife," Lounges, Cocktail Bars "
+2,BROOKLYN,The Illuminati Ball,4.5,Nightlife, Bars 
+2,BROOKLYN,Brooklyn Vibes Bar & Lounge,4.5,Nightlife," Sushi Bars, Lounges "
+2,BROOKLYN,Rooftop 93,4,Nightlife," Pubs, Music Venues "
+2,BROOKLYN,Our Wicked Lady,4.5,Nightlife," Caribbean, Modern European, Lounges "
+2,BROOKLYN,Minami Lounge,4,Nightlife, Dive Bars 
+2,BROOKLYN,Union Hall,5,Nightlife," Dance Clubs, Bars "
+2,BROOKLYN,Dkalabash,3.5,Nightlife," Bars, Music Venues "
+2,BROOKLYN,Boobie Trap,5,Nightlife, Dive Bars 
+2,BROOKLYN,101 Brooklyn,3.5,Nightlife, Dance Clubs 
+2,BROOKLYN,Friends and Lovers,5,Nightlife," Social Clubs, Lounges "
+2,BROOKLYN,Luv Story Bar,5,Nightlife, Lounges 
+2,BROOKLYN,Bembe,3,Nightlife," Dance Clubs, Gay Bars "
+2,BROOKLYN,Bare Naked Bake Sale,4.5,Nightlife," Bars, American (New) "
+2,BROOKLYN,RFTP,4.5,Nightlife, Cocktail Bars 
+2,BROOKLYN,Xstasy Night Club,4.5,Nightlife, Lounges 
+2,BROOKLYN,The CopperPot,4,Nightlife," Dance Clubs, Venues & Event Spaces "
+2,BROOKLYN,The Armory,5,Nightlife," Seafood, Bars "
+2,BROOKLYN,Sev Studio Lounge,5,Nightlife, Cocktail Bars 
+2,BROOKLYN,B66 Club,4.5,Nightlife, Tiki Bars 
+2,BROOKLYN,Saint Julivert,4.5,Nightlife," Arcades, Lounges, Virtual Reality Centers "
+2,BROOKLYN,L’Wren,4.5,Nightlife, Dance Clubs 
+2,BROOKLYN,Flatbush Zombie House,4.5,Nightlife, Music Venues 
+2,BROOKLYN,YokeyPokey Virtual Reality Club,5,Nightlife," Bars, Sandwiches, Tapas/Small Plates "
+2,BROOKLYN,The Rub,3,Nightlife," Lounges, Dance Clubs "
+2,BROOKLYN,Depot 52,3.5,Nightlife," Music Venues, Bars "
+2,BROOKLYN,Mekelburg’s Domino,4.5,Nightlife," Cocktail Bars, Lounges "
+2,BROOKLYN,The Social Butterfly,4.5,Nightlife, Bars 
+2,BROOKLYN,C’mon Everybody,5,Nightlife," Performing Arts, Bars "
+2,BROOKLYN,Drink,4,Nightlife, Lounges 
+2,BROOKLYN,Bar 718,4,Nightlife," Lounges, Cocktail Bars "
+2,BROOKLYN,The Illuminati Ball,4.5,Nightlife, Bars 
+2,BROOKLYN,Brooklyn Vibes Bar & Lounge,4.5,Nightlife," Sushi Bars, Lounges "
+2,BROOKLYN,Rooftop 93,4,Nightlife," Pubs, Music Venues "
+2,BROOKLYN,Our Wicked Lady,4.5,Nightlife," Caribbean, Modern European, Lounges "
+2,BROOKLYN,Minami Lounge,4,Nightlife, Dive Bars 
+2,BROOKLYN,Union Hall,5,Nightlife," Dance Clubs, Bars "
+2,BROOKLYN,Dkalabash,3.5,Nightlife," Bars, Music Venues "
+2,BROOKLYN,Boobie Trap,5,Nightlife, Dive Bars 
+2,BROOKLYN,101 Brooklyn,3.5,Nightlife, Dance Clubs 
+2,BROOKLYN,Friends and Lovers,5,Nightlife," Social Clubs, Lounges "
+2,BROOKLYN,Luv Story Bar,5,Nightlife, Lounges 
+2,BROOKLYN,Bembe,3,Nightlife," Dance Clubs, Gay Bars "
+2,BROOKLYN,Bare Naked Bake Sale,4.5,Nightlife," Bars, American (New) "
+2,BROOKLYN,RFTP,4.5,Nightlife, Cocktail Bars 
+2,BROOKLYN,Xstasy Night Club,4.5,Nightlife, Lounges 
+2,BROOKLYN,The CopperPot,4,Nightlife," Dance Clubs, Venues & Event Spaces "
+2,BROOKLYN,The Armory,5,Nightlife," Seafood, Bars "
+2,BROOKLYN,Sev Studio Lounge,5,Nightlife, Cocktail Bars 
+2,BROOKLYN,B66 Club,4.5,Nightlife, Tiki Bars 
+2,BROOKLYN,Saint Julivert,4.5,Nightlife," Arcades, Lounges, Virtual Reality Centers "
+2,BROOKLYN,L’Wren,4.5,Nightlife, Dance Clubs 
+2,BROOKLYN,Flatbush Zombie House,4.5,Nightlife, Music Venues 
+2,BROOKLYN,YokeyPokey Virtual Reality Club,5,Nightlife," Bars, Sandwiches, Tapas/Small Plates "
+2,BROOKLYN,The Rub,3,Nightlife," Lounges, Dance Clubs "
+2,BROOKLYN,Depot 52,3.5,Nightlife," Music Venues, Bars "
+2,BROOKLYN,Mekelburg’s Domino,4.5,Nightlife," Cocktail Bars, Lounges "
+2,BROOKLYN,The Social Butterfly,4.5,Nightlife, Bars 
+2,BROOKLYN,C’mon Everybody,5,Nightlife," Performing Arts, Bars "
+2,BROOKLYN,Drink,4,Nightlife, Lounges 
+2,BROOKLYN,Bar 718,4,Nightlife," Lounges, Cocktail Bars "
+2,BROOKLYN,The Illuminati Ball,4.5,Nightlife, Bars 
+2,BROOKLYN,Brooklyn Vibes Bar & Lounge,4.5,Nightlife," Sushi Bars, Lounges "
+2,BROOKLYN,Rooftop 93,4,Nightlife," Pubs, Music Venues "
+2,BROOKLYN,Our Wicked Lady,4.5,Nightlife," Caribbean, Modern European, Lounges "
+2,BROOKLYN,Minami Lounge,4,Nightlife, Dive Bars 
+2,BROOKLYN,Union Hall,5,Nightlife," Dance Clubs, Bars "
+2,BROOKLYN,Dkalabash,3.5,Nightlife," Bars, Music Venues "
+2,BROOKLYN,Boobie Trap,5,Nightlife, Dive Bars 
+2,BROOKLYN,101 Brooklyn,3.5,Nightlife, Dance Clubs 
+2,BROOKLYN,Friends and Lovers,5,Nightlife," Social Clubs, Lounges "
+2,BROOKLYN,Luv Story Bar,5,Nightlife, Lounges 
+2,BROOKLYN,Bembe,3,Nightlife," Dance Clubs, Gay Bars "
+2,BROOKLYN,Bare Naked Bake Sale,4.5,Nightlife," Bars, American (New) "
+2,BROOKLYN,RFTP,4.5,Nightlife, Cocktail Bars 
+2,BROOKLYN,Xstasy Night Club,4.5,Nightlife, Lounges 
+2,BROOKLYN,The CopperPot,4,Nightlife," Dance Clubs, Venues & Event Spaces "
+2,BROOKLYN,The Armory,5,Nightlife," Seafood, Bars "
+2,BROOKLYN,Sev Studio Lounge,5,Nightlife, Cocktail Bars 
+2,BROOKLYN,B66 Club,4.5,Nightlife, Tiki Bars 
+2,BROOKLYN,Saint Julivert,4.5,Nightlife," Arcades, Lounges, Virtual Reality Centers "
+2,BROOKLYN,L’Wren,4.5,Nightlife, Dance Clubs 
+2,BROOKLYN,Flatbush Zombie House,4.5,Nightlife, Music Venues 
+2,BROOKLYN,YokeyPokey Virtual Reality Club,5,Nightlife," Bars, Sandwiches, Tapas/Small Plates "
+2,BROOKLYN,The Rub,3,Nightlife," Lounges, Dance Clubs "
+2,BROOKLYN,Depot 52,3.5,Nightlife," Music Venues, Bars "
+2,BROOKLYN,Mekelburg’s Domino,4.5,Nightlife," Cocktail Bars, Lounges "
+2,BROOKLYN,The Social Butterfly,4.5,Nightlife, Bars 
+2,BROOKLYN,C’mon Everybody,5,Nightlife," Performing Arts, Bars "
+2,BROOKLYN,Drink,4,Nightlife, Lounges 
+2,BROOKLYN,Bar 718,4,Nightlife," Lounges, Cocktail Bars "
+2,BROOKLYN,The Illuminati Ball,4.5,Nightlife, Bars 
+2,BROOKLYN,Brooklyn Vibes Bar & Lounge,4.5,Nightlife," Sushi Bars, Lounges "
+2,BROOKLYN,Rooftop 93,4,Nightlife," Pubs, Music Venues "
+2,BROOKLYN,Our Wicked Lady,4.5,Nightlife," Caribbean, Modern European, Lounges "
+2,BROOKLYN,Minami Lounge,4,Nightlife, Dive Bars 
+2,BROOKLYN,Union Hall,5,Nightlife," Dance Clubs, Bars "
+2,BROOKLYN,Dkalabash,3.5,Nightlife," Bars, Music Venues "
+2,BROOKLYN,Boobie Trap,5,Nightlife, Dive Bars 
+2,BROOKLYN,101 Brooklyn,3.5,Nightlife, Dance Clubs 
+2,BROOKLYN,Friends and Lovers,5,Nightlife," Social Clubs, Lounges "
+2,BROOKLYN,Luv Story Bar,5,Nightlife, Lounges 
+2,BROOKLYN,Bembe,3,Nightlife," Dance Clubs, Gay Bars "
+2,BROOKLYN,Bare Naked Bake Sale,4.5,Nightlife," Bars, American (New) "
+2,BROOKLYN,RFTP,4.5,Nightlife, Cocktail Bars 
+2,BROOKLYN,Xstasy Night Club,4.5,Nightlife, Lounges 
+2,BROOKLYN,The CopperPot,4,Nightlife," Dance Clubs, Venues & Event Spaces "
+2,BROOKLYN,The Armory,5,Nightlife," Seafood, Bars "
+2,BROOKLYN,Sev Studio Lounge,5,Nightlife, Cocktail Bars 
+2,BROOKLYN,B66 Club,4.5,Nightlife, Tiki Bars 
+2,BROOKLYN,Saint Julivert,4.5,Nightlife," Arcades, Lounges, Virtual Reality Centers "
+2,BROOKLYN,L’Wren,4.5,Nightlife, Dance Clubs 
+2,BROOKLYN,Flatbush Zombie House,4.5,Nightlife, Music Venues 
+2,BROOKLYN,YokeyPokey Virtual Reality Club,5,Nightlife," Bars, Sandwiches, Tapas/Small Plates "
+2,BROOKLYN,The Rub,3,Nightlife," Lounges, Dance Clubs "
+2,BROOKLYN,Depot 52,3.5,Nightlife," Music Venues, Bars "
+2,BROOKLYN,Mekelburg’s Domino,4.5,Nightlife," Cocktail Bars, Lounges "
+2,BROOKLYN,The Social Butterfly,4.5,Nightlife, Bars 
+2,BROOKLYN,C’mon Everybody,5,Nightlife," Performing Arts, Bars "
+2,BROOKLYN,Drink,4,Entertainment, Steakhouses 
+2,BROOKLYN,Bar 718,4.5,Entertainment," Donuts, Coffee & Tea "
+2,BROOKLYN,The Illuminati Ball,4.5,Entertainment, Landmarks & Historical Buildings 
+2,BROOKLYN,Peter Luger,4.5,Entertainment, Pizza 
+2,BROOKLYN,Dough,4,Entertainment," Pizza, Italian "
+2,BROOKLYN,Brooklyn Bridge,4.5,Entertainment," Ice Cream & Frozen Yogurt, Coffee & Tea "
+2,BROOKLYN,Juliana’s Pizza,4.5,Entertainment," American (New), Tapas/Small Plates "
+2,BROOKLYN,L & B Spumoni Gardens,4,Entertainment, Pizza 
+2,BROOKLYN,Ample Hills Creamery,4,Entertainment," Gluten-Free, Colombian "
+2,BROOKLYN,Traif,4,Entertainment," Pizza, Italian "
+2,BROOKLYN,Di Fara Pizza,4,Entertainment, Steakhouses 
+2,BROOKLYN,Bogota Latin Bistro,4.5,Entertainment," Donuts, Coffee & Tea "
+2,BROOKLYN,Roberta’s,4.5,Entertainment, Landmarks & Historical Buildings 
+2,BROOKLYN,Peter Luger,4.5,Entertainment, Pizza 
+2,BROOKLYN,Dough,4,Entertainment," Pizza, Italian "
+2,BROOKLYN,Brooklyn Bridge,4.5,Entertainment," Ice Cream & Frozen Yogurt, Coffee & Tea "
+2,BROOKLYN,Juliana’s Pizza,4.5,Entertainment," American (New), Tapas/Small Plates "
+2,BROOKLYN,L & B Spumoni Gardens,4,Entertainment, Pizza 
+2,BROOKLYN,Ample Hills Creamery,4,Entertainment," Gluten-Free, Colombian "
+2,BROOKLYN,Traif,4,Entertainment," Pizza, Italian "
+2,BROOKLYN,Di Fara Pizza,4,Entertainment, Steakhouses 
+2,BROOKLYN,Bogota Latin Bistro,4.5,Entertainment," Donuts, Coffee & Tea "
+2,BROOKLYN,Roberta’s,4.5,Entertainment, Landmarks & Historical Buildings 
+2,BROOKLYN,Peter Luger,4.5,Entertainment, Pizza 
+2,BROOKLYN,Dough,4,Entertainment," Pizza, Italian "
+2,BROOKLYN,Brooklyn Bridge,4.5,Entertainment," Ice Cream & Frozen Yogurt, Coffee & Tea "
+2,BROOKLYN,Juliana’s Pizza,4.5,Entertainment," American (New), Tapas/Small Plates "
+2,BROOKLYN,L & B Spumoni Gardens,4,Entertainment, Pizza 
+2,BROOKLYN,Ample Hills Creamery,4,Entertainment," Gluten-Free, Colombian "
+2,BROOKLYN,Traif,4,Entertainment," Pizza, Italian "
+2,BROOKLYN,Di Fara Pizza,4,Entertainment, Steakhouses 
+2,BROOKLYN,Bogota Latin Bistro,4.5,Entertainment," Donuts, Coffee & Tea "
+2,BROOKLYN,Roberta’s,4.5,Entertainment, Landmarks & Historical Buildings 
+2,BROOKLYN,Peter Luger,4.5,Entertainment, Pizza 
+2,BROOKLYN,Dough,4,Entertainment," Pizza, Italian "
+2,BROOKLYN,Brooklyn Bridge,4.5,Entertainment," Ice Cream & Frozen Yogurt, Coffee & Tea "
+2,BROOKLYN,Juliana’s Pizza,4.5,Entertainment," American (New), Tapas/Small Plates "
+2,BROOKLYN,L & B Spumoni Gardens,4,Entertainment, Pizza 
+2,BROOKLYN,Ample Hills Creamery,4,Entertainment," Gluten-Free, Colombian "
+2,BROOKLYN,Traif,4,Entertainment," Pizza, Italian "
+2,BROOKLYN,Di Fara Pizza,4,Entertainment, Steakhouses 
+2,BROOKLYN,Bogota Latin Bistro,4.5,Entertainment," Donuts, Coffee & Tea "
+2,BROOKLYN,Roberta’s,4.5,Entertainment, Landmarks & Historical Buildings 
+2,BROOKLYN,Peter Luger,4.5,Entertainment, Pizza 
+2,BROOKLYN,Dough,4,Entertainment," Pizza, Italian "
+2,BROOKLYN,Brooklyn Bridge,4.5,Entertainment," Ice Cream & Frozen Yogurt, Coffee & Tea "
+2,BROOKLYN,Juliana’s Pizza,4.5,Entertainment," American (New), Tapas/Small Plates "
+2,BROOKLYN,L & B Spumoni Gardens,4,Entertainment, Pizza 
+2,BROOKLYN,Ample Hills Creamery,4,Entertainment," Gluten-Free, Colombian "
+2,BROOKLYN,Traif,4,Entertainment," Pizza, Italian "
+2,BROOKLYN,Di Fara Pizza,4,Entertainment, Steakhouses 
+2,BROOKLYN,Bogota Latin Bistro,4.5,Entertainment," Donuts, Coffee & Tea "
+2,BROOKLYN,Roberta’s,4.5,Entertainment, Landmarks & Historical Buildings 
+2,BROOKLYN,Peter Luger,4.5,Entertainment, Pizza 
+2,BROOKLYN,Dough,4,Entertainment," Pizza, Italian "
+2,BROOKLYN,Brooklyn Bridge,4.5,Entertainment," Ice Cream & Frozen Yogurt, Coffee & Tea "
+2,BROOKLYN,Juliana’s Pizza,4.5,Entertainment," American (New), Tapas/Small Plates "
+2,BROOKLYN,L & B Spumoni Gardens,4,Entertainment, Pizza 
+2,BROOKLYN,Ample Hills Creamery,4,Entertainment," Gluten-Free, Colombian "
+2,BROOKLYN,Traif,4,Entertainment," Pizza, Italian "
+2,BROOKLYN,Di Fara Pizza,4,Entertainment, Steakhouses 
+2,BROOKLYN,Bogota Latin Bistro,4.5,Entertainment," Donuts, Coffee & Tea "
+2,BROOKLYN,Roberta’s,4.5,Entertainment, Landmarks & Historical Buildings 
+2,BROOKLYN,Peter Luger,4.5,Entertainment, Pizza 
+2,BROOKLYN,Dough,4,Entertainment," Pizza, Italian "
+2,BROOKLYN,Brooklyn Bridge,4.5,Entertainment," Ice Cream & Frozen Yogurt, Coffee & Tea "
+2,BROOKLYN,Juliana’s Pizza,4.5,Entertainment," American (New), Tapas/Small Plates "
+2,BROOKLYN,L & B Spumoni Gardens,4,Entertainment, Pizza 
+3,BROOKLYN,Ample Hills Creamery,4,Entertainment," Gluten-Free, Colombian "
+3,BROOKLYN,Traif,4,Entertainment," Pizza, Italian "
+3,BROOKLYN,Di Fara Pizza,4,Entertainment, Steakhouses 
+3,BROOKLYN,Bogota Latin Bistro,4.5,Entertainment," Donuts, Coffee & Tea "
+3,BROOKLYN,Roberta’s,4.5,Entertainment, Landmarks & Historical Buildings 
+3,BROOKLYN,Peter Luger,4.5,Entertainment, Pizza 
+3,BROOKLYN,Dough,4,Entertainment," Pizza, Italian "
+3,BROOKLYN,Brooklyn Bridge,4.5,Entertainment," Ice Cream & Frozen Yogurt, Coffee & Tea "
+3,BROOKLYN,Juliana’s Pizza,4.5,Entertainment," American (New), Tapas/Small Plates "
+3,BROOKLYN,L & B Spumoni Gardens,4,Entertainment, Pizza 
+3,BROOKLYN,Ample Hills Creamery,4,Entertainment," Gluten-Free, Colombian "
+3,BROOKLYN,Traif,4,Entertainment," Pizza, Italian "
+3,MANHATTAN,Casa Della Mozzarella Italian Deli,4,restaurants," Cocktail Bars, American (New), Speakeasies "
+3,MANHATTAN,La Masa,4,restaurants," Seafood, Burgers, American (New) "
+3,MANHATTAN,Tanner Smiths,4.5,restaurants," French, Wine Bars "
+3,MANHATTAN,Burger & Lobster,3.5,restaurants," Grocery, Italian, Meat Shops "
+3,MANHATTAN,Amélie,4,restaurants," Comfort Food, Southern, American (Traditional) "
+3,MANHATTAN,Eataly Downtown,4.5,restaurants, Ramen 
+3,MANHATTAN,Jacob’s Pickles,4,restaurants," Thai, Malaysian, Vietnamese "
+3,MANHATTAN,Teppen Ramen,4,restaurants," American (New), Cocktail Bars "
+3,MANHATTAN,LoveMama,4,restaurants," Bars, American (New) "
+3,MANHATTAN,Bea,4,restaurants," American (New), Breakfast & Brunch, Cocktail Bars "
+3,MANHATTAN,District Social,4.5,restaurants, Italian 
+3,MANHATTAN,The Smith,4,restaurants," Brazilian, Latin American, Portuguese "
+3,MANHATTAN,Angeletto Restaurant,4,restaurants, Italian 
+3,MANHATTAN,Ipanema Restaurant,4,restaurants," Sandwiches, French "
+3,MANHATTAN,Grazie,4.5,restaurants," Cocktail Bars, American (New), Breakfast & Brunch "
+3,MANHATTAN,Raclette,4.5,restaurants," Seafood, Wine Bars, Beer Bar "
+3,MANHATTAN,Dutch Freds,4,restaurants, Taiwanese 
+3,MANHATTAN,Upstate,4,restaurants," Mediterranean, Cafes, Breakfast & Brunch "
+3,MANHATTAN,886,4,restaurants," American (New), Gluten-Free, Breakfast & Brunch "
+3,MANHATTAN,Rustic Table,4.5,restaurants," Thai, Asian Fusion, Vegetarian "
+3,MANHATTAN,Friedman’s,4,restaurants," French, Salad, Breakfast & Brunch "
+3,MANHATTAN,Thai Villa,4,restaurants," Seafood, Burgers "
+3,MANHATTAN,Le Parisien,4,restaurants, Italian 
+3,MANHATTAN,Burger & Lobster,4.5,restaurants, French 
+3,MANHATTAN,Trattoria Trecolori,4.5,restaurants, American (New) 
+3,MANHATTAN,La Sirene,4,restaurants," Italian, Venues & Event Spaces, Seafood "
+3,MANHATTAN,Midwinter Kitchen,4,restaurants, Thai 
+3,MANHATTAN,Carmine’s Italian Restaurant - Times Square,4.5,restaurants," Thai, Asian Fusion "
+3,MANHATTAN,Topaz Noodle Bar,4,restaurants," American (Traditional), Cocktail Bars "
+3,MANHATTAN,Up Thai,4,restaurants," Southern, Breakfast & Brunch, American (Traditional) "
+3,MANHATTAN,Park Avenue Tavern,4,restaurants," Cocktail Bars, American (New), Speakeasies "
+3,MANHATTAN,Sweet Chick,4,restaurants," Seafood, Burgers, American (New) "
+3,MANHATTAN,Tanner Smiths,4.5,restaurants," French, Wine Bars "
+3,MANHATTAN,Burger & Lobster,3.5,restaurants," Grocery, Italian, Meat Shops "
+3,MANHATTAN,Amélie,4,restaurants," Comfort Food, Southern, American (Traditional) "
+3,MANHATTAN,Eataly Downtown,4.5,restaurants, Ramen 
+3,MANHATTAN,Jacob’s Pickles,4,restaurants," Thai, Malaysian, Vietnamese "
+3,MANHATTAN,Teppen Ramen,4,restaurants," American (New), Cocktail Bars "
+3,MANHATTAN,LoveMama,4,restaurants," Bars, American (New) "
+3,MANHATTAN,Bea,4,restaurants," American (New), Breakfast & Brunch, Cocktail Bars "
+3,MANHATTAN,District Social,4.5,restaurants, Italian 
+3,MANHATTAN,The Smith,4,restaurants," Brazilian, Latin American, Portuguese "
+3,MANHATTAN,Angeletto Restaurant,4,restaurants, Italian 
+3,MANHATTAN,Ipanema Restaurant,4,restaurants," Sandwiches, French "
+3,MANHATTAN,Grazie,4.5,restaurants," Cocktail Bars, American (New), Breakfast & Brunch "
+3,MANHATTAN,Raclette,4.5,restaurants," Seafood, Wine Bars, Beer Bar "
+3,MANHATTAN,Dutch Freds,4,restaurants, Taiwanese 
+3,MANHATTAN,Upstate,4,restaurants," Mediterranean, Cafes, Breakfast & Brunch "
+3,MANHATTAN,886,4,restaurants," American (New), Gluten-Free, Breakfast & Brunch "
+3,MANHATTAN,Rustic Table,4.5,restaurants," Thai, Asian Fusion, Vegetarian "
+3,MANHATTAN,Friedman’s,4,restaurants," French, Salad, Breakfast & Brunch "
+3,MANHATTAN,Thai Villa,4,restaurants," Seafood, Burgers "
+3,MANHATTAN,Le Parisien,4,restaurants, Italian 
+3,MANHATTAN,Burger & Lobster,4.5,restaurants, French 
+3,MANHATTAN,Trattoria Trecolori,4.5,restaurants, American (New) 
+3,MANHATTAN,La Sirene,4,restaurants," Italian, Venues & Event Spaces, Seafood "
+3,MANHATTAN,Midwinter Kitchen,4,restaurants, Thai 
+3,MANHATTAN,Carmine’s Italian Restaurant - Times Square,4.5,restaurants," Thai, Asian Fusion "
+3,MANHATTAN,Topaz Noodle Bar,4,restaurants," American (Traditional), Cocktail Bars "
+3,MANHATTAN,Up Thai,4,restaurants," Southern, Breakfast & Brunch, American (Traditional) "
+3,MANHATTAN,Park Avenue Tavern,4,restaurants," Cocktail Bars, American (New), Speakeasies "
+3,MANHATTAN,Sweet Chick,4,restaurants," Seafood, Burgers, American (New) "
+3,MANHATTAN,Tanner Smiths,4.5,restaurants," French, Wine Bars "
+3,MANHATTAN,Burger & Lobster,3.5,restaurants," Grocery, Italian, Meat Shops "
+3,MANHATTAN,Amélie,4,restaurants," Comfort Food, Southern, American (Traditional) "
+3,MANHATTAN,Eataly Downtown,4.5,restaurants, Ramen 
+3,MANHATTAN,Jacob’s Pickles,4,restaurants," Thai, Malaysian, Vietnamese "
+3,MANHATTAN,Teppen Ramen,4,restaurants," American (New), Cocktail Bars "
+3,MANHATTAN,LoveMama,4,restaurants," Bars, American (New) "
+3,MANHATTAN,Bea,4,restaurants," American (New), Breakfast & Brunch, Cocktail Bars "
+3,MANHATTAN,District Social,4.5,restaurants, Italian 
+3,MANHATTAN,The Smith,4,restaurants," Brazilian, Latin American, Portuguese "
+3,MANHATTAN,Angeletto Restaurant,4,restaurants, Italian 
+3,MANHATTAN,Ipanema Restaurant,4,restaurants," Sandwiches, French "
+3,MANHATTAN,Grazie,4.5,restaurants," Cocktail Bars, American (New), Breakfast & Brunch "
+3,MANHATTAN,Raclette,4.5,restaurants," Seafood, Wine Bars, Beer Bar "
+3,MANHATTAN,Dutch Freds,4,restaurants, Taiwanese 
+3,MANHATTAN,Upstate,4,restaurants," Mediterranean, Cafes, Breakfast & Brunch "
+3,MANHATTAN,886,4,restaurants," American (New), Gluten-Free, Breakfast & Brunch "
+3,MANHATTAN,Rustic Table,4.5,restaurants," Thai, Asian Fusion, Vegetarian "
+3,MANHATTAN,Friedman’s,4,restaurants," French, Salad, Breakfast & Brunch "
+3,MANHATTAN,Thai Villa,4,restaurants," Seafood, Burgers "
+3,MANHATTAN,Le Parisien,4,restaurants, Italian 
+3,MANHATTAN,Burger & Lobster,4.5,restaurants, French 
+3,MANHATTAN,Trattoria Trecolori,4.5,restaurants, American (New) 
+3,MANHATTAN,La Sirene,4,restaurants," Italian, Venues & Event Spaces, Seafood "
+3,MANHATTAN,Midwinter Kitchen,4,restaurants, Thai 
+3,MANHATTAN,Carmine’s Italian Restaurant - Times Square,4.5,restaurants," Thai, Asian Fusion "
+3,MANHATTAN,Topaz Noodle Bar,4,restaurants," American (Traditional), Cocktail Bars "
+3,MANHATTAN,Up Thai,4,restaurants," Southern, Breakfast & Brunch, American (Traditional) "
+3,MANHATTAN,Park Avenue Tavern,4,restaurants," Cocktail Bars, American (New), Speakeasies "
+3,MANHATTAN,Sweet Chick,4,restaurants," Seafood, Burgers, American (New) "
+3,MANHATTAN,Tanner Smiths,4.5,restaurants," French, Wine Bars "
+3,MANHATTAN,Burger & Lobster,3.5,restaurants," Grocery, Italian, Meat Shops "
+3,MANHATTAN,Amélie,4,restaurants," Comfort Food, Southern, American (Traditional) "
+3,MANHATTAN,Eataly Downtown,4.5,restaurants, Ramen 
+3,MANHATTAN,Jacob’s Pickles,4,restaurants," Thai, Malaysian, Vietnamese "
+3,MANHATTAN,Teppen Ramen,4,restaurants," American (New), Cocktail Bars "
+3,MANHATTAN,LoveMama,4,restaurants," Bars, American (New) "
+3,MANHATTAN,Bea,4,restaurants," American (New), Breakfast & Brunch, Cocktail Bars "
+3,MANHATTAN,District Social,4.5,restaurants, Italian 
+3,MANHATTAN,The Smith,4,restaurants," Brazilian, Latin American, Portuguese "
+3,MANHATTAN,Angeletto Restaurant,4,restaurants, Italian 
+3,MANHATTAN,Ipanema Restaurant,4,restaurants," Sandwiches, French "
+3,MANHATTAN,Grazie,4.5,restaurants," Cocktail Bars, American (New), Breakfast & Brunch "
+3,MANHATTAN,Raclette,4.5,restaurants," Seafood, Wine Bars, Beer Bar "
+3,MANHATTAN,Dutch Freds,4,restaurants, Taiwanese 
+3,MANHATTAN,Upstate,4,restaurants," Mediterranean, Cafes, Breakfast & Brunch "
+3,MANHATTAN,886,4,restaurants," American (New), Gluten-Free, Breakfast & Brunch "
+3,MANHATTAN,Rustic Table,4.5,restaurants," Thai, Asian Fusion, Vegetarian "
+3,MANHATTAN,Friedman’s,4,restaurants," French, Salad, Breakfast & Brunch "
+3,MANHATTAN,Thai Villa,4,restaurants," Seafood, Burgers "
+3,MANHATTAN,Le Parisien,4,restaurants, Italian 
+3,MANHATTAN,Burger & Lobster,4.5,restaurants, French 
+3,MANHATTAN,Trattoria Trecolori,4.5,restaurants, American (New) 
+3,MANHATTAN,La Sirene,4,restaurants," Italian, Venues & Event Spaces, Seafood "
+3,MANHATTAN,Midwinter Kitchen,4,restaurants, Thai 
+3,MANHATTAN,Carmine’s Italian Restaurant - Times Square,4.5,restaurants," Thai, Asian Fusion "
+3,MANHATTAN,Topaz Noodle Bar,4,restaurants," American (Traditional), Cocktail Bars "
+3,MANHATTAN,Up Thai,4,restaurants," Southern, Breakfast & Brunch, American (Traditional) "
+3,MANHATTAN,Park Avenue Tavern,4,restaurants," Cocktail Bars, American (New), Speakeasies "
+3,MANHATTAN,Sweet Chick,4,restaurants," Seafood, Burgers, American (New) "
+3,MANHATTAN,Tanner Smiths,4.5,restaurants," French, Wine Bars "
+3,MANHATTAN,Burger & Lobster,3.5,restaurants," Grocery, Italian, Meat Shops "
+3,MANHATTAN,Amélie,4,restaurants," Comfort Food, Southern, American (Traditional) "
+3,MANHATTAN,Eataly Downtown,4.5,restaurants, Ramen 
+3,MANHATTAN,Jacob’s Pickles,4,restaurants," Thai, Malaysian, Vietnamese "
+3,MANHATTAN,Teppen Ramen,4,restaurants," American (New), Cocktail Bars "
+3,MANHATTAN,LoveMama,4,restaurants," Bars, American (New) "
+3,MANHATTAN,Bea,4,restaurants," American (New), Breakfast & Brunch, Cocktail Bars "
+3,MANHATTAN,District Social,4.5,restaurants, Italian 
+3,MANHATTAN,The Smith,4,restaurants," Brazilian, Latin American, Portuguese "
+3,MANHATTAN,Angeletto Restaurant,4,restaurants, Italian 
+3,MANHATTAN,Ipanema Restaurant,4,restaurants," Sandwiches, French "
+3,MANHATTAN,Grazie,4.5,restaurants," Cocktail Bars, American (New), Breakfast & Brunch "
+3,MANHATTAN,Raclette,4.5,restaurants," Seafood, Wine Bars, Beer Bar "
+3,MANHATTAN,Dutch Freds,4,restaurants, Taiwanese 
+3,MANHATTAN,Upstate,4,restaurants," Mediterranean, Cafes, Breakfast & Brunch "
+3,MANHATTAN,886,4,restaurants," American (New), Gluten-Free, Breakfast & Brunch "
+3,MANHATTAN,Rustic Table,4.5,restaurants," Thai, Asian Fusion, Vegetarian "
+3,MANHATTAN,Friedman’s,4,restaurants," French, Salad, Breakfast & Brunch "
+3,MANHATTAN,Thai Villa,4,restaurants," Seafood, Burgers "
+3,MANHATTAN,Le Parisien,4,restaurants, Italian 
+3,MANHATTAN,Burger & Lobster,4.5,restaurants, French 
+3,MANHATTAN,Trattoria Trecolori,4.5,restaurants, American (New) 
+3,MANHATTAN,La Sirene,4,restaurants," Italian, Venues & Event Spaces, Seafood "
+3,MANHATTAN,Midwinter Kitchen,4,restaurants, Thai 
+3,MANHATTAN,Carmine’s Italian Restaurant - Times Square,4.5,restaurants," Thai, Asian Fusion "
+3,MANHATTAN,Topaz Noodle Bar,4,restaurants," American (Traditional), Cocktail Bars "
+3,MANHATTAN,Up Thai,4,restaurants," Southern, Breakfast & Brunch, American (Traditional) "
+3,MANHATTAN,Park Avenue Tavern,4,restaurants," Cocktail Bars, American (New), Speakeasies "
+3,MANHATTAN,Sweet Chick,4,restaurants," Seafood, Burgers, American (New) "
+3,MANHATTAN,Tanner Smiths,4.5,restaurants," French, Wine Bars "
+3,MANHATTAN,Burger & Lobster,3.5,restaurants," Grocery, Italian, Meat Shops "
+3,MANHATTAN,Amélie,4,restaurants," Comfort Food, Southern, American (Traditional) "
+3,MANHATTAN,Eataly Downtown,4.5,restaurants, Ramen 
+3,MANHATTAN,Jacob’s Pickles,4,restaurants," Thai, Malaysian, Vietnamese "
+3,MANHATTAN,Teppen Ramen,4,restaurants," American (New), Cocktail Bars "
+3,MANHATTAN,LoveMama,4,restaurants," Bars, American (New) "
+3,MANHATTAN,Bea,4,restaurants," American (New), Breakfast & Brunch, Cocktail Bars "
+3,MANHATTAN,District Social,4.5,restaurants, Italian 
+3,MANHATTAN,The Smith,4,restaurants," Brazilian, Latin American, Portuguese "
+3,MANHATTAN,Angeletto Restaurant,4,restaurants, Italian 
+3,MANHATTAN,Ipanema Restaurant,4,restaurants," Sandwiches, French "
+3,MANHATTAN,Grazie,4.5,restaurants," Cocktail Bars, American (New), Breakfast & Brunch "
+3,MANHATTAN,Raclette,4.5,restaurants," Seafood, Wine Bars, Beer Bar "
+3,MANHATTAN,Dutch Freds,4,restaurants, Taiwanese 
+3,MANHATTAN,Upstate,4,restaurants," Mediterranean, Cafes, Breakfast & Brunch "
+3,MANHATTAN,886,4,restaurants," American (New), Gluten-Free, Breakfast & Brunch "
+3,MANHATTAN,Rustic Table,4.5,restaurants," Thai, Asian Fusion, Vegetarian "
+3,MANHATTAN,Friedman’s,4,restaurants," French, Salad, Breakfast & Brunch "
+3,MANHATTAN,Thai Villa,4,restaurants," Seafood, Burgers "
+3,MANHATTAN,Le Parisien,4,restaurants, Italian 
+3,MANHATTAN,Burger & Lobster,4.5,restaurants, French 
+3,MANHATTAN,Trattoria Trecolori,4.5,restaurants, American (New) 
+3,MANHATTAN,La Sirene,4,restaurants," Italian, Venues & Event Spaces, Seafood "
+3,MANHATTAN,Midwinter Kitchen,4,restaurants, Thai 
+3,MANHATTAN,Carmine’s Italian Restaurant - Times Square,4.5,restaurants," Thai, Asian Fusion "
+3,MANHATTAN,Topaz Noodle Bar,4,restaurants," American (Traditional), Cocktail Bars "
+3,MANHATTAN,Up Thai,4,restaurants," Southern, Breakfast & Brunch, American (Traditional) "
+3,MANHATTAN,Park Avenue Tavern,4,restaurants," Cocktail Bars, American (New), Speakeasies "
+3,MANHATTAN,Sweet Chick,4,restaurants," Seafood, Burgers, American (New) "
+3,MANHATTAN,Tanner Smiths,4.5,restaurants," French, Wine Bars "
+3,MANHATTAN,Burger & Lobster,3.5,restaurants," Grocery, Italian, Meat Shops "
+3,MANHATTAN,Amélie,4,restaurants," Comfort Food, Southern, American (Traditional) "
+3,MANHATTAN,Eataly Downtown,4.5,restaurants, Ramen 
+3,MANHATTAN,Jacob’s Pickles,4,restaurants," Thai, Malaysian, Vietnamese "
+3,MANHATTAN,Teppen Ramen,4,restaurants," American (New), Cocktail Bars "
+3,MANHATTAN,LoveMama,4,restaurants," Bars, American (New) "
+3,MANHATTAN,Bea,4,restaurants," American (New), Breakfast & Brunch, Cocktail Bars "
+3,MANHATTAN,District Social,4.5,restaurants, Italian 
+3,MANHATTAN,The Smith,4,restaurants," Brazilian, Latin American, Portuguese "
+3,MANHATTAN,Angeletto Restaurant,4,restaurants, Italian 
+3,MANHATTAN,Ipanema Restaurant,4,restaurants," Sandwiches, French "
+3,MANHATTAN,Grazie,4.5,restaurants," Cocktail Bars, American (New), Breakfast & Brunch "
+3,MANHATTAN,Raclette,4.5,restaurants," Seafood, Wine Bars, Beer Bar "
+3,MANHATTAN,Dutch Freds,4,restaurants, Taiwanese 
+3,MANHATTAN,Upstate,4,restaurants," Mediterranean, Cafes, Breakfast & Brunch "
+3,MANHATTAN,886,4,restaurants," American (New), Gluten-Free, Breakfast & Brunch "
+3,MANHATTAN,Rustic Table,4.5,restaurants," Thai, Asian Fusion, Vegetarian "
+3,MANHATTAN,Friedman’s,4,restaurants," French, Salad, Breakfast & Brunch "
+3,MANHATTAN,Thai Villa,4,restaurants," Seafood, Burgers "
+3,MANHATTAN,Le Parisien,4,restaurants, Italian 
+3,MANHATTAN,Burger & Lobster,4.5,restaurants, French 
+3,MANHATTAN,Trattoria Trecolori,4.5,restaurants, American (New) 
+3,MANHATTAN,La Sirene,4,restaurants," Italian, Venues & Event Spaces, Seafood "
+3,MANHATTAN,Midwinter Kitchen,4,restaurants, Thai 
+3,MANHATTAN,Carmine’s Italian Restaurant - Times Square,4.5,restaurants," Thai, Asian Fusion "
+3,MANHATTAN,Topaz Noodle Bar,4,restaurants," American (Traditional), Cocktail Bars "
+3,MANHATTAN,Up Thai,4,restaurants," Southern, Breakfast & Brunch, American (Traditional) "
+3,MANHATTAN,Park Avenue Tavern,4,restaurants," Cocktail Bars, American (New), Speakeasies "
+3,MANHATTAN,Sweet Chick,4,restaurants," Seafood, Burgers, American (New) "
+3,MANHATTAN,Tanner Smiths,4.5,restaurants," French, Wine Bars "
+3,MANHATTAN,Burger & Lobster,3.5,restaurants," Grocery, Italian, Meat Shops "
+3,MANHATTAN,Amélie,4,restaurants," Comfort Food, Southern, American (Traditional) "
+3,MANHATTAN,Eataly Downtown,4.5,restaurants, Ramen 
+3,MANHATTAN,Jacob’s Pickles,4,restaurants," Thai, Malaysian, Vietnamese "
+3,MANHATTAN,Teppen Ramen,4,restaurants," American (New), Cocktail Bars "
+3,MANHATTAN,LoveMama,4,restaurants," Bars, American (New) "
+3,MANHATTAN,Bea,4,restaurants," American (New), Breakfast & Brunch, Cocktail Bars "
+3,MANHATTAN,District Social,4.5,restaurants, Italian 
+3,MANHATTAN,The Smith,4,restaurants," Brazilian, Latin American, Portuguese "
+3,MANHATTAN,Angeletto Restaurant,4,restaurants, Italian 
+3,MANHATTAN,Ipanema Restaurant,4,restaurants," Sandwiches, French "
+3,MANHATTAN,Grazie,4.5,restaurants," Cocktail Bars, American (New), Breakfast & Brunch "
+3,MANHATTAN,Raclette,4.5,restaurants," Seafood, Wine Bars, Beer Bar "
+3,MANHATTAN,Dutch Freds,4,restaurants, Taiwanese 
+3,MANHATTAN,Upstate,4,restaurants," Mediterranean, Cafes, Breakfast & Brunch "
+3,MANHATTAN,886,4,restaurants," American (New), Gluten-Free, Breakfast & Brunch "
+3,MANHATTAN,Rustic Table,4.5,restaurants," Thai, Asian Fusion, Vegetarian "
+3,MANHATTAN,Friedman’s,4,restaurants," French, Salad, Breakfast & Brunch "
+3,MANHATTAN,Thai Villa,4,restaurants," Seafood, Burgers "
+3,MANHATTAN,Le Parisien,4,restaurants, Italian 
+3,MANHATTAN,Burger & Lobster,4.5,restaurants, French 
+3,MANHATTAN,Trattoria Trecolori,4.5,restaurants, American (New) 
+3,MANHATTAN,La Sirene,4,restaurants," Italian, Venues & Event Spaces, Seafood "
+3,MANHATTAN,Midwinter Kitchen,4,restaurants, Thai 
+3,MANHATTAN,Carmine’s Italian Restaurant - Times Square,4.5,restaurants," Thai, Asian Fusion "
+3,MANHATTAN,Topaz Noodle Bar,4,restaurants," American (Traditional), Cocktail Bars "
+3,MANHATTAN,Up Thai,4,restaurants," Southern, Breakfast & Brunch, American (Traditional) "
+3,MANHATTAN,Park Avenue Tavern,4,Nightlife," Lounges, Cocktail Bars "
+3,MANHATTAN,Sweet Chick,3.5,Nightlife, Lounges 
+3,MANHATTAN,Rooftop 93,4,Nightlife," Dance Clubs, Lounges, Comedy Clubs "
+3,MANHATTAN,Playboy Club NYC,5,Nightlife," Bars, American (Traditional) "
+3,MANHATTAN,The Village Underground,4.5,Nightlife," Karaoke, Cocktail Bars "
+3,MANHATTAN,The Wilson,4,Nightlife, Lounges 
+3,MANHATTAN,Anytime Karaoke,3.5,Nightlife," Dance Clubs, Event Planning & Services "
+3,MANHATTAN,The Living Room,4,Nightlife," Seafood, American (New), Bars "
+3,MANHATTAN,Red Rabbit Club,4,Nightlife," Cocktail Bars, Venues & Event Spaces, Lounges "
+3,MANHATTAN,Sall Restaurant & Lounge,3.5,Nightlife," Lounges, Karaoke, Dance Clubs "
+3,MANHATTAN,Ascent Lounge,4,Nightlife," Lounges, Cocktail Bars "
+3,MANHATTAN,On Now Lounge,4,Nightlife," American (New), Bars "
+3,MANHATTAN,Keybar,5,Nightlife," Dive Bars, Bar Crawl "
+3,MANHATTAN,Henry’s Rooftop Bar,3.5,Nightlife," Lounges, Venues & Event Spaces "
+3,MANHATTAN,Strangelove,5,Nightlife," Dance Clubs, Jazz & Blues "
+3,MANHATTAN,48 Lounge,5,Nightlife," Dance Clubs, Party & Event Planning "
+3,MANHATTAN,Friday Night Blues,5,Nightlife, Comedy Clubs 
+3,MANHATTAN,"Nightlife, Party, Club & VIP Bottle Services",4,Nightlife," Music Venues, Bars "
+3,MANHATTAN,New York Comedy Club,4,Nightlife," Karaoke, Lounges, Venues & Event Spaces "
+3,MANHATTAN,Pier 17,5,Nightlife," Beer Gardens, American (New), Bars "
+3,MANHATTAN,Queen’s Cabinet Bar & Lounge,4.5,Nightlife, Cocktail Bars 
+3,MANHATTAN,Clinton Hall,4.5,Entertainment, Bakeries 
+3,MANHATTAN,Waiting On a Friend,4,Entertainment," Food Stands, Middle Eastern, Halal "
+3,MANHATTAN,Veil,4,Entertainment, Ramen 
+3,MANHATTAN,Levain Bakery,4.5,Entertainment, Art Museums 
+3,MANHATTAN,The Halal Guys,5,Entertainment, Parks 
+3,MANHATTAN,Ippudo NY,4,Entertainment," Delis, Sandwiches "
+3,MANHATTAN,The Metropolitan Museum of Art,4.5,Entertainment," Coffee & Tea, Bakeries "
+3,MANHATTAN,Central Park,4.5,Entertainment, Tacos 
+3,MANHATTAN,Katz’s Delicatessen,4,Entertainment," Seafood, Burgers, American (New) "
+3,MANHATTAN,Bibble & Sip,4.5,Entertainment," Parks, Local Flavor "
+3,MANHATTAN,Los Tacos No.1,4.5,Entertainment, Bakeries 
+3,MANHATTAN,Burger & Lobster,4,Entertainment," Food Stands, Middle Eastern, Halal "
+3,MANHATTAN,The High Line,4,Entertainment, Ramen 
+3,MANHATTAN,Levain Bakery,4.5,Entertainment, Art Museums 
+3,MANHATTAN,The Halal Guys,5,Entertainment, Parks 
+3,MANHATTAN,Ippudo NY,4,Entertainment," Delis, Sandwiches "
+3,MANHATTAN,The Metropolitan Museum of Art,4.5,Entertainment," Coffee & Tea, Bakeries "
+3,MANHATTAN,Central Park,4.5,Entertainment, Tacos 
+3,MANHATTAN,Katz’s Delicatessen,4,Entertainment," Seafood, Burgers, American (New) "
+3,MANHATTAN,Bibble & Sip,4.5,Entertainment," Parks, Local Flavor "
+3,MANHATTAN,Los Tacos No.1,4.5,Entertainment, Bakeries 
+3,MANHATTAN,Burger & Lobster,4,Entertainment," Food Stands, Middle Eastern, Halal "
+3,MANHATTAN,The High Line,4,Entertainment, Ramen 
+3,MANHATTAN,Levain Bakery,4.5,Entertainment, Art Museums 
+3,MANHATTAN,The Halal Guys,5,Entertainment, Parks 
+3,MANHATTAN,Ippudo NY,4,Entertainment," Delis, Sandwiches "
+3,MANHATTAN,The Metropolitan Museum of Art,4.5,Entertainment," Coffee & Tea, Bakeries "
+3,MANHATTAN,Central Park,4.5,Entertainment, Tacos 
+3,MANHATTAN,Katz’s Delicatessen,4,Entertainment," Seafood, Burgers, American (New) "
+3,MANHATTAN,Bibble & Sip,4.5,Entertainment," Parks, Local Flavor "
+3,MANHATTAN,Los Tacos No.1,4.5,Entertainment, Bakeries 
+3,MANHATTAN,Burger & Lobster,4,Entertainment," Food Stands, Middle Eastern, Halal "
+3,MANHATTAN,The High Line,4,Entertainment, Ramen 
+3,MANHATTAN,Levain Bakery,4.5,Entertainment, Art Museums 
+3,MANHATTAN,The Halal Guys,5,Entertainment, Parks 
+3,MANHATTAN,Ippudo NY,4,Entertainment," Delis, Sandwiches "
+3,MANHATTAN,The Metropolitan Museum of Art,4.5,Entertainment," Coffee & Tea, Bakeries "
+3,MANHATTAN,Central Park,4.5,Entertainment, Tacos 
+3,MANHATTAN,Katz’s Delicatessen,4,Entertainment," Seafood, Burgers, American (New) "
+3,MANHATTAN,Bibble & Sip,4.5,Entertainment," Parks, Local Flavor "
+3,MANHATTAN,Los Tacos No.1,4.5,Entertainment, Bakeries 
+3,MANHATTAN,Burger & Lobster,4,Entertainment," Food Stands, Middle Eastern, Halal "
+3,MANHATTAN,The High Line,4,Entertainment, Ramen 
+3,MANHATTAN,Levain Bakery,4.5,Entertainment, Art Museums 
+3,MANHATTAN,The Halal Guys,5,Entertainment, Parks 
+3,MANHATTAN,Ippudo NY,4,Entertainment," Delis, Sandwiches "
+3,MANHATTAN,The Metropolitan Museum of Art,4.5,Entertainment," Coffee & Tea, Bakeries "
+3,MANHATTAN,Central Park,4.5,Entertainment, Tacos 
+3,MANHATTAN,Katz’s Delicatessen,4,Entertainment," Seafood, Burgers, American (New) "
+3,MANHATTAN,Bibble & Sip,4.5,Entertainment," Parks, Local Flavor "
+3,MANHATTAN,Los Tacos No.1,4.5,Entertainment, Bakeries 
+3,MANHATTAN,Burger & Lobster,4,Entertainment," Food Stands, Middle Eastern, Halal "
+3,MANHATTAN,The High Line,4,Entertainment, Ramen 
+3,MANHATTAN,Levain Bakery,4.5,Entertainment, Art Museums 
+3,MANHATTAN,The Halal Guys,5,Entertainment, Parks 
+3,MANHATTAN,Ippudo NY,4,Entertainment," Delis, Sandwiches "
+3,MANHATTAN,The Metropolitan Museum of Art,4.5,Entertainment," Coffee & Tea, Bakeries "
+3,MANHATTAN,Central Park,4.5,Entertainment, Tacos 
+3,MANHATTAN,Katz’s Delicatessen,4,Entertainment," Seafood, Burgers, American (New) "
+3,MANHATTAN,Bibble & Sip,4.5,Entertainment," Parks, Local Flavor "
+3,MANHATTAN,Los Tacos No.1,4.5,Entertainment, Bakeries 
+3,MANHATTAN,Burger & Lobster,4,Entertainment," Food Stands, Middle Eastern, Halal "
+3,MANHATTAN,The High Line,4,Entertainment, Ramen 
+3,MANHATTAN,Levain Bakery,4.5,Entertainment, Art Museums 
+3,MANHATTAN,The Halal Guys,5,Entertainment, Parks 
+3,MANHATTAN,Ippudo NY,4,Entertainment," Delis, Sandwiches "
+3,MANHATTAN,The Metropolitan Museum of Art,4.5,Entertainment," Coffee & Tea, Bakeries "
+3,MANHATTAN,Central Park,4.5,Entertainment, Tacos 
+3,MANHATTAN,Katz’s Delicatessen,4,Entertainment," Seafood, Burgers, American (New) "
+3,MANHATTAN,Bibble & Sip,4.5,Entertainment," Parks, Local Flavor "
+3,MANHATTAN,Los Tacos No.1,4.5,Entertainment, Bakeries 
+3,MANHATTAN,Burger & Lobster,4,Entertainment," Food Stands, Middle Eastern, Halal "
+3,MANHATTAN,The High Line,4,Entertainment, Ramen 
+3,MANHATTAN,Levain Bakery,4.5,Entertainment, Art Museums 
+3,MANHATTAN,The Halal Guys,5,Entertainment, Parks 
+3,MANHATTAN,Ippudo NY,4,Entertainment," Delis, Sandwiches "
+3,MANHATTAN,The Metropolitan Museum of Art,4.5,Entertainment," Coffee & Tea, Bakeries "
+3,MANHATTAN,Central Park,4.5,Entertainment, Tacos 
+3,MANHATTAN,Katz’s Delicatessen,4,Entertainment," Seafood, Burgers, American (New) "
+3,MANHATTAN,Bibble & Sip,4.5,Entertainment," Parks, Local Flavor "
+4,QUEENS,Craft House,5,restaurants," Gastropubs, Tapas Bars, Breakfast & Brunch "
+4,QUEENS,The Alcove,4.5,restaurants, Thai 
+4,QUEENS,Kin’d,4,restaurants," Gastropubs, Cocktail Bars, Beer Bar "
+4,QUEENS,Forest Hills Station House,4.5,restaurants," Vietnamese, Sandwiches, Asian Fusion "
+4,QUEENS,JoJu,4.5,restaurants," Peruvian, Cocktail Bars, Tapas Bars "
+4,QUEENS,Jora Restaurant & Bar,4,restaurants, Thai 
+4,QUEENS,SriPraPhai Thai Restaurant,4.5,restaurants," Cajun/Creole, Seafood, Bars "
+4,QUEENS,Oceanic Boil,4,restaurants," Vietnamese, Cocktail Bars "
+4,QUEENS,District Saigon,4,restaurants," Cajun/Creole, Southern, Breakfast & Brunch "
+4,QUEENS,Sugar Freak,4.5,restaurants," Greek, Falafel, Seafood "
+4,QUEENS,Nicks Bistro,4.5,restaurants, Pizza 
+4,QUEENS,Macoletta,4,restaurants," Wine Bars, Breakfast & Brunch "
+4,QUEENS,Jack & Nellie’s,4,restaurants," Shanghainese, Specialty Food, Noodles "
+4,QUEENS,Nan Xiang Xiao Long Bao,4,restaurants," Breakfast & Brunch, American (New), Comfort Food "
+4,QUEENS,Queens Comfort,4.5,restaurants, Thai 
+4,QUEENS,Kitchen 79,4,restaurants," Latin American, Cuban "
+4,QUEENS,Cabana,4,restaurants," Caribbean, Desserts, Seafood "
+4,QUEENS,The Door,4,restaurants," Breakfast & Brunch, American (New), Whiskey Bars "
+4,QUEENS,Sanfords Astoria,4.5,restaurants," American (New), Hawaiian, Tiki Bars "
+4,QUEENS,The Highwater,4,restaurants," Barbeque, Burgers "
+4,QUEENS,Butcher Bar,4,restaurants," Seafood, Greek, Mediterranean "
+4,QUEENS,Taverna Kyclades,4.5,restaurants," Mediterranean, Kosher, Georgian "
+4,QUEENS,Marani,4,restaurants," Seafood, Cajun/Creole "
+4,QUEENS,Naked Crab,4.5,restaurants," Chinese, Taiwanese "
+4,QUEENS,Mama Lee,4.5,restaurants, Cuban 
+4,QUEENS,Rincon Criollo,4.5,restaurants, Himalayan/Nepalese 
+4,QUEENS,Momo Crave,4,restaurants, Korean 
+4,QUEENS,Hahm Ji Bach,4,restaurants," Ramen, Sushi Bars "
+4,QUEENS,Hashi Ramen & Izakaya,4.5,restaurants, Filipino 
+4,QUEENS,Papa’s Kitchen,4.5,restaurants, Korean 
+4,QUEENS,Dae Sung Kal Guk Su,5,restaurants," Gastropubs, Tapas Bars, Breakfast & Brunch "
+4,QUEENS,The Alcove,4.5,restaurants, Thai 
+4,QUEENS,Kin’d,4,restaurants," Gastropubs, Cocktail Bars, Beer Bar "
+4,QUEENS,Forest Hills Station House,4.5,restaurants," Vietnamese, Sandwiches, Asian Fusion "
+4,QUEENS,JoJu,4.5,restaurants," Peruvian, Cocktail Bars, Tapas Bars "
+4,QUEENS,Jora Restaurant & Bar,4,restaurants, Thai 
+4,QUEENS,SriPraPhai Thai Restaurant,4.5,restaurants," Cajun/Creole, Seafood, Bars "
+4,QUEENS,Oceanic Boil,4,restaurants," Vietnamese, Cocktail Bars "
+4,QUEENS,District Saigon,4,restaurants," Cajun/Creole, Southern, Breakfast & Brunch "
+4,QUEENS,Sugar Freak,4.5,restaurants," Greek, Falafel, Seafood "
+4,QUEENS,Nicks Bistro,4.5,restaurants, Pizza 
+4,QUEENS,Macoletta,4,restaurants," Wine Bars, Breakfast & Brunch "
+4,QUEENS,Jack & Nellie’s,4,restaurants," Shanghainese, Specialty Food, Noodles "
+4,QUEENS,Nan Xiang Xiao Long Bao,4,restaurants," Breakfast & Brunch, American (New), Comfort Food "
+4,QUEENS,Queens Comfort,4.5,restaurants, Thai 
+4,QUEENS,Kitchen 79,4,restaurants," Latin American, Cuban "
+4,QUEENS,Cabana,4,restaurants," Caribbean, Desserts, Seafood "
+4,QUEENS,The Door,4,restaurants," Breakfast & Brunch, American (New), Whiskey Bars "
+4,QUEENS,Sanfords Astoria,4.5,restaurants," American (New), Hawaiian, Tiki Bars "
+4,QUEENS,The Highwater,4,restaurants," Barbeque, Burgers "
+4,QUEENS,Butcher Bar,4,restaurants," Seafood, Greek, Mediterranean "
+4,QUEENS,Taverna Kyclades,4.5,restaurants," Mediterranean, Kosher, Georgian "
+4,QUEENS,Marani,4,restaurants," Seafood, Cajun/Creole "
+4,QUEENS,Naked Crab,4.5,restaurants," Chinese, Taiwanese "
+4,QUEENS,Mama Lee,4.5,restaurants, Cuban 
+4,QUEENS,Rincon Criollo,4.5,restaurants, Himalayan/Nepalese 
+4,QUEENS,Momo Crave,4,restaurants, Korean 
+4,QUEENS,Hahm Ji Bach,4,restaurants," Ramen, Sushi Bars "
+4,QUEENS,Hashi Ramen & Izakaya,4.5,restaurants, Filipino 
+4,QUEENS,Papa’s Kitchen,4.5,restaurants, Korean 
+4,QUEENS,Dae Sung Kal Guk Su,5,restaurants," Gastropubs, Tapas Bars, Breakfast & Brunch "
+4,QUEENS,The Alcove,4.5,restaurants, Thai 
+4,QUEENS,Kin’d,4,restaurants," Gastropubs, Cocktail Bars, Beer Bar "
+4,QUEENS,Forest Hills Station House,4.5,restaurants," Vietnamese, Sandwiches, Asian Fusion "
+4,QUEENS,JoJu,4.5,restaurants," Peruvian, Cocktail Bars, Tapas Bars "
+4,QUEENS,Jora Restaurant & Bar,4,restaurants, Thai 
+4,QUEENS,SriPraPhai Thai Restaurant,4.5,restaurants," Cajun/Creole, Seafood, Bars "
+4,QUEENS,Oceanic Boil,4,restaurants," Vietnamese, Cocktail Bars "
+4,QUEENS,District Saigon,4,restaurants," Cajun/Creole, Southern, Breakfast & Brunch "
+4,QUEENS,Sugar Freak,4.5,restaurants," Greek, Falafel, Seafood "
+4,QUEENS,Nicks Bistro,4.5,restaurants, Pizza 
+4,QUEENS,Macoletta,4,restaurants," Wine Bars, Breakfast & Brunch "
+4,QUEENS,Jack & Nellie’s,4,restaurants," Shanghainese, Specialty Food, Noodles "
+4,QUEENS,Nan Xiang Xiao Long Bao,4,restaurants," Breakfast & Brunch, American (New), Comfort Food "
+4,QUEENS,Queens Comfort,4.5,restaurants, Thai 
+4,QUEENS,Kitchen 79,4,restaurants," Latin American, Cuban "
+4,QUEENS,Cabana,4,restaurants," Caribbean, Desserts, Seafood "
+4,QUEENS,The Door,4,restaurants," Breakfast & Brunch, American (New), Whiskey Bars "
+4,QUEENS,Sanfords Astoria,4.5,restaurants," American (New), Hawaiian, Tiki Bars "
+4,QUEENS,The Highwater,4,restaurants," Barbeque, Burgers "
+4,QUEENS,Butcher Bar,4,restaurants," Seafood, Greek, Mediterranean "
+4,QUEENS,Taverna Kyclades,4.5,restaurants," Mediterranean, Kosher, Georgian "
+4,QUEENS,Marani,4,restaurants," Seafood, Cajun/Creole "
+4,QUEENS,Naked Crab,4.5,restaurants," Chinese, Taiwanese "
+4,QUEENS,Mama Lee,4.5,restaurants, Cuban 
+4,QUEENS,Rincon Criollo,4.5,restaurants, Himalayan/Nepalese 
+4,QUEENS,Momo Crave,4,restaurants, Korean 
+4,QUEENS,Hahm Ji Bach,4,restaurants," Ramen, Sushi Bars "
+4,QUEENS,Hashi Ramen & Izakaya,4.5,restaurants, Filipino 
+4,QUEENS,Papa’s Kitchen,4.5,restaurants, Korean 
+4,QUEENS,Dae Sung Kal Guk Su,5,restaurants," Gastropubs, Tapas Bars, Breakfast & Brunch "
+4,QUEENS,The Alcove,4.5,restaurants, Thai 
+4,QUEENS,Kin’d,4,restaurants," Gastropubs, Cocktail Bars, Beer Bar "
+4,QUEENS,Forest Hills Station House,4.5,restaurants," Vietnamese, Sandwiches, Asian Fusion "
+4,QUEENS,JoJu,4.5,restaurants," Peruvian, Cocktail Bars, Tapas Bars "
+4,QUEENS,Jora Restaurant & Bar,4,restaurants, Thai 
+4,QUEENS,SriPraPhai Thai Restaurant,4.5,restaurants," Cajun/Creole, Seafood, Bars "
+4,QUEENS,Oceanic Boil,4,restaurants," Vietnamese, Cocktail Bars "
+4,QUEENS,District Saigon,4,restaurants," Cajun/Creole, Southern, Breakfast & Brunch "
+4,QUEENS,Sugar Freak,4.5,restaurants," Greek, Falafel, Seafood "
+4,QUEENS,Nicks Bistro,4.5,restaurants, Pizza 
+4,QUEENS,Macoletta,4,restaurants," Wine Bars, Breakfast & Brunch "
+4,QUEENS,Jack & Nellie’s,4,restaurants," Shanghainese, Specialty Food, Noodles "
+4,QUEENS,Nan Xiang Xiao Long Bao,4,restaurants," Breakfast & Brunch, American (New), Comfort Food "
+4,QUEENS,Queens Comfort,4.5,restaurants, Thai 
+4,QUEENS,Kitchen 79,4,restaurants," Latin American, Cuban "
+4,QUEENS,Cabana,4,restaurants," Caribbean, Desserts, Seafood "
+4,QUEENS,The Door,4,restaurants," Breakfast & Brunch, American (New), Whiskey Bars "
+4,QUEENS,Sanfords Astoria,4.5,restaurants," American (New), Hawaiian, Tiki Bars "
+4,QUEENS,The Highwater,4,restaurants," Barbeque, Burgers "
+4,QUEENS,Butcher Bar,4,restaurants," Seafood, Greek, Mediterranean "
+4,QUEENS,Taverna Kyclades,4.5,restaurants," Mediterranean, Kosher, Georgian "
+4,QUEENS,Marani,4,restaurants," Seafood, Cajun/Creole "
+4,QUEENS,Naked Crab,4.5,restaurants," Chinese, Taiwanese "
+4,QUEENS,Mama Lee,4.5,restaurants, Cuban 
+4,QUEENS,Rincon Criollo,4.5,restaurants, Himalayan/Nepalese 
+4,QUEENS,Momo Crave,4,restaurants, Korean 
+4,QUEENS,Hahm Ji Bach,4,restaurants," Ramen, Sushi Bars "
+4,QUEENS,Hashi Ramen & Izakaya,4.5,restaurants, Filipino 
+4,QUEENS,Papa’s Kitchen,4.5,restaurants, Korean 
+4,QUEENS,Dae Sung Kal Guk Su,5,restaurants," Gastropubs, Tapas Bars, Breakfast & Brunch "
+4,QUEENS,The Alcove,4.5,restaurants, Thai 
+4,QUEENS,Kin’d,4,restaurants," Gastropubs, Cocktail Bars, Beer Bar "
+4,QUEENS,Forest Hills Station House,4.5,restaurants," Vietnamese, Sandwiches, Asian Fusion "
+4,QUEENS,JoJu,4.5,restaurants," Peruvian, Cocktail Bars, Tapas Bars "
+4,QUEENS,Jora Restaurant & Bar,4,restaurants, Thai 
+4,QUEENS,SriPraPhai Thai Restaurant,4.5,restaurants," Cajun/Creole, Seafood, Bars "
+4,QUEENS,Oceanic Boil,4,restaurants," Vietnamese, Cocktail Bars "
+4,QUEENS,District Saigon,4,restaurants," Cajun/Creole, Southern, Breakfast & Brunch "
+4,QUEENS,Sugar Freak,4.5,restaurants," Greek, Falafel, Seafood "
+4,QUEENS,Nicks Bistro,4.5,restaurants, Pizza 
+4,QUEENS,Macoletta,4,restaurants," Wine Bars, Breakfast & Brunch "
+4,QUEENS,Jack & Nellie’s,4,restaurants," Shanghainese, Specialty Food, Noodles "
+4,QUEENS,Nan Xiang Xiao Long Bao,4,restaurants," Breakfast & Brunch, American (New), Comfort Food "
+4,QUEENS,Queens Comfort,4.5,restaurants, Thai 
+4,QUEENS,Kitchen 79,4,restaurants," Latin American, Cuban "
+4,QUEENS,Cabana,4,restaurants," Caribbean, Desserts, Seafood "
+4,QUEENS,The Door,4,restaurants," Breakfast & Brunch, American (New), Whiskey Bars "
+4,QUEENS,Sanfords Astoria,4.5,restaurants," American (New), Hawaiian, Tiki Bars "
+4,QUEENS,The Highwater,4,restaurants," Barbeque, Burgers "
+4,QUEENS,Butcher Bar,4,restaurants," Seafood, Greek, Mediterranean "
+4,QUEENS,Taverna Kyclades,4.5,restaurants," Mediterranean, Kosher, Georgian "
+4,QUEENS,Marani,4,restaurants," Seafood, Cajun/Creole "
+4,QUEENS,Naked Crab,4.5,restaurants," Chinese, Taiwanese "
+4,QUEENS,Mama Lee,4.5,restaurants, Cuban 
+4,QUEENS,Rincon Criollo,4.5,restaurants, Himalayan/Nepalese 
+4,QUEENS,Momo Crave,4,restaurants, Korean 
+4,QUEENS,Hahm Ji Bach,4,restaurants," Ramen, Sushi Bars "
+4,QUEENS,Hashi Ramen & Izakaya,4.5,restaurants, Filipino 
+4,QUEENS,Papa’s Kitchen,4.5,restaurants, Korean 
+4,QUEENS,Dae Sung Kal Guk Su,5,restaurants," Gastropubs, Tapas Bars, Breakfast & Brunch "
+4,QUEENS,The Alcove,4.5,restaurants, Thai 
+4,QUEENS,Kin’d,4,restaurants," Gastropubs, Cocktail Bars, Beer Bar "
+4,QUEENS,Forest Hills Station House,4.5,restaurants," Vietnamese, Sandwiches, Asian Fusion "
+4,QUEENS,JoJu,4.5,restaurants," Peruvian, Cocktail Bars, Tapas Bars "
+4,QUEENS,Jora Restaurant & Bar,4,restaurants, Thai 
+4,QUEENS,SriPraPhai Thai Restaurant,4.5,restaurants," Cajun/Creole, Seafood, Bars "
+4,QUEENS,Oceanic Boil,4,restaurants," Vietnamese, Cocktail Bars "
+4,QUEENS,District Saigon,4,restaurants," Cajun/Creole, Southern, Breakfast & Brunch "
+4,QUEENS,Sugar Freak,4.5,restaurants," Greek, Falafel, Seafood "
+4,QUEENS,Nicks Bistro,4.5,restaurants, Pizza 
+4,QUEENS,Macoletta,4,restaurants," Wine Bars, Breakfast & Brunch "
+4,QUEENS,Jack & Nellie’s,4,restaurants," Shanghainese, Specialty Food, Noodles "
+4,QUEENS,Nan Xiang Xiao Long Bao,4,restaurants," Breakfast & Brunch, American (New), Comfort Food "
+4,QUEENS,Queens Comfort,4.5,restaurants, Thai 
+4,QUEENS,Kitchen 79,4,restaurants," Latin American, Cuban "
+4,QUEENS,Cabana,4,restaurants," Caribbean, Desserts, Seafood "
+4,QUEENS,The Door,4,restaurants," Breakfast & Brunch, American (New), Whiskey Bars "
+4,QUEENS,Sanfords Astoria,4.5,restaurants," American (New), Hawaiian, Tiki Bars "
+4,QUEENS,The Highwater,4,restaurants," Barbeque, Burgers "
+4,QUEENS,Butcher Bar,4,restaurants," Seafood, Greek, Mediterranean "
+4,QUEENS,Taverna Kyclades,4.5,restaurants," Mediterranean, Kosher, Georgian "
+4,QUEENS,Marani,4,restaurants," Seafood, Cajun/Creole "
+4,QUEENS,Naked Crab,4.5,restaurants," Chinese, Taiwanese "
+4,QUEENS,Mama Lee,4.5,restaurants, Cuban 
+4,QUEENS,Rincon Criollo,4.5,restaurants, Himalayan/Nepalese 
+4,QUEENS,Momo Crave,4,restaurants, Korean 
+4,QUEENS,Hahm Ji Bach,4,restaurants," Ramen, Sushi Bars "
+4,QUEENS,Hashi Ramen & Izakaya,4.5,restaurants, Filipino 
+4,QUEENS,Papa’s Kitchen,4.5,restaurants, Korean 
+4,QUEENS,Dae Sung Kal Guk Su,5,restaurants," Gastropubs, Tapas Bars, Breakfast & Brunch "
+4,QUEENS,The Alcove,4.5,restaurants, Thai 
+4,QUEENS,Kin’d,4,restaurants," Gastropubs, Cocktail Bars, Beer Bar "
+4,QUEENS,Forest Hills Station House,4.5,restaurants," Vietnamese, Sandwiches, Asian Fusion "
+4,QUEENS,JoJu,4.5,restaurants," Peruvian, Cocktail Bars, Tapas Bars "
+4,QUEENS,Jora Restaurant & Bar,4,restaurants, Thai 
+4,QUEENS,SriPraPhai Thai Restaurant,4.5,restaurants," Cajun/Creole, Seafood, Bars "
+4,QUEENS,Oceanic Boil,4,restaurants," Vietnamese, Cocktail Bars "
+4,QUEENS,District Saigon,4,restaurants," Cajun/Creole, Southern, Breakfast & Brunch "
+4,QUEENS,Sugar Freak,4.5,restaurants," Greek, Falafel, Seafood "
+4,QUEENS,Nicks Bistro,4.5,restaurants, Pizza 
+4,QUEENS,Macoletta,4,restaurants," Wine Bars, Breakfast & Brunch "
+4,QUEENS,Jack & Nellie’s,4,restaurants," Shanghainese, Specialty Food, Noodles "
+4,QUEENS,Nan Xiang Xiao Long Bao,4,restaurants," Breakfast & Brunch, American (New), Comfort Food "
+4,QUEENS,Queens Comfort,4.5,restaurants, Thai 
+4,QUEENS,Kitchen 79,4,restaurants," Latin American, Cuban "
+4,QUEENS,Cabana,4,restaurants," Caribbean, Desserts, Seafood "
+4,QUEENS,The Door,4,restaurants," Breakfast & Brunch, American (New), Whiskey Bars "
+4,QUEENS,Sanfords Astoria,4.5,restaurants," American (New), Hawaiian, Tiki Bars "
+4,QUEENS,The Highwater,4,restaurants," Barbeque, Burgers "
+4,QUEENS,Butcher Bar,4,restaurants," Seafood, Greek, Mediterranean "
+4,QUEENS,Taverna Kyclades,4.5,restaurants," Mediterranean, Kosher, Georgian "
+4,QUEENS,Marani,4,restaurants," Seafood, Cajun/Creole "
+4,QUEENS,Naked Crab,4.5,restaurants," Chinese, Taiwanese "
+4,QUEENS,Mama Lee,4.5,restaurants, Cuban 
+4,QUEENS,Rincon Criollo,4.5,restaurants, Himalayan/Nepalese 
+4,QUEENS,Momo Crave,4,restaurants, Korean 
+4,QUEENS,Hahm Ji Bach,4,restaurants," Ramen, Sushi Bars "
+4,QUEENS,Hashi Ramen & Izakaya,4.5,restaurants, Filipino 
+4,QUEENS,Papa’s Kitchen,4.5,restaurants, Korean 
+4,QUEENS,Dae Sung Kal Guk Su,5,restaurants," Gastropubs, Tapas Bars, Breakfast & Brunch "
+4,QUEENS,The Alcove,4.5,restaurants, Thai 
+4,QUEENS,Kin’d,4,restaurants," Gastropubs, Cocktail Bars, Beer Bar "
+4,QUEENS,Forest Hills Station House,4.5,restaurants," Vietnamese, Sandwiches, Asian Fusion "
+4,QUEENS,JoJu,4.5,restaurants," Peruvian, Cocktail Bars, Tapas Bars "
+4,QUEENS,Jora Restaurant & Bar,4,restaurants, Thai 
+4,QUEENS,SriPraPhai Thai Restaurant,4.5,restaurants," Cajun/Creole, Seafood, Bars "
+4,QUEENS,Oceanic Boil,4,restaurants," Vietnamese, Cocktail Bars "
+4,QUEENS,District Saigon,4,restaurants," Cajun/Creole, Southern, Breakfast & Brunch "
+4,QUEENS,Sugar Freak,4.5,restaurants," Greek, Falafel, Seafood "
+4,QUEENS,Nicks Bistro,4.5,restaurants, Pizza 
+4,QUEENS,Macoletta,4,restaurants," Wine Bars, Breakfast & Brunch "
+4,QUEENS,Jack & Nellie’s,4,restaurants," Shanghainese, Specialty Food, Noodles "
+4,QUEENS,Nan Xiang Xiao Long Bao,4,restaurants," Breakfast & Brunch, American (New), Comfort Food "
+4,QUEENS,Queens Comfort,4.5,restaurants, Thai 
+4,QUEENS,Kitchen 79,4,restaurants," Latin American, Cuban "
+4,QUEENS,Cabana,4,restaurants," Caribbean, Desserts, Seafood "
+4,QUEENS,The Door,4,restaurants," Breakfast & Brunch, American (New), Whiskey Bars "
+4,QUEENS,Sanfords Astoria,4.5,restaurants," American (New), Hawaiian, Tiki Bars "
+4,QUEENS,The Highwater,4,restaurants," Barbeque, Burgers "
+4,QUEENS,Butcher Bar,4,restaurants," Seafood, Greek, Mediterranean "
+4,QUEENS,Taverna Kyclades,4.5,restaurants," Mediterranean, Kosher, Georgian "
+4,QUEENS,Marani,4,restaurants," Seafood, Cajun/Creole "
+4,QUEENS,Naked Crab,4.5,restaurants," Chinese, Taiwanese "
+4,QUEENS,Mama Lee,4.5,restaurants, Cuban 
+4,QUEENS,Rincon Criollo,4.5,restaurants, Himalayan/Nepalese 
+4,QUEENS,Momo Crave,4,restaurants, Korean 
+4,QUEENS,Hahm Ji Bach,4,restaurants," Ramen, Sushi Bars "
+4,QUEENS,Hashi Ramen & Izakaya,4.5,restaurants, Filipino 
+4,QUEENS,Papa’s Kitchen,4.5,restaurants, Korean 
+4,QUEENS,Dae Sung Kal Guk Su,4,Nightlife, Lounges 
+4,QUEENS,A+ Roof Bar,4.5,Nightlife," Lounges, Hookah Bars "
+4,QUEENS,Desert Rain Lounge,4.5,Nightlife, Lounges 
+4,QUEENS,Blend Lounge NY,4,Nightlife," Lounges, Cocktail Bars, Venues & Event Spaces "
+4,QUEENS,Leaf Bar & Lounge,4.5,Nightlife," Cocktail Bars, Lounges, Wine Bars "
+4,QUEENS,La Sala,4,Nightlife," Lounges, Cocktail Bars "
+4,QUEENS,Rooftop 93,2.5,Nightlife," Lounges, Music Venues, Chicken Wings "
+4,QUEENS,Sorry Not Sorry,4.5,Nightlife," Hookah Bars, Desserts, Lounges "
+4,QUEENS,Sugar N Coal,3.5,Nightlife, Lounges 
+4,QUEENS,Playboy Club NYC,5,Nightlife, Dive Bars 
+4,QUEENS,Luv Story Bar,5,Nightlife," Bars, Comfort Food "
+4,QUEENS,3308 Eats n’ Drinks,5,Nightlife," Dance Clubs, Lounges "
+4,QUEENS,City View Ultra Lounge,4,Nightlife," Dance Clubs, Sports Bars, Lounges "
+4,QUEENS,Tavern Lounge,2,Nightlife, Dance Clubs 
+4,QUEENS,La Boom,2,Nightlife, Lounges 
+4,QUEENS,F Lit,3.5,Nightlife," Lounges, American (Traditional) "
+4,QUEENS,Tropix Bar & Lounge,5,Nightlife," Lounges, Hookah Bars "
+4,QUEENS,Vacilon Bar Lounge,5,Nightlife," Hookah Bars, Lounges "
+4,QUEENS,Hydra Lounge,4.5,Nightlife, Lounges 
+4,QUEENS,Elevate Sky Lounge,5,Nightlife," Dance Clubs, Cocktail Bars "
+4,QUEENS,LivePlayLove,4.5,Nightlife," Cocktail Bars, Tapas/Small Plates, Hookah Bars "
+4,QUEENS,C Bar & Lounge,4,Nightlife," Lounges, Pool Halls, Hookah Bars "
+4,QUEENS,M2 Lounge & Billiards,4.5,Nightlife," Bars, Cuban "
+4,QUEENS,Mojitos,4,Nightlife," Lounges, Karaoke, Sports Bars "
+4,QUEENS,Cali Red Lounge,3.5,Nightlife," Lounges, Tapas Bars, Cocktail Bars "
+4,QUEENS,Amaru Pisco bar,3.5,Nightlife, Lounges 
+4,QUEENS,Platinum Lounge,5,Nightlife," Hookah Bars, Lounges, Indian "
+4,QUEENS,Taj Village,4.5,Nightlife," Cocktail Bars, Music Venues "
+4,QUEENS,Meet Cuisine & Bar,1.5,Nightlife," Lounges, Dance Clubs "
+4,QUEENS,SL Lounge,4.5,Nightlife," Music Venues, Lounges, Colombian "
+4,QUEENS,D’Antigua Lounge,4,Nightlife, Lounges 
+4,QUEENS,A+ Roof Bar,4.5,Nightlife," Lounges, Hookah Bars "
+4,QUEENS,Desert Rain Lounge,4.5,Nightlife, Lounges 
+4,QUEENS,Blend Lounge NY,4,Nightlife," Lounges, Cocktail Bars, Venues & Event Spaces "
+4,QUEENS,Leaf Bar & Lounge,4.5,Nightlife," Cocktail Bars, Lounges, Wine Bars "
+4,QUEENS,La Sala,4,Nightlife," Lounges, Cocktail Bars "
+4,QUEENS,Rooftop 93,2.5,Nightlife," Lounges, Music Venues, Chicken Wings "
+4,QUEENS,Sorry Not Sorry,4.5,Nightlife," Hookah Bars, Desserts, Lounges "
+4,QUEENS,Sugar N Coal,3.5,Nightlife, Lounges 
+4,QUEENS,Playboy Club NYC,5,Nightlife, Dive Bars 
+4,QUEENS,Luv Story Bar,5,Nightlife," Bars, Comfort Food "
+4,QUEENS,3308 Eats n’ Drinks,5,Nightlife," Dance Clubs, Lounges "
+4,QUEENS,City View Ultra Lounge,4,Nightlife," Dance Clubs, Sports Bars, Lounges "
+4,QUEENS,Tavern Lounge,2,Nightlife, Dance Clubs 
+4,QUEENS,La Boom,2,Nightlife, Lounges 
+4,QUEENS,F Lit,3.5,Nightlife," Lounges, American (Traditional) "
+4,QUEENS,Tropix Bar & Lounge,5,Nightlife," Lounges, Hookah Bars "
+4,QUEENS,Vacilon Bar Lounge,5,Nightlife," Hookah Bars, Lounges "
+4,QUEENS,Hydra Lounge,4.5,Nightlife, Lounges 
+4,QUEENS,Elevate Sky Lounge,5,Nightlife," Dance Clubs, Cocktail Bars "
+4,QUEENS,LivePlayLove,4.5,Nightlife," Cocktail Bars, Tapas/Small Plates, Hookah Bars "
+4,QUEENS,C Bar & Lounge,4,Nightlife," Lounges, Pool Halls, Hookah Bars "
+4,QUEENS,M2 Lounge & Billiards,4.5,Nightlife," Bars, Cuban "
+4,QUEENS,Mojitos,4,Nightlife," Lounges, Karaoke, Sports Bars "
+4,QUEENS,Cali Red Lounge,3.5,Nightlife," Lounges, Tapas Bars, Cocktail Bars "
+4,QUEENS,Amaru Pisco bar,3.5,Nightlife, Lounges 
+4,QUEENS,Platinum Lounge,5,Nightlife," Hookah Bars, Lounges, Indian "
+4,QUEENS,Taj Village,4.5,Nightlife," Cocktail Bars, Music Venues "
+4,QUEENS,Meet Cuisine & Bar,1.5,Nightlife," Lounges, Dance Clubs "
+4,QUEENS,SL Lounge,4.5,Nightlife," Music Venues, Lounges, Colombian "
+4,QUEENS,D’Antigua Lounge,4,Nightlife, Lounges 
+4,QUEENS,A+ Roof Bar,4.5,Nightlife," Lounges, Hookah Bars "
+4,QUEENS,Desert Rain Lounge,4.5,Nightlife, Lounges 
+4,QUEENS,Blend Lounge NY,4,Nightlife," Lounges, Cocktail Bars, Venues & Event Spaces "
+4,QUEENS,Leaf Bar & Lounge,4.5,Nightlife," Cocktail Bars, Lounges, Wine Bars "
+4,QUEENS,La Sala,4,Nightlife," Lounges, Cocktail Bars "
+4,QUEENS,Rooftop 93,2.5,Nightlife," Lounges, Music Venues, Chicken Wings "
+4,QUEENS,Sorry Not Sorry,4.5,Nightlife," Hookah Bars, Desserts, Lounges "
+4,QUEENS,Sugar N Coal,3.5,Nightlife, Lounges 
+4,QUEENS,Playboy Club NYC,5,Nightlife, Dive Bars 
+4,QUEENS,Luv Story Bar,5,Nightlife," Bars, Comfort Food "
+4,QUEENS,3308 Eats n’ Drinks,5,Nightlife," Dance Clubs, Lounges "
+4,QUEENS,City View Ultra Lounge,4,Nightlife," Dance Clubs, Sports Bars, Lounges "
+4,QUEENS,Tavern Lounge,2,Nightlife, Dance Clubs 
+4,QUEENS,La Boom,2,Nightlife, Lounges 
+4,QUEENS,F Lit,3.5,Nightlife," Lounges, American (Traditional) "
+4,QUEENS,Tropix Bar & Lounge,5,Nightlife," Lounges, Hookah Bars "
+4,QUEENS,Vacilon Bar Lounge,5,Nightlife," Hookah Bars, Lounges "
+4,QUEENS,Hydra Lounge,4.5,Nightlife, Lounges 
+4,QUEENS,Elevate Sky Lounge,5,Nightlife," Dance Clubs, Cocktail Bars "
+4,QUEENS,LivePlayLove,4.5,Nightlife," Cocktail Bars, Tapas/Small Plates, Hookah Bars "
+4,QUEENS,C Bar & Lounge,4,Nightlife," Lounges, Pool Halls, Hookah Bars "
+4,QUEENS,M2 Lounge & Billiards,4.5,Nightlife," Bars, Cuban "
+4,QUEENS,Mojitos,4,Nightlife," Lounges, Karaoke, Sports Bars "
+4,QUEENS,Cali Red Lounge,3.5,Nightlife," Lounges, Tapas Bars, Cocktail Bars "
+4,QUEENS,Amaru Pisco bar,3.5,Nightlife, Lounges 
+4,QUEENS,Platinum Lounge,5,Nightlife," Hookah Bars, Lounges, Indian "
+4,QUEENS,Taj Village,4.5,Nightlife," Cocktail Bars, Music Venues "
+4,QUEENS,Meet Cuisine & Bar,1.5,Nightlife," Lounges, Dance Clubs "
+4,QUEENS,SL Lounge,4.5,Nightlife," Music Venues, Lounges, Colombian "
+4,QUEENS,D’Antigua Lounge,4,Nightlife, Lounges 
+4,QUEENS,A+ Roof Bar,4.5,Nightlife," Lounges, Hookah Bars "
+4,QUEENS,Desert Rain Lounge,4.5,Nightlife, Lounges 
+4,QUEENS,Blend Lounge NY,4,Nightlife," Lounges, Cocktail Bars, Venues & Event Spaces "
+4,QUEENS,Leaf Bar & Lounge,4.5,Nightlife," Cocktail Bars, Lounges, Wine Bars "
+4,QUEENS,La Sala,4,Nightlife," Lounges, Cocktail Bars "
+4,QUEENS,Rooftop 93,2.5,Nightlife," Lounges, Music Venues, Chicken Wings "
+4,QUEENS,Sorry Not Sorry,4.5,Nightlife," Hookah Bars, Desserts, Lounges "
+4,QUEENS,Sugar N Coal,3.5,Nightlife, Lounges 
+4,QUEENS,Playboy Club NYC,5,Nightlife, Dive Bars 
+4,QUEENS,Luv Story Bar,5,Nightlife," Bars, Comfort Food "
+4,QUEENS,3308 Eats n’ Drinks,5,Nightlife," Dance Clubs, Lounges "
+4,QUEENS,City View Ultra Lounge,4,Nightlife," Dance Clubs, Sports Bars, Lounges "
+4,QUEENS,Tavern Lounge,2,Nightlife, Dance Clubs 
+4,QUEENS,La Boom,2,Nightlife, Lounges 
+4,QUEENS,F Lit,3.5,Nightlife," Lounges, American (Traditional) "
+4,QUEENS,Tropix Bar & Lounge,5,Nightlife," Lounges, Hookah Bars "
+4,QUEENS,Vacilon Bar Lounge,5,Nightlife," Hookah Bars, Lounges "
+4,QUEENS,Hydra Lounge,4.5,Nightlife, Lounges 
+4,QUEENS,Elevate Sky Lounge,5,Nightlife," Dance Clubs, Cocktail Bars "
+4,QUEENS,LivePlayLove,4.5,Nightlife," Cocktail Bars, Tapas/Small Plates, Hookah Bars "
+4,QUEENS,C Bar & Lounge,4,Nightlife," Lounges, Pool Halls, Hookah Bars "
+4,QUEENS,M2 Lounge & Billiards,4.5,Nightlife," Bars, Cuban "
+4,QUEENS,Mojitos,4,Nightlife," Lounges, Karaoke, Sports Bars "
+4,QUEENS,Cali Red Lounge,3.5,Nightlife," Lounges, Tapas Bars, Cocktail Bars "
+4,QUEENS,Amaru Pisco bar,3.5,Nightlife, Lounges 
+4,QUEENS,Platinum Lounge,5,Nightlife," Hookah Bars, Lounges, Indian "
+4,QUEENS,Taj Village,4.5,Nightlife," Cocktail Bars, Music Venues "
+4,QUEENS,Meet Cuisine & Bar,1.5,Nightlife," Lounges, Dance Clubs "
+4,QUEENS,SL Lounge,4.5,Nightlife," Music Venues, Lounges, Colombian "
+4,QUEENS,D’Antigua Lounge,4,Nightlife, Lounges 
+4,QUEENS,A+ Roof Bar,4.5,Nightlife," Lounges, Hookah Bars "
+4,QUEENS,Desert Rain Lounge,4.5,Nightlife, Lounges 
+4,QUEENS,Blend Lounge NY,4,Nightlife," Lounges, Cocktail Bars, Venues & Event Spaces "
+4,QUEENS,Leaf Bar & Lounge,4.5,Nightlife," Cocktail Bars, Lounges, Wine Bars "
+4,QUEENS,La Sala,4,Nightlife," Lounges, Cocktail Bars "
+4,QUEENS,Rooftop 93,2.5,Nightlife," Lounges, Music Venues, Chicken Wings "
+4,QUEENS,Sorry Not Sorry,4.5,Nightlife," Hookah Bars, Desserts, Lounges "
+4,QUEENS,Sugar N Coal,3.5,Nightlife, Lounges 
+4,QUEENS,Playboy Club NYC,5,Nightlife, Dive Bars 
+4,QUEENS,Luv Story Bar,5,Nightlife," Bars, Comfort Food "
+4,QUEENS,3308 Eats n’ Drinks,5,Nightlife," Dance Clubs, Lounges "
+4,QUEENS,City View Ultra Lounge,4,Nightlife," Dance Clubs, Sports Bars, Lounges "
+4,QUEENS,Tavern Lounge,2,Nightlife, Dance Clubs 
+4,QUEENS,La Boom,2,Nightlife, Lounges 
+4,QUEENS,F Lit,3.5,Nightlife," Lounges, American (Traditional) "
+4,QUEENS,Tropix Bar & Lounge,5,Nightlife," Lounges, Hookah Bars "
+4,QUEENS,Vacilon Bar Lounge,5,Nightlife," Hookah Bars, Lounges "
+4,QUEENS,Hydra Lounge,4.5,Nightlife, Lounges 
+4,QUEENS,Elevate Sky Lounge,5,Nightlife," Dance Clubs, Cocktail Bars "
+4,QUEENS,LivePlayLove,4.5,Nightlife," Cocktail Bars, Tapas/Small Plates, Hookah Bars "
+4,QUEENS,C Bar & Lounge,4,Nightlife," Lounges, Pool Halls, Hookah Bars "
+4,QUEENS,M2 Lounge & Billiards,4.5,Nightlife," Bars, Cuban "
+4,QUEENS,Mojitos,4,Nightlife," Lounges, Karaoke, Sports Bars "
+4,QUEENS,Cali Red Lounge,3.5,Nightlife," Lounges, Tapas Bars, Cocktail Bars "
+4,QUEENS,Amaru Pisco bar,3.5,Nightlife, Lounges 
+4,QUEENS,Platinum Lounge,5,Nightlife," Hookah Bars, Lounges, Indian "
+4,QUEENS,Taj Village,4.5,Nightlife," Cocktail Bars, Music Venues "
+4,QUEENS,Meet Cuisine & Bar,1.5,Nightlife," Lounges, Dance Clubs "
+4,QUEENS,SL Lounge,4.5,Nightlife," Music Venues, Lounges, Colombian "
+4,QUEENS,D’Antigua Lounge,4,Nightlife, Lounges 
+4,QUEENS,A+ Roof Bar,4.5,Nightlife," Lounges, Hookah Bars "
+4,QUEENS,Desert Rain Lounge,4.5,Nightlife, Lounges 
+4,QUEENS,Blend Lounge NY,4,Nightlife," Lounges, Cocktail Bars, Venues & Event Spaces "
+4,QUEENS,Leaf Bar & Lounge,4.5,Nightlife," Cocktail Bars, Lounges, Wine Bars "
+4,QUEENS,La Sala,4,Nightlife," Lounges, Cocktail Bars "
+4,QUEENS,Rooftop 93,2.5,Nightlife," Lounges, Music Venues, Chicken Wings "
+4,QUEENS,Sorry Not Sorry,4.5,Nightlife," Hookah Bars, Desserts, Lounges "
+4,QUEENS,Sugar N Coal,3.5,Nightlife, Lounges 
+4,QUEENS,Playboy Club NYC,5,Nightlife, Dive Bars 
+4,QUEENS,Luv Story Bar,5,Nightlife," Bars, Comfort Food "
+4,QUEENS,3308 Eats n’ Drinks,5,Nightlife," Dance Clubs, Lounges "
+4,QUEENS,City View Ultra Lounge,4,Nightlife," Dance Clubs, Sports Bars, Lounges "
+4,QUEENS,Tavern Lounge,2,Nightlife, Dance Clubs 
+4,QUEENS,La Boom,2,Nightlife, Lounges 
+4,QUEENS,F Lit,3.5,Nightlife," Lounges, American (Traditional) "
+4,QUEENS,Tropix Bar & Lounge,5,Nightlife," Lounges, Hookah Bars "
+4,QUEENS,Vacilon Bar Lounge,5,Nightlife," Hookah Bars, Lounges "
+4,QUEENS,Hydra Lounge,4.5,Nightlife, Lounges 
+4,QUEENS,Elevate Sky Lounge,5,Nightlife," Dance Clubs, Cocktail Bars "
+4,QUEENS,LivePlayLove,4.5,Nightlife," Cocktail Bars, Tapas/Small Plates, Hookah Bars "
+4,QUEENS,C Bar & Lounge,4,Nightlife," Lounges, Pool Halls, Hookah Bars "
+4,QUEENS,M2 Lounge & Billiards,4.5,Nightlife," Bars, Cuban "
+4,QUEENS,Mojitos,4,Nightlife," Lounges, Karaoke, Sports Bars "
+4,QUEENS,Cali Red Lounge,3.5,Nightlife," Lounges, Tapas Bars, Cocktail Bars "
+4,QUEENS,Amaru Pisco bar,3.5,Nightlife, Lounges 
+4,QUEENS,Platinum Lounge,5,Nightlife," Hookah Bars, Lounges, Indian "
+4,QUEENS,Taj Village,4.5,Nightlife," Cocktail Bars, Music Venues "
+4,QUEENS,Meet Cuisine & Bar,1.5,Nightlife," Lounges, Dance Clubs "
+4,QUEENS,SL Lounge,4.5,Nightlife," Music Venues, Lounges, Colombian "
+4,QUEENS,D’Antigua Lounge,4,Nightlife, Lounges 
+4,QUEENS,A+ Roof Bar,4.5,Nightlife," Lounges, Hookah Bars "
+4,QUEENS,Desert Rain Lounge,4.5,Nightlife, Lounges 
+4,QUEENS,Blend Lounge NY,4,Nightlife," Lounges, Cocktail Bars, Venues & Event Spaces "
+4,QUEENS,Leaf Bar & Lounge,4.5,Nightlife," Cocktail Bars, Lounges, Wine Bars "
+4,QUEENS,La Sala,4,Nightlife," Lounges, Cocktail Bars "
+4,QUEENS,Rooftop 93,2.5,Nightlife," Lounges, Music Venues, Chicken Wings "
+4,QUEENS,Sorry Not Sorry,4.5,Nightlife," Hookah Bars, Desserts, Lounges "
+4,QUEENS,Sugar N Coal,3.5,Nightlife, Lounges 
+4,QUEENS,Playboy Club NYC,5,Nightlife, Dive Bars 
+4,QUEENS,Luv Story Bar,5,Nightlife," Bars, Comfort Food "
+4,QUEENS,3308 Eats n’ Drinks,5,Nightlife," Dance Clubs, Lounges "
+4,QUEENS,City View Ultra Lounge,4,Nightlife," Dance Clubs, Sports Bars, Lounges "
+4,QUEENS,Tavern Lounge,2,Nightlife, Dance Clubs 
+4,QUEENS,La Boom,2,Nightlife, Lounges 
+4,QUEENS,F Lit,3.5,Nightlife," Lounges, American (Traditional) "
+4,QUEENS,Tropix Bar & Lounge,5,Nightlife," Lounges, Hookah Bars "
+4,QUEENS,Vacilon Bar Lounge,5,Nightlife," Hookah Bars, Lounges "
+4,QUEENS,Hydra Lounge,4.5,Nightlife, Lounges 
+4,QUEENS,Elevate Sky Lounge,5,Nightlife," Dance Clubs, Cocktail Bars "
+4,QUEENS,LivePlayLove,4.5,Nightlife," Cocktail Bars, Tapas/Small Plates, Hookah Bars "
+4,QUEENS,C Bar & Lounge,4,Nightlife," Lounges, Pool Halls, Hookah Bars "
+4,QUEENS,M2 Lounge & Billiards,4.5,Nightlife," Bars, Cuban "
+4,QUEENS,Mojitos,4,Nightlife," Lounges, Karaoke, Sports Bars "
+4,QUEENS,Cali Red Lounge,3.5,Nightlife," Lounges, Tapas Bars, Cocktail Bars "
+4,QUEENS,Amaru Pisco bar,3.5,Nightlife, Lounges 
+4,QUEENS,Platinum Lounge,5,Nightlife," Hookah Bars, Lounges, Indian "
+4,QUEENS,Taj Village,4.5,Nightlife," Cocktail Bars, Music Venues "
+4,QUEENS,Meet Cuisine & Bar,1.5,Nightlife," Lounges, Dance Clubs "
+4,QUEENS,SL Lounge,4.5,Nightlife," Music Venues, Lounges, Colombian "
+4,QUEENS,D’Antigua Lounge,4,Nightlife, Lounges 
+4,QUEENS,A+ Roof Bar,4.5,Nightlife," Lounges, Hookah Bars "
+4,QUEENS,Desert Rain Lounge,4.5,Nightlife, Lounges 
+4,QUEENS,Blend Lounge NY,4,Nightlife," Lounges, Cocktail Bars, Venues & Event Spaces "
+4,QUEENS,Leaf Bar & Lounge,4.5,Nightlife," Cocktail Bars, Lounges, Wine Bars "
+4,QUEENS,La Sala,4,Nightlife," Lounges, Cocktail Bars "
+4,QUEENS,Rooftop 93,2.5,Nightlife," Lounges, Music Venues, Chicken Wings "
+4,QUEENS,Sorry Not Sorry,4.5,Nightlife," Hookah Bars, Desserts, Lounges "
+4,QUEENS,Sugar N Coal,3.5,Nightlife, Lounges 
+4,QUEENS,Playboy Club NYC,5,Nightlife, Dive Bars 
+4,QUEENS,Luv Story Bar,5,Nightlife," Bars, Comfort Food "
+4,QUEENS,3308 Eats n’ Drinks,5,Nightlife," Dance Clubs, Lounges "
+4,QUEENS,City View Ultra Lounge,4,Nightlife," Dance Clubs, Sports Bars, Lounges "
+4,QUEENS,Tavern Lounge,2,Nightlife, Dance Clubs 
+4,QUEENS,La Boom,2,Nightlife, Lounges 
+4,QUEENS,F Lit,3.5,Nightlife," Lounges, American (Traditional) "
+4,QUEENS,Tropix Bar & Lounge,5,Nightlife," Lounges, Hookah Bars "
+4,QUEENS,Vacilon Bar Lounge,5,Nightlife," Hookah Bars, Lounges "
+4,QUEENS,Hydra Lounge,4.5,Nightlife, Lounges 
+4,QUEENS,Elevate Sky Lounge,5,Nightlife," Dance Clubs, Cocktail Bars "
+4,QUEENS,LivePlayLove,4.5,Nightlife," Cocktail Bars, Tapas/Small Plates, Hookah Bars "
+4,QUEENS,C Bar & Lounge,4,Nightlife," Lounges, Pool Halls, Hookah Bars "
+4,QUEENS,M2 Lounge & Billiards,4.5,Nightlife," Bars, Cuban "
+4,QUEENS,Mojitos,4,Nightlife," Lounges, Karaoke, Sports Bars "
+4,QUEENS,Cali Red Lounge,3.5,Nightlife," Lounges, Tapas Bars, Cocktail Bars "
+4,QUEENS,Amaru Pisco bar,3.5,Nightlife, Lounges 
+4,QUEENS,Platinum Lounge,5,Nightlife," Hookah Bars, Lounges, Indian "
+4,QUEENS,Taj Village,4.5,Nightlife," Cocktail Bars, Music Venues "
+4,QUEENS,Meet Cuisine & Bar,1.5,Nightlife," Lounges, Dance Clubs "
+4,QUEENS,SL Lounge,4.5,Nightlife," Music Venues, Lounges, Colombian "
+4,QUEENS,D’Antigua Lounge,4,Entertainment," Shanghainese, Specialty Food, Noodles "
+4,QUEENS,Nan Xiang Xiao Long Bao,4.5,Entertainment," Vietnamese, Sandwiches, Asian Fusion "
+4,QUEENS,JoJu,4,Entertainment," Seafood, Greek, Mediterranean "
+4,QUEENS,Taverna Kyclades,4.5,Entertainment," Delis, Sandwiches "
+4,QUEENS,"Sal, Kris, & Charlie’s Deli",4.5,Entertainment," Italian, Sandwiches, Tapas Bars "
+4,QUEENS,Il Bambino,4,Entertainment," Breakfast & Brunch, American (New), Comfort Food "
+4,QUEENS,Queens Comfort,4,Entertainment, Thai 
+4,QUEENS,SriPraPhai Thai Restaurant,5,Entertainment," Gastropubs, Tapas Bars, Breakfast & Brunch "
+4,QUEENS,The Alcove,4.5,Entertainment, Indian 
+4,QUEENS,Seva Indian Cuisine,4,Entertainment," Bakeries, Coffee & Tea, Desserts "
+4,QUEENS,Martha’s Country Bakery,4,Entertainment," Shanghainese, Specialty Food, Noodles "
+4,QUEENS,Nan Xiang Xiao Long Bao,4.5,Entertainment," Vietnamese, Sandwiches, Asian Fusion "
+4,QUEENS,JoJu,4,Entertainment," Seafood, Greek, Mediterranean "
+4,QUEENS,Taverna Kyclades,4.5,Entertainment," Delis, Sandwiches "
+4,QUEENS,"Sal, Kris, & Charlie’s Deli",4.5,Entertainment," Italian, Sandwiches, Tapas Bars "
+4,QUEENS,Il Bambino,4,Entertainment," Breakfast & Brunch, American (New), Comfort Food "
+4,QUEENS,Queens Comfort,4,Entertainment, Thai 
+4,QUEENS,SriPraPhai Thai Restaurant,5,Entertainment," Gastropubs, Tapas Bars, Breakfast & Brunch "
+4,QUEENS,The Alcove,4.5,Entertainment, Indian 
+4,QUEENS,Seva Indian Cuisine,4,Entertainment," Bakeries, Coffee & Tea, Desserts "
+4,QUEENS,Martha’s Country Bakery,4,Entertainment," Shanghainese, Specialty Food, Noodles "
+4,QUEENS,Nan Xiang Xiao Long Bao,4.5,Entertainment," Vietnamese, Sandwiches, Asian Fusion "
+4,QUEENS,JoJu,4,Entertainment," Seafood, Greek, Mediterranean "
+4,QUEENS,Taverna Kyclades,4.5,Entertainment," Delis, Sandwiches "
+4,QUEENS,"Sal, Kris, & Charlie’s Deli",4.5,Entertainment," Italian, Sandwiches, Tapas Bars "
+4,QUEENS,Il Bambino,4,Entertainment," Breakfast & Brunch, American (New), Comfort Food "
+4,QUEENS,Queens Comfort,4,Entertainment, Thai 
+4,QUEENS,SriPraPhai Thai Restaurant,5,Entertainment," Gastropubs, Tapas Bars, Breakfast & Brunch "
+4,QUEENS,The Alcove,4.5,Entertainment, Indian 
+4,QUEENS,Seva Indian Cuisine,4,Entertainment," Bakeries, Coffee & Tea, Desserts "
+4,QUEENS,Martha’s Country Bakery,4,Entertainment," Shanghainese, Specialty Food, Noodles "
+4,QUEENS,Nan Xiang Xiao Long Bao,4.5,Entertainment," Vietnamese, Sandwiches, Asian Fusion "
+4,QUEENS,JoJu,4,Entertainment," Seafood, Greek, Mediterranean "
+4,QUEENS,Taverna Kyclades,4.5,Entertainment," Delis, Sandwiches "
+4,QUEENS,"Sal, Kris, & Charlie’s Deli",4.5,Entertainment," Italian, Sandwiches, Tapas Bars "
+4,QUEENS,Il Bambino,4,Entertainment," Breakfast & Brunch, American (New), Comfort Food "
+4,QUEENS,Queens Comfort,4,Entertainment, Thai 
+4,QUEENS,SriPraPhai Thai Restaurant,5,Entertainment," Gastropubs, Tapas Bars, Breakfast & Brunch "
+4,QUEENS,The Alcove,4.5,Entertainment, Indian 
+4,QUEENS,Seva Indian Cuisine,4,Entertainment," Bakeries, Coffee & Tea, Desserts "
+4,QUEENS,Martha’s Country Bakery,4,Entertainment," Shanghainese, Specialty Food, Noodles "
+4,QUEENS,Nan Xiang Xiao Long Bao,4.5,Entertainment," Vietnamese, Sandwiches, Asian Fusion "
+4,QUEENS,JoJu,4,Entertainment," Seafood, Greek, Mediterranean "
+4,QUEENS,Taverna Kyclades,4.5,Entertainment," Delis, Sandwiches "
+4,QUEENS,"Sal, Kris, & Charlie’s Deli",4.5,Entertainment," Italian, Sandwiches, Tapas Bars "
+4,QUEENS,Il Bambino,4,Entertainment," Breakfast & Brunch, American (New), Comfort Food "
+4,QUEENS,Queens Comfort,4,Entertainment, Thai 
+4,QUEENS,SriPraPhai Thai Restaurant,5,Entertainment," Gastropubs, Tapas Bars, Breakfast & Brunch "
+4,QUEENS,The Alcove,4.5,Entertainment, Indian 
+4,QUEENS,Seva Indian Cuisine,4,Entertainment," Bakeries, Coffee & Tea, Desserts "
+4,QUEENS,Martha’s Country Bakery,4,Entertainment," Shanghainese, Specialty Food, Noodles "
+4,QUEENS,Nan Xiang Xiao Long Bao,4.5,Entertainment," Vietnamese, Sandwiches, Asian Fusion "
+4,QUEENS,JoJu,4,Entertainment," Seafood, Greek, Mediterranean "
+4,QUEENS,Taverna Kyclades,4.5,Entertainment," Delis, Sandwiches "
+4,QUEENS,"Sal, Kris, & Charlie’s Deli",4.5,Entertainment," Italian, Sandwiches, Tapas Bars "
+4,QUEENS,Il Bambino,4,Entertainment," Breakfast & Brunch, American (New), Comfort Food "
+4,QUEENS,Queens Comfort,4,Entertainment, Thai 
+4,QUEENS,SriPraPhai Thai Restaurant,5,Entertainment," Gastropubs, Tapas Bars, Breakfast & Brunch "
+4,QUEENS,The Alcove,4.5,Entertainment, Indian 
+4,QUEENS,Seva Indian Cuisine,4,Entertainment," Bakeries, Coffee & Tea, Desserts "
+4,QUEENS,Martha’s Country Bakery,4,Entertainment," Shanghainese, Specialty Food, Noodles "
+4,QUEENS,Nan Xiang Xiao Long Bao,4.5,Entertainment," Vietnamese, Sandwiches, Asian Fusion "
+4,QUEENS,JoJu,4,Entertainment," Seafood, Greek, Mediterranean "
+4,QUEENS,Taverna Kyclades,4.5,Entertainment," Delis, Sandwiches "
+4,QUEENS,"Sal, Kris, & Charlie’s Deli",4.5,Entertainment," Italian, Sandwiches, Tapas Bars "
+4,QUEENS,Il Bambino,4,Entertainment," Breakfast & Brunch, American (New), Comfort Food "
+4,QUEENS,Queens Comfort,4,Entertainment, Thai 
+4,QUEENS,SriPraPhai Thai Restaurant,5,Entertainment," Gastropubs, Tapas Bars, Breakfast & Brunch "
+4,QUEENS,The Alcove,4.5,Entertainment, Indian 
+4,QUEENS,Seva Indian Cuisine,4,Entertainment," Bakeries, Coffee & Tea, Desserts "
+4,QUEENS,Martha’s Country Bakery,4,Entertainment," Shanghainese, Specialty Food, Noodles "
+4,QUEENS,Nan Xiang Xiao Long Bao,4.5,Entertainment," Vietnamese, Sandwiches, Asian Fusion "
+4,QUEENS,JoJu,4,Entertainment," Seafood, Greek, Mediterranean "
+4,QUEENS,Taverna Kyclades,4.5,Entertainment," Delis, Sandwiches "
+4,QUEENS,"Sal, Kris, & Charlie’s Deli",4.5,Entertainment," Italian, Sandwiches, Tapas Bars "
+4,QUEENS,Il Bambino,4,Entertainment," Breakfast & Brunch, American (New), Comfort Food "
+4,QUEENS,Queens Comfort,4,Entertainment, Thai 
+4,QUEENS,SriPraPhai Thai Restaurant,5,Entertainment," Gastropubs, Tapas Bars, Breakfast & Brunch "
+4,QUEENS,The Alcove,4.5,Entertainment, Indian 
+4,QUEENS,Seva Indian Cuisine,4,Entertainment," Bakeries, Coffee & Tea, Desserts "
+5,STATEN ISLAND,Craft House,4.5,restaurants," Bars, Barbeque "
+5,STATEN ISLAND,Corner House BBQ,4,restaurants," Barbeque, Cocktail Bars "
+5,STATEN ISLAND,Beso,4,restaurants," Spanish, Tapas Bars, Bars "
+5,STATEN ISLAND,Incas Grill Peruvian kitchen,4,restaurants, Peruvian 
+5,STATEN ISLAND,Hook & Reel,4,restaurants," Cajun/Creole, Seafood "
+5,STATEN ISLAND,Lakruwana,4.5,restaurants, Sri Lankan 
+5,STATEN ISLAND,Violette’s Cellar,4,restaurants," Breakfast & Brunch, Tapas/Small Plates, Speakeasies "
+5,STATEN ISLAND,The Hop Shoppe,4,restaurants," Gastropubs, American (Traditional), Sports Bars "
+5,STATEN ISLAND,West Shore Inn Steakhouse,4,restaurants," Steakhouses, Seafood, American (Traditional) "
+5,STATEN ISLAND,Harvest Cafe,4.5,restaurants, Cafes 
+5,STATEN ISLAND,Surf,4,restaurants," American (New), Cocktail Bars, Wine Bars "
+5,STATEN ISLAND,Marmar,4.5,restaurants," Mediterranean, Syrian "
+5,STATEN ISLAND,Bayou,4,restaurants," Cajun/Creole, Southern, Diners "
+5,STATEN ISLAND,Pho Mac Vietnamese Restaurant,4,restaurants, Vietnamese 
+5,STATEN ISLAND,The Phunky Elephant,3.5,restaurants," American (New), Gastropubs, Cocktail Bars "
+5,STATEN ISLAND,The Stone House at Clove Lakes,4,restaurants," Breakfast & Brunch, American (New), Venues & Event Spaces "
+5,STATEN ISLAND,Nurnberger Bierhaus,4.5,restaurants," German, Bars "
+5,STATEN ISLAND,Blue,4,restaurants," Mediterranean, Seafood, Asian Fusion "
+5,STATEN ISLAND,Shake Shack,4,restaurants," Burgers, Fast Food, Hot Dogs "
+5,STATEN ISLAND,Thali Bar Baar,5,restaurants," Indian, Himalayan/Nepalese "
+5,STATEN ISLAND,Panino Rustico - Staten Island,4.5,restaurants," Creperies, Sandwiches, Italian "
+5,STATEN ISLAND,Richmond Republic,4,restaurants," American (Traditional), Gastropubs "
+5,STATEN ISLAND,Lee’s Tavern,4,restaurants," Pizza, Pubs "
+5,STATEN ISLAND,Enoteca Maria,4,restaurants, Italian 
+5,STATEN ISLAND,Phil-Am Kusina,4.5,restaurants, Filipino 
+5,STATEN ISLAND,Bin 5,4.5,restaurants," Italian, Cocktail Bars "
+5,STATEN ISLAND,Coles Dockside Restaurant,4,restaurants," Seafood, Salad, Sandwiches "
+5,STATEN ISLAND,Taqueria El Gallo Azteca,4.5,restaurants, Mexican 
+5,STATEN ISLAND,Shishito,4.5,restaurants," Ramen, Sushi Bars "
+5,STATEN ISLAND,Hong Kong Kei One,5,restaurants," Asian Fusion, Chinese, Bubble Tea "
+5,STATEN ISLAND,Kiss Me Downtown - A Night In Downtown SI,5,Nightlife, Music Venues 
+5,STATEN ISLAND,The Sand Bar NYC,5,Nightlife," Dance Clubs, Juice Bars & Smoothies "
+5,STATEN ISLAND,Taverna On The Bay,4,Nightlife," Bars, Seafood, Mediterranean "
+5,STATEN ISLAND,1001 Nights Cafe & Lounge,4,Nightlife," Cafes, Hookah Bars "
+5,STATEN ISLAND,Confections Dessert Lounge & Bar,4,Nightlife," Desserts, Lounges, Cocktail Bars "
+5,STATEN ISLAND,Tommy’s Tavern + Tap,4,Nightlife," Pizza, Bars, American (Traditional) "
+5,STATEN ISLAND,Funkey Monkey Lounge,3,Nightlife, Lounges 
+5,STATEN ISLAND,Koten’s Carribean & American Restaurant & Bar,5,Nightlife," Caribbean, Bars "
+5,STATEN ISLAND,Terminal 1,4.5,Nightlife," Polish, Sports Bars, Lounges "
+5,STATEN ISLAND,The Coupe Cocktail Bar,4.5,Nightlife," Cocktail Bars, Tapas/Small Plates "
+5,STATEN ISLAND,The Looney Bin Comedy Club,3.5,Nightlife, Comedy Clubs 
+5,STATEN ISLAND,Cue Time Billiards,4.5,Nightlife, Pool Halls 
+5,STATEN ISLAND,ET Studio Productions,5,Nightlife," Music Production Services, Music Venues, Recording & Rehearsal Studios "
+5,STATEN ISLAND,Rooftop 93,4,Nightlife," Lounges, Cocktail Bars "
+5,STATEN ISLAND,Rúmí Café & Hookah Lounge,5,Nightlife, Hookah Bars 
+5,STATEN ISLAND,Arabica Hookah Lounge & Restaurant,4.5,Nightlife, Hookah Bars 
+5,STATEN ISLAND,Castleton Corners Pub,5,Nightlife, Pubs 
+5,STATEN ISLAND,Violette’s Cellar,4,Nightlife," Breakfast & Brunch, Tapas/Small Plates, Speakeasies "
+5,STATEN ISLAND,Kasbah Restaurant and Hookah Lounge,5,Nightlife," Hookah Bars, Moroccan "
+5,STATEN ISLAND,Curly Wolf Saloon,4,Nightlife," Pubs, Beer Bar "
+5,STATEN ISLAND,Liedy’s Shore Inn,4.5,Nightlife, Bars 
+5,STATEN ISLAND,Talk of the Town Tavern,4,Nightlife, Bars 
+5,STATEN ISLAND,Mr. Ciao,3.5,Nightlife," Sushi Bars, Bars, Italian "
+5,STATEN ISLAND,1ST & 3RD An American Bar,4,Nightlife," American (Traditional), Barbeque, Sports Bars "
+5,STATEN ISLAND,Chef Mike’s Rodizio Grill,3.5,Nightlife," American (Traditional), Bars "
+5,STATEN ISLAND,Amendment 18,3.5,Nightlife," Speakeasies, American (Traditional) "
+5,STATEN ISLAND,Bootleg Mannings,4,Nightlife," Whiskey Bars, Beer Bar, American (Traditional) "
+5,STATEN ISLAND,Unique Lounge & Billiards,3.5,Nightlife," Pool Halls, Bars "
+5,STATEN ISLAND,Island Pour House,4,Entertainment," Pizza, Italian, Chicken Wings "
+5,STATEN ISLAND,Denino’s Pizzeria Tavern,4,Entertainment," Pizza, Pubs "
+5,STATEN ISLAND,Lee’s Tavern,4.5,Entertainment," Sushi Bars, Japanese, Thai "
+5,STATEN ISLAND,Miyabi Asian Fusion,4.5,Entertainment, Sri Lankan 
+5,STATEN ISLAND,Lakruwana,4.5,Entertainment," Italian, Cocktail Bars "
+5,STATEN ISLAND,Bin 5,4.5,Entertainment, Ice Cream & Frozen Yogurt 
+5,STATEN ISLAND,Ralph’s Italian Ice’s,4,Entertainment, Italian 
+5,STATEN ISLAND,Pizzeria Giove,4,Entertainment," Cajun/Creole, Southern, Diners "
+5,STATEN ISLAND,Bayou,4,Entertainment, Peruvian 
+5,STATEN ISLAND,Incas Grill Peruvian kitchen,4.5,Entertainment," Bars, Barbeque "
