@@ -1,0 +1,1856 @@
+,City_name,Name,Review,Service_name,Type
+0,STATEN%20ISLAND,Craft House,4.5,restaurants," Bars, Barbeque "
+1,STATEN%20ISLAND,Corner House BBQ,4.0,restaurants," Barbeque, Cocktail Bars "
+2,STATEN%20ISLAND,Beso,4.0,restaurants," Spanish, Tapas Bars, Bars "
+3,STATEN%20ISLAND,Incas Grill Peruvian kitchen,4.0,restaurants, Peruvian 
+4,STATEN%20ISLAND,Hook & Reel,4.0,restaurants," Cajun/Creole, Seafood "
+5,STATEN%20ISLAND,Lakruwana,4.5,restaurants, Sri Lankan 
+6,STATEN%20ISLAND,Violette’s Cellar,4.0,restaurants," Breakfast & Brunch, Tapas/Small Plates, Speakeasies "
+7,STATEN%20ISLAND,The Hop Shoppe,4.0,restaurants," Gastropubs, American (Traditional), Sports Bars "
+8,STATEN%20ISLAND,West Shore Inn Steakhouse,4.0,restaurants," Steakhouses, Seafood, American (Traditional) "
+9,STATEN%20ISLAND,Harvest Cafe,4.5,restaurants, Cafes 
+10,STATEN%20ISLAND,Surf,4.0,restaurants," American (New), Cocktail Bars, Wine Bars "
+11,STATEN%20ISLAND,Marmar,4.5,restaurants," Mediterranean, Syrian "
+12,STATEN%20ISLAND,Bayou,4.0,restaurants," Cajun/Creole, Southern, Diners "
+13,STATEN%20ISLAND,Pho Mac Vietnamese Restaurant,4.0,restaurants, Vietnamese 
+14,STATEN%20ISLAND,The Phunky Elephant,3.5,restaurants," American (New), Gastropubs, Cocktail Bars "
+15,STATEN%20ISLAND,The Stone House at Clove Lakes,4.0,restaurants," Breakfast & Brunch, American (New), Venues & Event Spaces "
+16,STATEN%20ISLAND,Nurnberger Bierhaus,4.5,restaurants," German, Bars "
+17,STATEN%20ISLAND,Blue,4.0,restaurants," Mediterranean, Seafood, Asian Fusion "
+18,STATEN%20ISLAND,Shake Shack,4.0,restaurants," Burgers, Fast Food, Hot Dogs "
+19,STATEN%20ISLAND,Thali Bar Baar,5.0,restaurants," Indian, Himalayan/Nepalese "
+20,STATEN%20ISLAND,Panino Rustico - Staten Island,4.5,restaurants," Creperies, Sandwiches, Italian "
+21,STATEN%20ISLAND,Richmond Republic,4.0,restaurants," American (Traditional), Gastropubs "
+22,STATEN%20ISLAND,Lee’s Tavern,4.0,restaurants," Pizza, Pubs "
+23,STATEN%20ISLAND,Enoteca Maria,4.0,restaurants, Italian 
+24,STATEN%20ISLAND,Phil-Am Kusina,4.5,restaurants, Filipino 
+25,STATEN%20ISLAND,Bin 5,4.5,restaurants," Italian, Cocktail Bars "
+26,STATEN%20ISLAND,Coles Dockside Restaurant,4.0,restaurants," Seafood, Salad, Sandwiches "
+27,STATEN%20ISLAND,Taqueria El Gallo Azteca,4.5,restaurants, Mexican 
+28,STATEN%20ISLAND,Shishito,4.5,restaurants," Ramen, Sushi Bars "
+29,STATEN%20ISLAND,Hong Kong Kei One,5.0,restaurants," Asian Fusion, Chinese, Bubble Tea "
+30,STATEN%20ISLAND,Kiss Me Downtown - A Night In Downtown SI,5.0,Nightlife, Music Venues 
+31,STATEN%20ISLAND,The Sand Bar NYC,5.0,Nightlife," Dance Clubs, Juice Bars & Smoothies "
+32,STATEN%20ISLAND,Taverna On The Bay,4.0,Nightlife," Bars, Seafood, Mediterranean "
+33,STATEN%20ISLAND,1001 Nights Cafe & Lounge,4.0,Nightlife," Cafes, Hookah Bars "
+34,STATEN%20ISLAND,Confections Dessert Lounge & Bar,4.0,Nightlife," Desserts, Lounges, Cocktail Bars "
+35,STATEN%20ISLAND,Tommy’s Tavern + Tap,4.0,Nightlife," Pizza, Bars, American (Traditional) "
+36,STATEN%20ISLAND,Funkey Monkey Lounge,3.0,Nightlife, Lounges 
+37,STATEN%20ISLAND,Koten’s Carribean & American Restaurant & Bar,5.0,Nightlife," Caribbean, Bars "
+38,STATEN%20ISLAND,Terminal 1,4.5,Nightlife," Polish, Sports Bars, Lounges "
+39,STATEN%20ISLAND,The Coupe Cocktail Bar,4.5,Nightlife," Cocktail Bars, Tapas/Small Plates "
+40,STATEN%20ISLAND,The Looney Bin Comedy Club,3.5,Nightlife, Comedy Clubs 
+41,STATEN%20ISLAND,Cue Time Billiards,4.5,Nightlife, Pool Halls 
+42,STATEN%20ISLAND,ET Studio Productions,5.0,Nightlife," Music Production Services, Music Venues, Recording & Rehearsal Studios "
+43,STATEN%20ISLAND,Rooftop 93,4.0,Nightlife," Lounges, Cocktail Bars "
+44,STATEN%20ISLAND,Rúmí Café & Hookah Lounge,5.0,Nightlife, Hookah Bars 
+45,STATEN%20ISLAND,Arabica Hookah Lounge & Restaurant,4.5,Nightlife, Hookah Bars 
+46,STATEN%20ISLAND,Castleton Corners Pub,5.0,Nightlife, Pubs 
+47,STATEN%20ISLAND,Violette’s Cellar,4.0,Nightlife," Breakfast & Brunch, Tapas/Small Plates, Speakeasies "
+48,STATEN%20ISLAND,Kasbah Restaurant and Hookah Lounge,5.0,Nightlife," Hookah Bars, Moroccan "
+49,STATEN%20ISLAND,Curly Wolf Saloon,4.0,Nightlife," Pubs, Beer Bar "
+50,STATEN%20ISLAND,Liedy’s Shore Inn,4.5,Nightlife, Bars 
+51,STATEN%20ISLAND,Talk of the Town Tavern,4.0,Nightlife, Bars 
+52,STATEN%20ISLAND,Mr. Ciao,3.5,Nightlife," Sushi Bars, Bars, Italian "
+53,STATEN%20ISLAND,1ST & 3RD An American Bar,4.0,Nightlife," American (Traditional), Barbeque, Sports Bars "
+54,STATEN%20ISLAND,Chef Mike’s Rodizio Grill,3.5,Nightlife," American (Traditional), Bars "
+55,STATEN%20ISLAND,Amendment 18,3.5,Nightlife," Speakeasies, American (Traditional) "
+56,STATEN%20ISLAND,Bootleg Mannings,4.0,Nightlife," Whiskey Bars, Beer Bar, American (Traditional) "
+57,STATEN%20ISLAND,Unique Lounge & Billiards,3.5,Nightlife," Pool Halls, Bars "
+58,STATEN%20ISLAND,Island Pour House,4.0,Entertainment," Pizza, Italian, Chicken Wings "
+59,STATEN%20ISLAND,Denino’s Pizzeria Tavern,4.0,Entertainment," Pizza, Pubs "
+60,STATEN%20ISLAND,Lee’s Tavern,4.5,Entertainment," Sushi Bars, Japanese, Thai "
+61,STATEN%20ISLAND,Miyabi Asian Fusion,4.5,Entertainment, Sri Lankan 
+62,STATEN%20ISLAND,Lakruwana,4.5,Entertainment," Italian, Cocktail Bars "
+63,STATEN%20ISLAND,Bin 5,4.5,Entertainment, Ice Cream & Frozen Yogurt 
+64,STATEN%20ISLAND,Ralph’s Italian Ice’s,4.0,Entertainment, Italian 
+65,STATEN%20ISLAND,Pizzeria Giove,4.0,Entertainment," Cajun/Creole, Southern, Diners "
+66,STATEN%20ISLAND,Bayou,4.0,Entertainment, Peruvian 
+67,STATEN%20ISLAND,Incas Grill Peruvian kitchen,4.5,Entertainment," Bars, Barbeque "
+68,QUEENS,Craft House,5.0,restaurants," Gastropubs, Tapas Bars, Breakfast & Brunch "
+69,QUEENS,The Alcove,4.5,restaurants, Thai 
+70,QUEENS,Kin’d,4.0,restaurants," Gastropubs, Cocktail Bars, Beer Bar "
+71,QUEENS,Forest Hills Station House,4.5,restaurants," Vietnamese, Sandwiches, Asian Fusion "
+72,QUEENS,JoJu,4.5,restaurants," Peruvian, Cocktail Bars, Tapas Bars "
+73,QUEENS,Jora Restaurant & Bar,4.0,restaurants, Thai 
+74,QUEENS,SriPraPhai Thai Restaurant,4.5,restaurants," Cajun/Creole, Seafood, Bars "
+75,QUEENS,Oceanic Boil,4.0,restaurants," Vietnamese, Cocktail Bars "
+76,QUEENS,District Saigon,4.0,restaurants," Cajun/Creole, Southern, Breakfast & Brunch "
+77,QUEENS,Sugar Freak,4.5,restaurants," Greek, Falafel, Seafood "
+78,QUEENS,Nicks Bistro,4.5,restaurants, Pizza 
+79,QUEENS,Macoletta,4.0,restaurants," Wine Bars, Breakfast & Brunch "
+80,QUEENS,Jack & Nellie’s,4.0,restaurants," Shanghainese, Specialty Food, Noodles "
+81,QUEENS,Nan Xiang Xiao Long Bao,4.0,restaurants," Breakfast & Brunch, American (New), Comfort Food "
+82,QUEENS,Queens Comfort,4.5,restaurants, Thai 
+83,QUEENS,Kitchen 79,4.0,restaurants," Latin American, Cuban "
+84,QUEENS,Cabana,4.0,restaurants," Caribbean, Desserts, Seafood "
+85,QUEENS,The Door,4.0,restaurants," Breakfast & Brunch, American (New), Whiskey Bars "
+86,QUEENS,Sanfords Astoria,4.5,restaurants," American (New), Hawaiian, Tiki Bars "
+87,QUEENS,The Highwater,4.0,restaurants," Barbeque, Burgers "
+88,QUEENS,Butcher Bar,4.0,restaurants," Seafood, Greek, Mediterranean "
+89,QUEENS,Taverna Kyclades,4.5,restaurants," Mediterranean, Kosher, Georgian "
+90,QUEENS,Marani,4.0,restaurants," Seafood, Cajun/Creole "
+91,QUEENS,Naked Crab,4.5,restaurants," Chinese, Taiwanese "
+92,QUEENS,Mama Lee,4.5,restaurants, Cuban 
+93,QUEENS,Rincon Criollo,4.5,restaurants, Himalayan/Nepalese 
+94,QUEENS,Momo Crave,4.0,restaurants, Korean 
+95,QUEENS,Hahm Ji Bach,4.0,restaurants," Ramen, Sushi Bars "
+96,QUEENS,Hashi Ramen & Izakaya,4.5,restaurants, Filipino 
+97,QUEENS,Papa’s Kitchen,4.5,restaurants, Korean 
+98,QUEENS,Dae Sung Kal Guk Su,5.0,restaurants," Gastropubs, Tapas Bars, Breakfast & Brunch "
+99,QUEENS,The Alcove,4.5,restaurants, Thai 
+100,QUEENS,Kin’d,4.0,restaurants," Gastropubs, Cocktail Bars, Beer Bar "
+101,QUEENS,Forest Hills Station House,4.5,restaurants," Vietnamese, Sandwiches, Asian Fusion "
+102,QUEENS,JoJu,4.5,restaurants," Peruvian, Cocktail Bars, Tapas Bars "
+103,QUEENS,Jora Restaurant & Bar,4.0,restaurants, Thai 
+104,QUEENS,SriPraPhai Thai Restaurant,4.5,restaurants," Cajun/Creole, Seafood, Bars "
+105,QUEENS,Oceanic Boil,4.0,restaurants," Vietnamese, Cocktail Bars "
+106,QUEENS,District Saigon,4.0,restaurants," Cajun/Creole, Southern, Breakfast & Brunch "
+107,QUEENS,Sugar Freak,4.5,restaurants," Greek, Falafel, Seafood "
+108,QUEENS,Nicks Bistro,4.5,restaurants, Pizza 
+109,QUEENS,Macoletta,4.0,restaurants," Wine Bars, Breakfast & Brunch "
+110,QUEENS,Jack & Nellie’s,4.0,restaurants," Shanghainese, Specialty Food, Noodles "
+111,QUEENS,Nan Xiang Xiao Long Bao,4.0,restaurants," Breakfast & Brunch, American (New), Comfort Food "
+112,QUEENS,Queens Comfort,4.5,restaurants, Thai 
+113,QUEENS,Kitchen 79,4.0,restaurants," Latin American, Cuban "
+114,QUEENS,Cabana,4.0,restaurants," Caribbean, Desserts, Seafood "
+115,QUEENS,The Door,4.0,restaurants," Breakfast & Brunch, American (New), Whiskey Bars "
+116,QUEENS,Sanfords Astoria,4.5,restaurants," American (New), Hawaiian, Tiki Bars "
+117,QUEENS,The Highwater,4.0,restaurants," Barbeque, Burgers "
+118,QUEENS,Butcher Bar,4.0,restaurants," Seafood, Greek, Mediterranean "
+119,QUEENS,Taverna Kyclades,4.5,restaurants," Mediterranean, Kosher, Georgian "
+120,QUEENS,Marani,4.0,restaurants," Seafood, Cajun/Creole "
+121,QUEENS,Naked Crab,4.5,restaurants," Chinese, Taiwanese "
+122,QUEENS,Mama Lee,4.5,restaurants, Cuban 
+123,QUEENS,Rincon Criollo,4.5,restaurants, Himalayan/Nepalese 
+124,QUEENS,Momo Crave,4.0,restaurants, Korean 
+125,QUEENS,Hahm Ji Bach,4.0,restaurants," Ramen, Sushi Bars "
+126,QUEENS,Hashi Ramen & Izakaya,4.5,restaurants, Filipino 
+127,QUEENS,Papa’s Kitchen,4.5,restaurants, Korean 
+128,QUEENS,Dae Sung Kal Guk Su,5.0,restaurants," Gastropubs, Tapas Bars, Breakfast & Brunch "
+129,QUEENS,The Alcove,4.5,restaurants, Thai 
+130,QUEENS,Kin’d,4.0,restaurants," Gastropubs, Cocktail Bars, Beer Bar "
+131,QUEENS,Forest Hills Station House,4.5,restaurants," Vietnamese, Sandwiches, Asian Fusion "
+132,QUEENS,JoJu,4.5,restaurants," Peruvian, Cocktail Bars, Tapas Bars "
+133,QUEENS,Jora Restaurant & Bar,4.0,restaurants, Thai 
+134,QUEENS,SriPraPhai Thai Restaurant,4.5,restaurants," Cajun/Creole, Seafood, Bars "
+135,QUEENS,Oceanic Boil,4.0,restaurants," Vietnamese, Cocktail Bars "
+136,QUEENS,District Saigon,4.0,restaurants," Cajun/Creole, Southern, Breakfast & Brunch "
+137,QUEENS,Sugar Freak,4.5,restaurants," Greek, Falafel, Seafood "
+138,QUEENS,Nicks Bistro,4.5,restaurants, Pizza 
+139,QUEENS,Macoletta,4.0,restaurants," Wine Bars, Breakfast & Brunch "
+140,QUEENS,Jack & Nellie’s,4.0,restaurants," Shanghainese, Specialty Food, Noodles "
+141,QUEENS,Nan Xiang Xiao Long Bao,4.0,restaurants," Breakfast & Brunch, American (New), Comfort Food "
+142,QUEENS,Queens Comfort,4.5,restaurants, Thai 
+143,QUEENS,Kitchen 79,4.0,restaurants," Latin American, Cuban "
+144,QUEENS,Cabana,4.0,restaurants," Caribbean, Desserts, Seafood "
+145,QUEENS,The Door,4.0,restaurants," Breakfast & Brunch, American (New), Whiskey Bars "
+146,QUEENS,Sanfords Astoria,4.5,restaurants," American (New), Hawaiian, Tiki Bars "
+147,QUEENS,The Highwater,4.0,restaurants," Barbeque, Burgers "
+148,QUEENS,Butcher Bar,4.0,restaurants," Seafood, Greek, Mediterranean "
+149,QUEENS,Taverna Kyclades,4.5,restaurants," Mediterranean, Kosher, Georgian "
+150,QUEENS,Marani,4.0,restaurants," Seafood, Cajun/Creole "
+151,QUEENS,Naked Crab,4.5,restaurants," Chinese, Taiwanese "
+152,QUEENS,Mama Lee,4.5,restaurants, Cuban 
+153,QUEENS,Rincon Criollo,4.5,restaurants, Himalayan/Nepalese 
+154,QUEENS,Momo Crave,4.0,restaurants, Korean 
+155,QUEENS,Hahm Ji Bach,4.0,restaurants," Ramen, Sushi Bars "
+156,QUEENS,Hashi Ramen & Izakaya,4.5,restaurants, Filipino 
+157,QUEENS,Papa’s Kitchen,4.5,restaurants, Korean 
+158,QUEENS,Dae Sung Kal Guk Su,5.0,restaurants," Gastropubs, Tapas Bars, Breakfast & Brunch "
+159,QUEENS,The Alcove,4.5,restaurants, Thai 
+160,QUEENS,Kin’d,4.0,restaurants," Gastropubs, Cocktail Bars, Beer Bar "
+161,QUEENS,Forest Hills Station House,4.5,restaurants," Vietnamese, Sandwiches, Asian Fusion "
+162,QUEENS,JoJu,4.5,restaurants," Peruvian, Cocktail Bars, Tapas Bars "
+163,QUEENS,Jora Restaurant & Bar,4.0,restaurants, Thai 
+164,QUEENS,SriPraPhai Thai Restaurant,4.5,restaurants," Cajun/Creole, Seafood, Bars "
+165,QUEENS,Oceanic Boil,4.0,restaurants," Vietnamese, Cocktail Bars "
+166,QUEENS,District Saigon,4.0,restaurants," Cajun/Creole, Southern, Breakfast & Brunch "
+167,QUEENS,Sugar Freak,4.5,restaurants," Greek, Falafel, Seafood "
+168,QUEENS,Nicks Bistro,4.5,restaurants, Pizza 
+169,QUEENS,Macoletta,4.0,restaurants," Wine Bars, Breakfast & Brunch "
+170,QUEENS,Jack & Nellie’s,4.0,restaurants," Shanghainese, Specialty Food, Noodles "
+171,QUEENS,Nan Xiang Xiao Long Bao,4.0,restaurants," Breakfast & Brunch, American (New), Comfort Food "
+172,QUEENS,Queens Comfort,4.5,restaurants, Thai 
+173,QUEENS,Kitchen 79,4.0,restaurants," Latin American, Cuban "
+174,QUEENS,Cabana,4.0,restaurants," Caribbean, Desserts, Seafood "
+175,QUEENS,The Door,4.0,restaurants," Breakfast & Brunch, American (New), Whiskey Bars "
+176,QUEENS,Sanfords Astoria,4.5,restaurants," American (New), Hawaiian, Tiki Bars "
+177,QUEENS,The Highwater,4.0,restaurants," Barbeque, Burgers "
+178,QUEENS,Butcher Bar,4.0,restaurants," Seafood, Greek, Mediterranean "
+179,QUEENS,Taverna Kyclades,4.5,restaurants," Mediterranean, Kosher, Georgian "
+180,QUEENS,Marani,4.0,restaurants," Seafood, Cajun/Creole "
+181,QUEENS,Naked Crab,4.5,restaurants," Chinese, Taiwanese "
+182,QUEENS,Mama Lee,4.5,restaurants, Cuban 
+183,QUEENS,Rincon Criollo,4.5,restaurants, Himalayan/Nepalese 
+184,QUEENS,Momo Crave,4.0,restaurants, Korean 
+185,QUEENS,Hahm Ji Bach,4.0,restaurants," Ramen, Sushi Bars "
+186,QUEENS,Hashi Ramen & Izakaya,4.5,restaurants, Filipino 
+187,QUEENS,Papa’s Kitchen,4.5,restaurants, Korean 
+188,QUEENS,Dae Sung Kal Guk Su,5.0,restaurants," Gastropubs, Tapas Bars, Breakfast & Brunch "
+189,QUEENS,The Alcove,4.5,restaurants, Thai 
+190,QUEENS,Kin’d,4.0,restaurants," Gastropubs, Cocktail Bars, Beer Bar "
+191,QUEENS,Forest Hills Station House,4.5,restaurants," Vietnamese, Sandwiches, Asian Fusion "
+192,QUEENS,JoJu,4.5,restaurants," Peruvian, Cocktail Bars, Tapas Bars "
+193,QUEENS,Jora Restaurant & Bar,4.0,restaurants, Thai 
+194,QUEENS,SriPraPhai Thai Restaurant,4.5,restaurants," Cajun/Creole, Seafood, Bars "
+195,QUEENS,Oceanic Boil,4.0,restaurants," Vietnamese, Cocktail Bars "
+196,QUEENS,District Saigon,4.0,restaurants," Cajun/Creole, Southern, Breakfast & Brunch "
+197,QUEENS,Sugar Freak,4.5,restaurants," Greek, Falafel, Seafood "
+198,QUEENS,Nicks Bistro,4.5,restaurants, Pizza 
+199,QUEENS,Macoletta,4.0,restaurants," Wine Bars, Breakfast & Brunch "
+200,QUEENS,Jack & Nellie’s,4.0,restaurants," Shanghainese, Specialty Food, Noodles "
+201,QUEENS,Nan Xiang Xiao Long Bao,4.0,restaurants," Breakfast & Brunch, American (New), Comfort Food "
+202,QUEENS,Queens Comfort,4.5,restaurants, Thai 
+203,QUEENS,Kitchen 79,4.0,restaurants," Latin American, Cuban "
+204,QUEENS,Cabana,4.0,restaurants," Caribbean, Desserts, Seafood "
+205,QUEENS,The Door,4.0,restaurants," Breakfast & Brunch, American (New), Whiskey Bars "
+206,QUEENS,Sanfords Astoria,4.5,restaurants," American (New), Hawaiian, Tiki Bars "
+207,QUEENS,The Highwater,4.0,restaurants," Barbeque, Burgers "
+208,QUEENS,Butcher Bar,4.0,restaurants," Seafood, Greek, Mediterranean "
+209,QUEENS,Taverna Kyclades,4.5,restaurants," Mediterranean, Kosher, Georgian "
+210,QUEENS,Marani,4.0,restaurants," Seafood, Cajun/Creole "
+211,QUEENS,Naked Crab,4.5,restaurants," Chinese, Taiwanese "
+212,QUEENS,Mama Lee,4.5,restaurants, Cuban 
+213,QUEENS,Rincon Criollo,4.5,restaurants, Himalayan/Nepalese 
+214,QUEENS,Momo Crave,4.0,restaurants, Korean 
+215,QUEENS,Hahm Ji Bach,4.0,restaurants," Ramen, Sushi Bars "
+216,QUEENS,Hashi Ramen & Izakaya,4.5,restaurants, Filipino 
+217,QUEENS,Papa’s Kitchen,4.5,restaurants, Korean 
+218,QUEENS,Dae Sung Kal Guk Su,5.0,restaurants," Gastropubs, Tapas Bars, Breakfast & Brunch "
+219,QUEENS,The Alcove,4.5,restaurants, Thai 
+220,QUEENS,Kin’d,4.0,restaurants," Gastropubs, Cocktail Bars, Beer Bar "
+221,QUEENS,Forest Hills Station House,4.5,restaurants," Vietnamese, Sandwiches, Asian Fusion "
+222,QUEENS,JoJu,4.5,restaurants," Peruvian, Cocktail Bars, Tapas Bars "
+223,QUEENS,Jora Restaurant & Bar,4.0,restaurants, Thai 
+224,QUEENS,SriPraPhai Thai Restaurant,4.5,restaurants," Cajun/Creole, Seafood, Bars "
+225,QUEENS,Oceanic Boil,4.0,restaurants," Vietnamese, Cocktail Bars "
+226,QUEENS,District Saigon,4.0,restaurants," Cajun/Creole, Southern, Breakfast & Brunch "
+227,QUEENS,Sugar Freak,4.5,restaurants," Greek, Falafel, Seafood "
+228,QUEENS,Nicks Bistro,4.5,restaurants, Pizza 
+229,QUEENS,Macoletta,4.0,restaurants," Wine Bars, Breakfast & Brunch "
+230,QUEENS,Jack & Nellie’s,4.0,restaurants," Shanghainese, Specialty Food, Noodles "
+231,QUEENS,Nan Xiang Xiao Long Bao,4.0,restaurants," Breakfast & Brunch, American (New), Comfort Food "
+232,QUEENS,Queens Comfort,4.5,restaurants, Thai 
+233,QUEENS,Kitchen 79,4.0,restaurants," Latin American, Cuban "
+234,QUEENS,Cabana,4.0,restaurants," Caribbean, Desserts, Seafood "
+235,QUEENS,The Door,4.0,restaurants," Breakfast & Brunch, American (New), Whiskey Bars "
+236,QUEENS,Sanfords Astoria,4.5,restaurants," American (New), Hawaiian, Tiki Bars "
+237,QUEENS,The Highwater,4.0,restaurants," Barbeque, Burgers "
+238,QUEENS,Butcher Bar,4.0,restaurants," Seafood, Greek, Mediterranean "
+239,QUEENS,Taverna Kyclades,4.5,restaurants," Mediterranean, Kosher, Georgian "
+240,QUEENS,Marani,4.0,restaurants," Seafood, Cajun/Creole "
+241,QUEENS,Naked Crab,4.5,restaurants," Chinese, Taiwanese "
+242,QUEENS,Mama Lee,4.5,restaurants, Cuban 
+243,QUEENS,Rincon Criollo,4.5,restaurants, Himalayan/Nepalese 
+244,QUEENS,Momo Crave,4.0,restaurants, Korean 
+245,QUEENS,Hahm Ji Bach,4.0,restaurants," Ramen, Sushi Bars "
+246,QUEENS,Hashi Ramen & Izakaya,4.5,restaurants, Filipino 
+247,QUEENS,Papa’s Kitchen,4.5,restaurants, Korean 
+248,QUEENS,Dae Sung Kal Guk Su,5.0,restaurants," Gastropubs, Tapas Bars, Breakfast & Brunch "
+249,QUEENS,The Alcove,4.5,restaurants, Thai 
+250,QUEENS,Kin’d,4.0,restaurants," Gastropubs, Cocktail Bars, Beer Bar "
+251,QUEENS,Forest Hills Station House,4.5,restaurants," Vietnamese, Sandwiches, Asian Fusion "
+252,QUEENS,JoJu,4.5,restaurants," Peruvian, Cocktail Bars, Tapas Bars "
+253,QUEENS,Jora Restaurant & Bar,4.0,restaurants, Thai 
+254,QUEENS,SriPraPhai Thai Restaurant,4.5,restaurants," Cajun/Creole, Seafood, Bars "
+255,QUEENS,Oceanic Boil,4.0,restaurants," Vietnamese, Cocktail Bars "
+256,QUEENS,District Saigon,4.0,restaurants," Cajun/Creole, Southern, Breakfast & Brunch "
+257,QUEENS,Sugar Freak,4.5,restaurants," Greek, Falafel, Seafood "
+258,QUEENS,Nicks Bistro,4.5,restaurants, Pizza 
+259,QUEENS,Macoletta,4.0,restaurants," Wine Bars, Breakfast & Brunch "
+260,QUEENS,Jack & Nellie’s,4.0,restaurants," Shanghainese, Specialty Food, Noodles "
+261,QUEENS,Nan Xiang Xiao Long Bao,4.0,restaurants," Breakfast & Brunch, American (New), Comfort Food "
+262,QUEENS,Queens Comfort,4.5,restaurants, Thai 
+263,QUEENS,Kitchen 79,4.0,restaurants," Latin American, Cuban "
+264,QUEENS,Cabana,4.0,restaurants," Caribbean, Desserts, Seafood "
+265,QUEENS,The Door,4.0,restaurants," Breakfast & Brunch, American (New), Whiskey Bars "
+266,QUEENS,Sanfords Astoria,4.5,restaurants," American (New), Hawaiian, Tiki Bars "
+267,QUEENS,The Highwater,4.0,restaurants," Barbeque, Burgers "
+268,QUEENS,Butcher Bar,4.0,restaurants," Seafood, Greek, Mediterranean "
+269,QUEENS,Taverna Kyclades,4.5,restaurants," Mediterranean, Kosher, Georgian "
+270,QUEENS,Marani,4.0,restaurants," Seafood, Cajun/Creole "
+271,QUEENS,Naked Crab,4.5,restaurants," Chinese, Taiwanese "
+272,QUEENS,Mama Lee,4.5,restaurants, Cuban 
+273,QUEENS,Rincon Criollo,4.5,restaurants, Himalayan/Nepalese 
+274,QUEENS,Momo Crave,4.0,restaurants, Korean 
+275,QUEENS,Hahm Ji Bach,4.0,restaurants," Ramen, Sushi Bars "
+276,QUEENS,Hashi Ramen & Izakaya,4.5,restaurants, Filipino 
+277,QUEENS,Papa’s Kitchen,4.5,restaurants, Korean 
+278,QUEENS,Dae Sung Kal Guk Su,5.0,restaurants," Gastropubs, Tapas Bars, Breakfast & Brunch "
+279,QUEENS,The Alcove,4.5,restaurants, Thai 
+280,QUEENS,Kin’d,4.0,restaurants," Gastropubs, Cocktail Bars, Beer Bar "
+281,QUEENS,Forest Hills Station House,4.5,restaurants," Vietnamese, Sandwiches, Asian Fusion "
+282,QUEENS,JoJu,4.5,restaurants," Peruvian, Cocktail Bars, Tapas Bars "
+283,QUEENS,Jora Restaurant & Bar,4.0,restaurants, Thai 
+284,QUEENS,SriPraPhai Thai Restaurant,4.5,restaurants," Cajun/Creole, Seafood, Bars "
+285,QUEENS,Oceanic Boil,4.0,restaurants," Vietnamese, Cocktail Bars "
+286,QUEENS,District Saigon,4.0,restaurants," Cajun/Creole, Southern, Breakfast & Brunch "
+287,QUEENS,Sugar Freak,4.5,restaurants," Greek, Falafel, Seafood "
+288,QUEENS,Nicks Bistro,4.5,restaurants, Pizza 
+289,QUEENS,Macoletta,4.0,restaurants," Wine Bars, Breakfast & Brunch "
+290,QUEENS,Jack & Nellie’s,4.0,restaurants," Shanghainese, Specialty Food, Noodles "
+291,QUEENS,Nan Xiang Xiao Long Bao,4.0,restaurants," Breakfast & Brunch, American (New), Comfort Food "
+292,QUEENS,Queens Comfort,4.5,restaurants, Thai 
+293,QUEENS,Kitchen 79,4.0,restaurants," Latin American, Cuban "
+294,QUEENS,Cabana,4.0,restaurants," Caribbean, Desserts, Seafood "
+295,QUEENS,The Door,4.0,restaurants," Breakfast & Brunch, American (New), Whiskey Bars "
+296,QUEENS,Sanfords Astoria,4.5,restaurants," American (New), Hawaiian, Tiki Bars "
+297,QUEENS,The Highwater,4.0,restaurants," Barbeque, Burgers "
+298,QUEENS,Butcher Bar,4.0,restaurants," Seafood, Greek, Mediterranean "
+299,QUEENS,Taverna Kyclades,4.5,restaurants," Mediterranean, Kosher, Georgian "
+300,QUEENS,Marani,4.0,restaurants," Seafood, Cajun/Creole "
+301,QUEENS,Naked Crab,4.5,restaurants," Chinese, Taiwanese "
+302,QUEENS,Mama Lee,4.5,restaurants, Cuban 
+303,QUEENS,Rincon Criollo,4.5,restaurants, Himalayan/Nepalese 
+304,QUEENS,Momo Crave,4.0,restaurants, Korean 
+305,QUEENS,Hahm Ji Bach,4.0,restaurants," Ramen, Sushi Bars "
+306,QUEENS,Hashi Ramen & Izakaya,4.5,restaurants, Filipino 
+307,QUEENS,Papa’s Kitchen,4.5,restaurants, Korean 
+308,QUEENS,Dae Sung Kal Guk Su,4.0,Nightlife, Lounges 
+309,QUEENS,A+ Roof Bar,4.5,Nightlife," Lounges, Hookah Bars "
+310,QUEENS,Desert Rain Lounge,4.5,Nightlife, Lounges 
+311,QUEENS,Blend Lounge NY,4.0,Nightlife," Lounges, Cocktail Bars, Venues & Event Spaces "
+312,QUEENS,Leaf Bar & Lounge,4.5,Nightlife," Cocktail Bars, Lounges, Wine Bars "
+313,QUEENS,La Sala,4.0,Nightlife," Lounges, Cocktail Bars "
+314,QUEENS,Rooftop 93,2.5,Nightlife," Lounges, Music Venues, Chicken Wings "
+315,QUEENS,Sorry Not Sorry,4.5,Nightlife," Hookah Bars, Desserts, Lounges "
+316,QUEENS,Sugar N Coal,3.5,Nightlife, Lounges 
+317,QUEENS,Playboy Club NYC,5.0,Nightlife, Dive Bars 
+318,QUEENS,Luv Story Bar,5.0,Nightlife," Bars, Comfort Food "
+319,QUEENS,3308 Eats n’ Drinks,5.0,Nightlife," Dance Clubs, Lounges "
+320,QUEENS,City View Ultra Lounge,4.0,Nightlife," Dance Clubs, Sports Bars, Lounges "
+321,QUEENS,Tavern Lounge,2.0,Nightlife, Dance Clubs 
+322,QUEENS,La Boom,2.0,Nightlife, Lounges 
+323,QUEENS,F Lit,3.5,Nightlife," Lounges, American (Traditional) "
+324,QUEENS,Tropix Bar & Lounge,5.0,Nightlife," Lounges, Hookah Bars "
+325,QUEENS,Vacilon Bar Lounge,5.0,Nightlife," Hookah Bars, Lounges "
+326,QUEENS,Hydra Lounge,4.5,Nightlife, Lounges 
+327,QUEENS,Elevate Sky Lounge,5.0,Nightlife," Dance Clubs, Cocktail Bars "
+328,QUEENS,LivePlayLove,4.5,Nightlife," Cocktail Bars, Tapas/Small Plates, Hookah Bars "
+329,QUEENS,C Bar & Lounge,4.0,Nightlife," Lounges, Pool Halls, Hookah Bars "
+330,QUEENS,M2 Lounge & Billiards,4.5,Nightlife," Bars, Cuban "
+331,QUEENS,Mojitos,4.0,Nightlife," Lounges, Karaoke, Sports Bars "
+332,QUEENS,Cali Red Lounge,3.5,Nightlife," Lounges, Tapas Bars, Cocktail Bars "
+333,QUEENS,Amaru Pisco bar,3.5,Nightlife, Lounges 
+334,QUEENS,Platinum Lounge,5.0,Nightlife," Hookah Bars, Lounges, Indian "
+335,QUEENS,Taj Village,4.5,Nightlife," Cocktail Bars, Music Venues "
+336,QUEENS,Meet Cuisine & Bar,1.5,Nightlife," Lounges, Dance Clubs "
+337,QUEENS,SL Lounge,4.5,Nightlife," Music Venues, Lounges, Colombian "
+338,QUEENS,D’Antigua Lounge,4.0,Nightlife, Lounges 
+339,QUEENS,A+ Roof Bar,4.5,Nightlife," Lounges, Hookah Bars "
+340,QUEENS,Desert Rain Lounge,4.5,Nightlife, Lounges 
+341,QUEENS,Blend Lounge NY,4.0,Nightlife," Lounges, Cocktail Bars, Venues & Event Spaces "
+342,QUEENS,Leaf Bar & Lounge,4.5,Nightlife," Cocktail Bars, Lounges, Wine Bars "
+343,QUEENS,La Sala,4.0,Nightlife," Lounges, Cocktail Bars "
+344,QUEENS,Rooftop 93,2.5,Nightlife," Lounges, Music Venues, Chicken Wings "
+345,QUEENS,Sorry Not Sorry,4.5,Nightlife," Hookah Bars, Desserts, Lounges "
+346,QUEENS,Sugar N Coal,3.5,Nightlife, Lounges 
+347,QUEENS,Playboy Club NYC,5.0,Nightlife, Dive Bars 
+348,QUEENS,Luv Story Bar,5.0,Nightlife," Bars, Comfort Food "
+349,QUEENS,3308 Eats n’ Drinks,5.0,Nightlife," Dance Clubs, Lounges "
+350,QUEENS,City View Ultra Lounge,4.0,Nightlife," Dance Clubs, Sports Bars, Lounges "
+351,QUEENS,Tavern Lounge,2.0,Nightlife, Dance Clubs 
+352,QUEENS,La Boom,2.0,Nightlife, Lounges 
+353,QUEENS,F Lit,3.5,Nightlife," Lounges, American (Traditional) "
+354,QUEENS,Tropix Bar & Lounge,5.0,Nightlife," Lounges, Hookah Bars "
+355,QUEENS,Vacilon Bar Lounge,5.0,Nightlife," Hookah Bars, Lounges "
+356,QUEENS,Hydra Lounge,4.5,Nightlife, Lounges 
+357,QUEENS,Elevate Sky Lounge,5.0,Nightlife," Dance Clubs, Cocktail Bars "
+358,QUEENS,LivePlayLove,4.5,Nightlife," Cocktail Bars, Tapas/Small Plates, Hookah Bars "
+359,QUEENS,C Bar & Lounge,4.0,Nightlife," Lounges, Pool Halls, Hookah Bars "
+360,QUEENS,M2 Lounge & Billiards,4.5,Nightlife," Bars, Cuban "
+361,QUEENS,Mojitos,4.0,Nightlife," Lounges, Karaoke, Sports Bars "
+362,QUEENS,Cali Red Lounge,3.5,Nightlife," Lounges, Tapas Bars, Cocktail Bars "
+363,QUEENS,Amaru Pisco bar,3.5,Nightlife, Lounges 
+364,QUEENS,Platinum Lounge,5.0,Nightlife," Hookah Bars, Lounges, Indian "
+365,QUEENS,Taj Village,4.5,Nightlife," Cocktail Bars, Music Venues "
+366,QUEENS,Meet Cuisine & Bar,1.5,Nightlife," Lounges, Dance Clubs "
+367,QUEENS,SL Lounge,4.5,Nightlife," Music Venues, Lounges, Colombian "
+368,QUEENS,D’Antigua Lounge,4.0,Nightlife, Lounges 
+369,QUEENS,A+ Roof Bar,4.5,Nightlife," Lounges, Hookah Bars "
+370,QUEENS,Desert Rain Lounge,4.5,Nightlife, Lounges 
+371,QUEENS,Blend Lounge NY,4.0,Nightlife," Lounges, Cocktail Bars, Venues & Event Spaces "
+372,QUEENS,Leaf Bar & Lounge,4.5,Nightlife," Cocktail Bars, Lounges, Wine Bars "
+373,QUEENS,La Sala,4.0,Nightlife," Lounges, Cocktail Bars "
+374,QUEENS,Rooftop 93,2.5,Nightlife," Lounges, Music Venues, Chicken Wings "
+375,QUEENS,Sorry Not Sorry,4.5,Nightlife," Hookah Bars, Desserts, Lounges "
+376,QUEENS,Sugar N Coal,3.5,Nightlife, Lounges 
+377,QUEENS,Playboy Club NYC,5.0,Nightlife, Dive Bars 
+378,QUEENS,Luv Story Bar,5.0,Nightlife," Bars, Comfort Food "
+379,QUEENS,3308 Eats n’ Drinks,5.0,Nightlife," Dance Clubs, Lounges "
+380,QUEENS,City View Ultra Lounge,4.0,Nightlife," Dance Clubs, Sports Bars, Lounges "
+381,QUEENS,Tavern Lounge,2.0,Nightlife, Dance Clubs 
+382,QUEENS,La Boom,2.0,Nightlife, Lounges 
+383,QUEENS,F Lit,3.5,Nightlife," Lounges, American (Traditional) "
+384,QUEENS,Tropix Bar & Lounge,5.0,Nightlife," Lounges, Hookah Bars "
+385,QUEENS,Vacilon Bar Lounge,5.0,Nightlife," Hookah Bars, Lounges "
+386,QUEENS,Hydra Lounge,4.5,Nightlife, Lounges 
+387,QUEENS,Elevate Sky Lounge,5.0,Nightlife," Dance Clubs, Cocktail Bars "
+388,QUEENS,LivePlayLove,4.5,Nightlife," Cocktail Bars, Tapas/Small Plates, Hookah Bars "
+389,QUEENS,C Bar & Lounge,4.0,Nightlife," Lounges, Pool Halls, Hookah Bars "
+390,QUEENS,M2 Lounge & Billiards,4.5,Nightlife," Bars, Cuban "
+391,QUEENS,Mojitos,4.0,Nightlife," Lounges, Karaoke, Sports Bars "
+392,QUEENS,Cali Red Lounge,3.5,Nightlife," Lounges, Tapas Bars, Cocktail Bars "
+393,QUEENS,Amaru Pisco bar,3.5,Nightlife, Lounges 
+394,QUEENS,Platinum Lounge,5.0,Nightlife," Hookah Bars, Lounges, Indian "
+395,QUEENS,Taj Village,4.5,Nightlife," Cocktail Bars, Music Venues "
+396,QUEENS,Meet Cuisine & Bar,1.5,Nightlife," Lounges, Dance Clubs "
+397,QUEENS,SL Lounge,4.5,Nightlife," Music Venues, Lounges, Colombian "
+398,QUEENS,D’Antigua Lounge,4.0,Nightlife, Lounges 
+399,QUEENS,A+ Roof Bar,4.5,Nightlife," Lounges, Hookah Bars "
+400,QUEENS,Desert Rain Lounge,4.5,Nightlife, Lounges 
+401,QUEENS,Blend Lounge NY,4.0,Nightlife," Lounges, Cocktail Bars, Venues & Event Spaces "
+402,QUEENS,Leaf Bar & Lounge,4.5,Nightlife," Cocktail Bars, Lounges, Wine Bars "
+403,QUEENS,La Sala,4.0,Nightlife," Lounges, Cocktail Bars "
+404,QUEENS,Rooftop 93,2.5,Nightlife," Lounges, Music Venues, Chicken Wings "
+405,QUEENS,Sorry Not Sorry,4.5,Nightlife," Hookah Bars, Desserts, Lounges "
+406,QUEENS,Sugar N Coal,3.5,Nightlife, Lounges 
+407,QUEENS,Playboy Club NYC,5.0,Nightlife, Dive Bars 
+408,QUEENS,Luv Story Bar,5.0,Nightlife," Bars, Comfort Food "
+409,QUEENS,3308 Eats n’ Drinks,5.0,Nightlife," Dance Clubs, Lounges "
+410,QUEENS,City View Ultra Lounge,4.0,Nightlife," Dance Clubs, Sports Bars, Lounges "
+411,QUEENS,Tavern Lounge,2.0,Nightlife, Dance Clubs 
+412,QUEENS,La Boom,2.0,Nightlife, Lounges 
+413,QUEENS,F Lit,3.5,Nightlife," Lounges, American (Traditional) "
+414,QUEENS,Tropix Bar & Lounge,5.0,Nightlife," Lounges, Hookah Bars "
+415,QUEENS,Vacilon Bar Lounge,5.0,Nightlife," Hookah Bars, Lounges "
+416,QUEENS,Hydra Lounge,4.5,Nightlife, Lounges 
+417,QUEENS,Elevate Sky Lounge,5.0,Nightlife," Dance Clubs, Cocktail Bars "
+418,QUEENS,LivePlayLove,4.5,Nightlife," Cocktail Bars, Tapas/Small Plates, Hookah Bars "
+419,QUEENS,C Bar & Lounge,4.0,Nightlife," Lounges, Pool Halls, Hookah Bars "
+420,QUEENS,M2 Lounge & Billiards,4.5,Nightlife," Bars, Cuban "
+421,QUEENS,Mojitos,4.0,Nightlife," Lounges, Karaoke, Sports Bars "
+422,QUEENS,Cali Red Lounge,3.5,Nightlife," Lounges, Tapas Bars, Cocktail Bars "
+423,QUEENS,Amaru Pisco bar,3.5,Nightlife, Lounges 
+424,QUEENS,Platinum Lounge,5.0,Nightlife," Hookah Bars, Lounges, Indian "
+425,QUEENS,Taj Village,4.5,Nightlife," Cocktail Bars, Music Venues "
+426,QUEENS,Meet Cuisine & Bar,1.5,Nightlife," Lounges, Dance Clubs "
+427,QUEENS,SL Lounge,4.5,Nightlife," Music Venues, Lounges, Colombian "
+428,QUEENS,D’Antigua Lounge,4.0,Nightlife, Lounges 
+429,QUEENS,A+ Roof Bar,4.5,Nightlife," Lounges, Hookah Bars "
+430,QUEENS,Desert Rain Lounge,4.5,Nightlife, Lounges 
+431,QUEENS,Blend Lounge NY,4.0,Nightlife," Lounges, Cocktail Bars, Venues & Event Spaces "
+432,QUEENS,Leaf Bar & Lounge,4.5,Nightlife," Cocktail Bars, Lounges, Wine Bars "
+433,QUEENS,La Sala,4.0,Nightlife," Lounges, Cocktail Bars "
+434,QUEENS,Rooftop 93,2.5,Nightlife," Lounges, Music Venues, Chicken Wings "
+435,QUEENS,Sorry Not Sorry,4.5,Nightlife," Hookah Bars, Desserts, Lounges "
+436,QUEENS,Sugar N Coal,3.5,Nightlife, Lounges 
+437,QUEENS,Playboy Club NYC,5.0,Nightlife, Dive Bars 
+438,QUEENS,Luv Story Bar,5.0,Nightlife," Bars, Comfort Food "
+439,QUEENS,3308 Eats n’ Drinks,5.0,Nightlife," Dance Clubs, Lounges "
+440,QUEENS,City View Ultra Lounge,4.0,Nightlife," Dance Clubs, Sports Bars, Lounges "
+441,QUEENS,Tavern Lounge,2.0,Nightlife, Dance Clubs 
+442,QUEENS,La Boom,2.0,Nightlife, Lounges 
+443,QUEENS,F Lit,3.5,Nightlife," Lounges, American (Traditional) "
+444,QUEENS,Tropix Bar & Lounge,5.0,Nightlife," Lounges, Hookah Bars "
+445,QUEENS,Vacilon Bar Lounge,5.0,Nightlife," Hookah Bars, Lounges "
+446,QUEENS,Hydra Lounge,4.5,Nightlife, Lounges 
+447,QUEENS,Elevate Sky Lounge,5.0,Nightlife," Dance Clubs, Cocktail Bars "
+448,QUEENS,LivePlayLove,4.5,Nightlife," Cocktail Bars, Tapas/Small Plates, Hookah Bars "
+449,QUEENS,C Bar & Lounge,4.0,Nightlife," Lounges, Pool Halls, Hookah Bars "
+450,QUEENS,M2 Lounge & Billiards,4.5,Nightlife," Bars, Cuban "
+451,QUEENS,Mojitos,4.0,Nightlife," Lounges, Karaoke, Sports Bars "
+452,QUEENS,Cali Red Lounge,3.5,Nightlife," Lounges, Tapas Bars, Cocktail Bars "
+453,QUEENS,Amaru Pisco bar,3.5,Nightlife, Lounges 
+454,QUEENS,Platinum Lounge,5.0,Nightlife," Hookah Bars, Lounges, Indian "
+455,QUEENS,Taj Village,4.5,Nightlife," Cocktail Bars, Music Venues "
+456,QUEENS,Meet Cuisine & Bar,1.5,Nightlife," Lounges, Dance Clubs "
+457,QUEENS,SL Lounge,4.5,Nightlife," Music Venues, Lounges, Colombian "
+458,QUEENS,D’Antigua Lounge,4.0,Nightlife, Lounges 
+459,QUEENS,A+ Roof Bar,4.5,Nightlife," Lounges, Hookah Bars "
+460,QUEENS,Desert Rain Lounge,4.5,Nightlife, Lounges 
+461,QUEENS,Blend Lounge NY,4.0,Nightlife," Lounges, Cocktail Bars, Venues & Event Spaces "
+462,QUEENS,Leaf Bar & Lounge,4.5,Nightlife," Cocktail Bars, Lounges, Wine Bars "
+463,QUEENS,La Sala,4.0,Nightlife," Lounges, Cocktail Bars "
+464,QUEENS,Rooftop 93,2.5,Nightlife," Lounges, Music Venues, Chicken Wings "
+465,QUEENS,Sorry Not Sorry,4.5,Nightlife," Hookah Bars, Desserts, Lounges "
+466,QUEENS,Sugar N Coal,3.5,Nightlife, Lounges 
+467,QUEENS,Playboy Club NYC,5.0,Nightlife, Dive Bars 
+468,QUEENS,Luv Story Bar,5.0,Nightlife," Bars, Comfort Food "
+469,QUEENS,3308 Eats n’ Drinks,5.0,Nightlife," Dance Clubs, Lounges "
+470,QUEENS,City View Ultra Lounge,4.0,Nightlife," Dance Clubs, Sports Bars, Lounges "
+471,QUEENS,Tavern Lounge,2.0,Nightlife, Dance Clubs 
+472,QUEENS,La Boom,2.0,Nightlife, Lounges 
+473,QUEENS,F Lit,3.5,Nightlife," Lounges, American (Traditional) "
+474,QUEENS,Tropix Bar & Lounge,5.0,Nightlife," Lounges, Hookah Bars "
+475,QUEENS,Vacilon Bar Lounge,5.0,Nightlife," Hookah Bars, Lounges "
+476,QUEENS,Hydra Lounge,4.5,Nightlife, Lounges 
+477,QUEENS,Elevate Sky Lounge,5.0,Nightlife," Dance Clubs, Cocktail Bars "
+478,QUEENS,LivePlayLove,4.5,Nightlife," Cocktail Bars, Tapas/Small Plates, Hookah Bars "
+479,QUEENS,C Bar & Lounge,4.0,Nightlife," Lounges, Pool Halls, Hookah Bars "
+480,QUEENS,M2 Lounge & Billiards,4.5,Nightlife," Bars, Cuban "
+481,QUEENS,Mojitos,4.0,Nightlife," Lounges, Karaoke, Sports Bars "
+482,QUEENS,Cali Red Lounge,3.5,Nightlife," Lounges, Tapas Bars, Cocktail Bars "
+483,QUEENS,Amaru Pisco bar,3.5,Nightlife, Lounges 
+484,QUEENS,Platinum Lounge,5.0,Nightlife," Hookah Bars, Lounges, Indian "
+485,QUEENS,Taj Village,4.5,Nightlife," Cocktail Bars, Music Venues "
+486,QUEENS,Meet Cuisine & Bar,1.5,Nightlife," Lounges, Dance Clubs "
+487,QUEENS,SL Lounge,4.5,Nightlife," Music Venues, Lounges, Colombian "
+488,QUEENS,D’Antigua Lounge,4.0,Nightlife, Lounges 
+489,QUEENS,A+ Roof Bar,4.5,Nightlife," Lounges, Hookah Bars "
+490,QUEENS,Desert Rain Lounge,4.5,Nightlife, Lounges 
+491,QUEENS,Blend Lounge NY,4.0,Nightlife," Lounges, Cocktail Bars, Venues & Event Spaces "
+492,QUEENS,Leaf Bar & Lounge,4.5,Nightlife," Cocktail Bars, Lounges, Wine Bars "
+493,QUEENS,La Sala,4.0,Nightlife," Lounges, Cocktail Bars "
+494,QUEENS,Rooftop 93,2.5,Nightlife," Lounges, Music Venues, Chicken Wings "
+495,QUEENS,Sorry Not Sorry,4.5,Nightlife," Hookah Bars, Desserts, Lounges "
+496,QUEENS,Sugar N Coal,3.5,Nightlife, Lounges 
+497,QUEENS,Playboy Club NYC,5.0,Nightlife, Dive Bars 
+498,QUEENS,Luv Story Bar,5.0,Nightlife," Bars, Comfort Food "
+499,QUEENS,3308 Eats n’ Drinks,5.0,Nightlife," Dance Clubs, Lounges "
+500,QUEENS,City View Ultra Lounge,4.0,Nightlife," Dance Clubs, Sports Bars, Lounges "
+501,QUEENS,Tavern Lounge,2.0,Nightlife, Dance Clubs 
+502,QUEENS,La Boom,2.0,Nightlife, Lounges 
+503,QUEENS,F Lit,3.5,Nightlife," Lounges, American (Traditional) "
+504,QUEENS,Tropix Bar & Lounge,5.0,Nightlife," Lounges, Hookah Bars "
+505,QUEENS,Vacilon Bar Lounge,5.0,Nightlife," Hookah Bars, Lounges "
+506,QUEENS,Hydra Lounge,4.5,Nightlife, Lounges 
+507,QUEENS,Elevate Sky Lounge,5.0,Nightlife," Dance Clubs, Cocktail Bars "
+508,QUEENS,LivePlayLove,4.5,Nightlife," Cocktail Bars, Tapas/Small Plates, Hookah Bars "
+509,QUEENS,C Bar & Lounge,4.0,Nightlife," Lounges, Pool Halls, Hookah Bars "
+510,QUEENS,M2 Lounge & Billiards,4.5,Nightlife," Bars, Cuban "
+511,QUEENS,Mojitos,4.0,Nightlife," Lounges, Karaoke, Sports Bars "
+512,QUEENS,Cali Red Lounge,3.5,Nightlife," Lounges, Tapas Bars, Cocktail Bars "
+513,QUEENS,Amaru Pisco bar,3.5,Nightlife, Lounges 
+514,QUEENS,Platinum Lounge,5.0,Nightlife," Hookah Bars, Lounges, Indian "
+515,QUEENS,Taj Village,4.5,Nightlife," Cocktail Bars, Music Venues "
+516,QUEENS,Meet Cuisine & Bar,1.5,Nightlife," Lounges, Dance Clubs "
+517,QUEENS,SL Lounge,4.5,Nightlife," Music Venues, Lounges, Colombian "
+518,QUEENS,D’Antigua Lounge,4.0,Nightlife, Lounges 
+519,QUEENS,A+ Roof Bar,4.5,Nightlife," Lounges, Hookah Bars "
+520,QUEENS,Desert Rain Lounge,4.5,Nightlife, Lounges 
+521,QUEENS,Blend Lounge NY,4.0,Nightlife," Lounges, Cocktail Bars, Venues & Event Spaces "
+522,QUEENS,Leaf Bar & Lounge,4.5,Nightlife," Cocktail Bars, Lounges, Wine Bars "
+523,QUEENS,La Sala,4.0,Nightlife," Lounges, Cocktail Bars "
+524,QUEENS,Rooftop 93,2.5,Nightlife," Lounges, Music Venues, Chicken Wings "
+525,QUEENS,Sorry Not Sorry,4.5,Nightlife," Hookah Bars, Desserts, Lounges "
+526,QUEENS,Sugar N Coal,3.5,Nightlife, Lounges 
+527,QUEENS,Playboy Club NYC,5.0,Nightlife, Dive Bars 
+528,QUEENS,Luv Story Bar,5.0,Nightlife," Bars, Comfort Food "
+529,QUEENS,3308 Eats n’ Drinks,5.0,Nightlife," Dance Clubs, Lounges "
+530,QUEENS,City View Ultra Lounge,4.0,Nightlife," Dance Clubs, Sports Bars, Lounges "
+531,QUEENS,Tavern Lounge,2.0,Nightlife, Dance Clubs 
+532,QUEENS,La Boom,2.0,Nightlife, Lounges 
+533,QUEENS,F Lit,3.5,Nightlife," Lounges, American (Traditional) "
+534,QUEENS,Tropix Bar & Lounge,5.0,Nightlife," Lounges, Hookah Bars "
+535,QUEENS,Vacilon Bar Lounge,5.0,Nightlife," Hookah Bars, Lounges "
+536,QUEENS,Hydra Lounge,4.5,Nightlife, Lounges 
+537,QUEENS,Elevate Sky Lounge,5.0,Nightlife," Dance Clubs, Cocktail Bars "
+538,QUEENS,LivePlayLove,4.5,Nightlife," Cocktail Bars, Tapas/Small Plates, Hookah Bars "
+539,QUEENS,C Bar & Lounge,4.0,Nightlife," Lounges, Pool Halls, Hookah Bars "
+540,QUEENS,M2 Lounge & Billiards,4.5,Nightlife," Bars, Cuban "
+541,QUEENS,Mojitos,4.0,Nightlife," Lounges, Karaoke, Sports Bars "
+542,QUEENS,Cali Red Lounge,3.5,Nightlife," Lounges, Tapas Bars, Cocktail Bars "
+543,QUEENS,Amaru Pisco bar,3.5,Nightlife, Lounges 
+544,QUEENS,Platinum Lounge,5.0,Nightlife," Hookah Bars, Lounges, Indian "
+545,QUEENS,Taj Village,4.5,Nightlife," Cocktail Bars, Music Venues "
+546,QUEENS,Meet Cuisine & Bar,1.5,Nightlife," Lounges, Dance Clubs "
+547,QUEENS,SL Lounge,4.5,Nightlife," Music Venues, Lounges, Colombian "
+548,QUEENS,D’Antigua Lounge,4.0,Entertainment," Shanghainese, Specialty Food, Noodles "
+549,QUEENS,Nan Xiang Xiao Long Bao,4.5,Entertainment," Vietnamese, Sandwiches, Asian Fusion "
+550,QUEENS,JoJu,4.0,Entertainment," Seafood, Greek, Mediterranean "
+551,QUEENS,Taverna Kyclades,4.5,Entertainment," Delis, Sandwiches "
+552,QUEENS,"Sal, Kris, & Charlie’s Deli",4.5,Entertainment," Italian, Sandwiches, Tapas Bars "
+553,QUEENS,Il Bambino,4.0,Entertainment," Breakfast & Brunch, American (New), Comfort Food "
+554,QUEENS,Queens Comfort,4.0,Entertainment, Thai 
+555,QUEENS,SriPraPhai Thai Restaurant,5.0,Entertainment," Gastropubs, Tapas Bars, Breakfast & Brunch "
+556,QUEENS,The Alcove,4.5,Entertainment, Indian 
+557,QUEENS,Seva Indian Cuisine,4.0,Entertainment," Bakeries, Coffee & Tea, Desserts "
+558,QUEENS,Martha’s Country Bakery,4.0,Entertainment," Shanghainese, Specialty Food, Noodles "
+559,QUEENS,Nan Xiang Xiao Long Bao,4.5,Entertainment," Vietnamese, Sandwiches, Asian Fusion "
+560,QUEENS,JoJu,4.0,Entertainment," Seafood, Greek, Mediterranean "
+561,QUEENS,Taverna Kyclades,4.5,Entertainment," Delis, Sandwiches "
+562,QUEENS,"Sal, Kris, & Charlie’s Deli",4.5,Entertainment," Italian, Sandwiches, Tapas Bars "
+563,QUEENS,Il Bambino,4.0,Entertainment," Breakfast & Brunch, American (New), Comfort Food "
+564,QUEENS,Queens Comfort,4.0,Entertainment, Thai 
+565,QUEENS,SriPraPhai Thai Restaurant,5.0,Entertainment," Gastropubs, Tapas Bars, Breakfast & Brunch "
+566,QUEENS,The Alcove,4.5,Entertainment, Indian 
+567,QUEENS,Seva Indian Cuisine,4.0,Entertainment," Bakeries, Coffee & Tea, Desserts "
+568,QUEENS,Martha’s Country Bakery,4.0,Entertainment," Shanghainese, Specialty Food, Noodles "
+569,QUEENS,Nan Xiang Xiao Long Bao,4.5,Entertainment," Vietnamese, Sandwiches, Asian Fusion "
+570,QUEENS,JoJu,4.0,Entertainment," Seafood, Greek, Mediterranean "
+571,QUEENS,Taverna Kyclades,4.5,Entertainment," Delis, Sandwiches "
+572,QUEENS,"Sal, Kris, & Charlie’s Deli",4.5,Entertainment," Italian, Sandwiches, Tapas Bars "
+573,QUEENS,Il Bambino,4.0,Entertainment," Breakfast & Brunch, American (New), Comfort Food "
+574,QUEENS,Queens Comfort,4.0,Entertainment, Thai 
+575,QUEENS,SriPraPhai Thai Restaurant,5.0,Entertainment," Gastropubs, Tapas Bars, Breakfast & Brunch "
+576,QUEENS,The Alcove,4.5,Entertainment, Indian 
+577,QUEENS,Seva Indian Cuisine,4.0,Entertainment," Bakeries, Coffee & Tea, Desserts "
+578,QUEENS,Martha’s Country Bakery,4.0,Entertainment," Shanghainese, Specialty Food, Noodles "
+579,QUEENS,Nan Xiang Xiao Long Bao,4.5,Entertainment," Vietnamese, Sandwiches, Asian Fusion "
+580,QUEENS,JoJu,4.0,Entertainment," Seafood, Greek, Mediterranean "
+581,QUEENS,Taverna Kyclades,4.5,Entertainment," Delis, Sandwiches "
+582,QUEENS,"Sal, Kris, & Charlie’s Deli",4.5,Entertainment," Italian, Sandwiches, Tapas Bars "
+583,QUEENS,Il Bambino,4.0,Entertainment," Breakfast & Brunch, American (New), Comfort Food "
+584,QUEENS,Queens Comfort,4.0,Entertainment, Thai 
+585,QUEENS,SriPraPhai Thai Restaurant,5.0,Entertainment," Gastropubs, Tapas Bars, Breakfast & Brunch "
+586,QUEENS,The Alcove,4.5,Entertainment, Indian 
+587,QUEENS,Seva Indian Cuisine,4.0,Entertainment," Bakeries, Coffee & Tea, Desserts "
+588,QUEENS,Martha’s Country Bakery,4.0,Entertainment," Shanghainese, Specialty Food, Noodles "
+589,QUEENS,Nan Xiang Xiao Long Bao,4.5,Entertainment," Vietnamese, Sandwiches, Asian Fusion "
+590,QUEENS,JoJu,4.0,Entertainment," Seafood, Greek, Mediterranean "
+591,QUEENS,Taverna Kyclades,4.5,Entertainment," Delis, Sandwiches "
+592,QUEENS,"Sal, Kris, & Charlie’s Deli",4.5,Entertainment," Italian, Sandwiches, Tapas Bars "
+593,QUEENS,Il Bambino,4.0,Entertainment," Breakfast & Brunch, American (New), Comfort Food "
+594,QUEENS,Queens Comfort,4.0,Entertainment, Thai 
+595,QUEENS,SriPraPhai Thai Restaurant,5.0,Entertainment," Gastropubs, Tapas Bars, Breakfast & Brunch "
+596,QUEENS,The Alcove,4.5,Entertainment, Indian 
+597,QUEENS,Seva Indian Cuisine,4.0,Entertainment," Bakeries, Coffee & Tea, Desserts "
+598,QUEENS,Martha’s Country Bakery,4.0,Entertainment," Shanghainese, Specialty Food, Noodles "
+599,QUEENS,Nan Xiang Xiao Long Bao,4.5,Entertainment," Vietnamese, Sandwiches, Asian Fusion "
+600,QUEENS,JoJu,4.0,Entertainment," Seafood, Greek, Mediterranean "
+601,QUEENS,Taverna Kyclades,4.5,Entertainment," Delis, Sandwiches "
+602,QUEENS,"Sal, Kris, & Charlie’s Deli",4.5,Entertainment," Italian, Sandwiches, Tapas Bars "
+603,QUEENS,Il Bambino,4.0,Entertainment," Breakfast & Brunch, American (New), Comfort Food "
+604,QUEENS,Queens Comfort,4.0,Entertainment, Thai 
+605,QUEENS,SriPraPhai Thai Restaurant,5.0,Entertainment," Gastropubs, Tapas Bars, Breakfast & Brunch "
+606,QUEENS,The Alcove,4.5,Entertainment, Indian 
+607,QUEENS,Seva Indian Cuisine,4.0,Entertainment," Bakeries, Coffee & Tea, Desserts "
+608,QUEENS,Martha’s Country Bakery,4.0,Entertainment," Shanghainese, Specialty Food, Noodles "
+609,QUEENS,Nan Xiang Xiao Long Bao,4.5,Entertainment," Vietnamese, Sandwiches, Asian Fusion "
+610,QUEENS,JoJu,4.0,Entertainment," Seafood, Greek, Mediterranean "
+611,QUEENS,Taverna Kyclades,4.5,Entertainment," Delis, Sandwiches "
+612,QUEENS,"Sal, Kris, & Charlie’s Deli",4.5,Entertainment," Italian, Sandwiches, Tapas Bars "
+613,QUEENS,Il Bambino,4.0,Entertainment," Breakfast & Brunch, American (New), Comfort Food "
+614,QUEENS,Queens Comfort,4.0,Entertainment, Thai 
+615,QUEENS,SriPraPhai Thai Restaurant,5.0,Entertainment," Gastropubs, Tapas Bars, Breakfast & Brunch "
+616,QUEENS,The Alcove,4.5,Entertainment, Indian 
+617,QUEENS,Seva Indian Cuisine,4.0,Entertainment," Bakeries, Coffee & Tea, Desserts "
+618,QUEENS,Martha’s Country Bakery,4.0,Entertainment," Shanghainese, Specialty Food, Noodles "
+619,QUEENS,Nan Xiang Xiao Long Bao,4.5,Entertainment," Vietnamese, Sandwiches, Asian Fusion "
+620,QUEENS,JoJu,4.0,Entertainment," Seafood, Greek, Mediterranean "
+621,QUEENS,Taverna Kyclades,4.5,Entertainment," Delis, Sandwiches "
+622,QUEENS,"Sal, Kris, & Charlie’s Deli",4.5,Entertainment," Italian, Sandwiches, Tapas Bars "
+623,QUEENS,Il Bambino,4.0,Entertainment," Breakfast & Brunch, American (New), Comfort Food "
+624,QUEENS,Queens Comfort,4.0,Entertainment, Thai 
+625,QUEENS,SriPraPhai Thai Restaurant,5.0,Entertainment," Gastropubs, Tapas Bars, Breakfast & Brunch "
+626,QUEENS,The Alcove,4.5,Entertainment, Indian 
+627,QUEENS,Seva Indian Cuisine,4.0,Entertainment," Bakeries, Coffee & Tea, Desserts "
+628,BRONX,Martha’s Country Bakery,4.5,restaurants," Italian, Pizza, Desserts "
+629,BRONX,Antonio’s Trattoria,4.0,restaurants, Latin American 
+630,BRONX,Travesias,4.0,restaurants," Cuban, Latin American "
+631,BRONX,Havana Cafe,4.5,restaurants, Mexican 
+632,BRONX,Taqueria Tlaxcalli,4.0,restaurants," Colombian, Empanadas "
+633,BRONX,La Masa,3.5,restaurants," Seafood, Italian, American (Traditional) "
+634,BRONX,The Original Crab Shanty Restaurant,4.0,restaurants," American (Traditional), Pubs "
+635,BRONX,Bronx Alehouse,4.0,restaurants," Sports Bars, American (Traditional) "
+636,BRONX,The Bronx Public,4.0,restaurants, Seafood 
+637,BRONX,Johnny’s Reef Restaurant,4.5,restaurants," American (Traditional), Speakeasies "
+638,BRONX,Beatstro,4.5,restaurants," American (Traditional), Wine Bars "
+639,BRONX,The Hill Bistro,4.0,restaurants," American (New), Latin American, Dominican "
+640,BRONX,Leche Y Miel Restaurant,4.5,restaurants," American (New), Seafood, Breakfast & Brunch "
+641,BRONX,The Waterfront NYC,4.0,restaurants, Vietnamese 
+642,BRONX,Com Tam Ninh Kieu,4.0,restaurants," Italian, Pizza "
+643,BRONX,Trattoria Zero Otto Nove,3.5,restaurants, Seafood 
+644,BRONX,City Island Lobster House,4.0,restaurants, Diners 
+645,BRONX,Jimmy’s Grand Cafe,4.0,restaurants," Caribbean, Seafood, Bars "
+646,BRONX,Fish N’ Ting,4.5,restaurants," American (New), Gastropubs, Burgers "
+647,BRONX,Archie’s Tap & Table,4.0,restaurants," Bars, American (Traditional), Salad "
+648,BRONX,Charlie’s Bar & Kitchen,4.0,restaurants, American (Traditional) 
+649,BRONX,Landin Mac & Cheese,4.0,restaurants, Italian 
+650,BRONX,Patricia’s,4.0,restaurants, Italian 
+651,BRONX,Dominick’s Restaurant,4.5,restaurants, Diners 
+652,BRONX,George’s Diner & Cafe,4.0,restaurants, Dominican 
+653,BRONX,Ajo Y Oregano,4.5,restaurants," Greek, Seafood, Mediterranean "
+654,BRONX,SOFRA - Traditional Greek & Albanian cuisine,4.5,restaurants, Burgers 
+655,BRONX,Bronx Burger Bistro,4.0,restaurants," Seafood, Steakhouses, Caterers "
+656,BRONX,Arties Steak & Seafood,4.5,restaurants," Coffee & Tea, Cafes "
+657,BRONX,The Boogie Down Grind Café,4.0,restaurants, American (New) 
+658,BRONX,Hudson Garden Grill,4.5,restaurants," Italian, Pizza, Desserts "
+659,BRONX,Antonio’s Trattoria,4.0,restaurants, Latin American 
+660,BRONX,Travesias,4.0,restaurants," Cuban, Latin American "
+661,BRONX,Havana Cafe,4.5,restaurants, Mexican 
+662,BRONX,Taqueria Tlaxcalli,4.0,restaurants," Colombian, Empanadas "
+663,BRONX,La Masa,3.5,restaurants," Seafood, Italian, American (Traditional) "
+664,BRONX,The Original Crab Shanty Restaurant,4.0,restaurants," American (Traditional), Pubs "
+665,BRONX,Bronx Alehouse,4.0,restaurants," Sports Bars, American (Traditional) "
+666,BRONX,The Bronx Public,4.0,restaurants, Seafood 
+667,BRONX,Johnny’s Reef Restaurant,4.5,restaurants," American (Traditional), Speakeasies "
+668,BRONX,Beatstro,4.5,restaurants," American (Traditional), Wine Bars "
+669,BRONX,The Hill Bistro,4.0,restaurants," American (New), Latin American, Dominican "
+670,BRONX,Leche Y Miel Restaurant,4.5,restaurants," American (New), Seafood, Breakfast & Brunch "
+671,BRONX,The Waterfront NYC,4.0,restaurants, Vietnamese 
+672,BRONX,Com Tam Ninh Kieu,4.0,restaurants," Italian, Pizza "
+673,BRONX,Trattoria Zero Otto Nove,3.5,restaurants, Seafood 
+674,BRONX,City Island Lobster House,4.0,restaurants, Diners 
+675,BRONX,Jimmy’s Grand Cafe,4.0,restaurants," Caribbean, Seafood, Bars "
+676,BRONX,Fish N’ Ting,4.5,restaurants," American (New), Gastropubs, Burgers "
+677,BRONX,Archie’s Tap & Table,4.0,restaurants," Bars, American (Traditional), Salad "
+678,BRONX,Charlie’s Bar & Kitchen,4.0,restaurants, American (Traditional) 
+679,BRONX,Landin Mac & Cheese,4.0,restaurants, Italian 
+680,BRONX,Patricia’s,4.0,restaurants, Italian 
+681,BRONX,Dominick’s Restaurant,4.5,restaurants, Diners 
+682,BRONX,George’s Diner & Cafe,4.0,restaurants, Dominican 
+683,BRONX,Ajo Y Oregano,4.5,restaurants," Greek, Seafood, Mediterranean "
+684,BRONX,SOFRA - Traditional Greek & Albanian cuisine,4.5,restaurants, Burgers 
+685,BRONX,Bronx Burger Bistro,4.0,restaurants," Seafood, Steakhouses, Caterers "
+686,BRONX,Arties Steak & Seafood,4.5,restaurants," Coffee & Tea, Cafes "
+687,BRONX,The Boogie Down Grind Café,4.0,restaurants, American (New) 
+688,BRONX,Hudson Garden Grill,4.5,restaurants," Italian, Pizza, Desserts "
+689,BRONX,Antonio’s Trattoria,4.0,restaurants, Latin American 
+690,BRONX,Travesias,4.0,restaurants," Cuban, Latin American "
+691,BRONX,Havana Cafe,4.5,restaurants, Mexican 
+692,BRONX,Taqueria Tlaxcalli,4.0,restaurants," Colombian, Empanadas "
+693,BRONX,La Masa,3.5,restaurants," Seafood, Italian, American (Traditional) "
+694,BRONX,The Original Crab Shanty Restaurant,4.0,restaurants," American (Traditional), Pubs "
+695,BRONX,Bronx Alehouse,4.0,restaurants," Sports Bars, American (Traditional) "
+696,BRONX,The Bronx Public,4.0,restaurants, Seafood 
+697,BRONX,Johnny’s Reef Restaurant,4.5,restaurants," American (Traditional), Speakeasies "
+698,BRONX,Beatstro,4.5,restaurants," American (Traditional), Wine Bars "
+699,BRONX,The Hill Bistro,4.0,restaurants," American (New), Latin American, Dominican "
+700,BRONX,Leche Y Miel Restaurant,4.5,restaurants," American (New), Seafood, Breakfast & Brunch "
+701,BRONX,The Waterfront NYC,4.0,restaurants, Vietnamese 
+702,BRONX,Com Tam Ninh Kieu,4.0,restaurants," Italian, Pizza "
+703,BRONX,Trattoria Zero Otto Nove,3.5,restaurants, Seafood 
+704,BRONX,City Island Lobster House,4.0,restaurants, Diners 
+705,BRONX,Jimmy’s Grand Cafe,4.0,restaurants," Caribbean, Seafood, Bars "
+706,BRONX,Fish N’ Ting,4.5,restaurants," American (New), Gastropubs, Burgers "
+707,BRONX,Archie’s Tap & Table,4.0,restaurants," Bars, American (Traditional), Salad "
+708,BRONX,Charlie’s Bar & Kitchen,4.0,restaurants, American (Traditional) 
+709,BRONX,Landin Mac & Cheese,4.0,restaurants, Italian 
+710,BRONX,Patricia’s,4.0,restaurants, Italian 
+711,BRONX,Dominick’s Restaurant,4.5,restaurants, Diners 
+712,BRONX,George’s Diner & Cafe,4.0,restaurants, Dominican 
+713,BRONX,Ajo Y Oregano,4.5,restaurants," Greek, Seafood, Mediterranean "
+714,BRONX,SOFRA - Traditional Greek & Albanian cuisine,4.5,restaurants, Burgers 
+715,BRONX,Bronx Burger Bistro,4.0,restaurants," Seafood, Steakhouses, Caterers "
+716,BRONX,Arties Steak & Seafood,4.5,restaurants," Coffee & Tea, Cafes "
+717,BRONX,The Boogie Down Grind Café,4.0,restaurants, American (New) 
+718,BRONX,Hudson Garden Grill,4.5,restaurants," Italian, Pizza, Desserts "
+719,BRONX,Antonio’s Trattoria,4.0,restaurants, Latin American 
+720,BRONX,Travesias,4.0,restaurants," Cuban, Latin American "
+721,BRONX,Havana Cafe,4.5,restaurants, Mexican 
+722,BRONX,Taqueria Tlaxcalli,4.0,restaurants," Colombian, Empanadas "
+723,BRONX,La Masa,3.5,restaurants," Seafood, Italian, American (Traditional) "
+724,BRONX,The Original Crab Shanty Restaurant,4.0,restaurants," American (Traditional), Pubs "
+725,BRONX,Bronx Alehouse,4.0,restaurants," Sports Bars, American (Traditional) "
+726,BRONX,The Bronx Public,4.0,restaurants, Seafood 
+727,BRONX,Johnny’s Reef Restaurant,4.5,restaurants," American (Traditional), Speakeasies "
+728,BRONX,Beatstro,4.5,restaurants," American (Traditional), Wine Bars "
+729,BRONX,The Hill Bistro,4.0,restaurants," American (New), Latin American, Dominican "
+730,BRONX,Leche Y Miel Restaurant,4.5,restaurants," American (New), Seafood, Breakfast & Brunch "
+731,BRONX,The Waterfront NYC,4.0,restaurants, Vietnamese 
+732,BRONX,Com Tam Ninh Kieu,4.0,restaurants," Italian, Pizza "
+733,BRONX,Trattoria Zero Otto Nove,3.5,restaurants, Seafood 
+734,BRONX,City Island Lobster House,4.0,restaurants, Diners 
+735,BRONX,Jimmy’s Grand Cafe,4.0,restaurants," Caribbean, Seafood, Bars "
+736,BRONX,Fish N’ Ting,4.5,restaurants," American (New), Gastropubs, Burgers "
+737,BRONX,Archie’s Tap & Table,4.0,restaurants," Bars, American (Traditional), Salad "
+738,BRONX,Charlie’s Bar & Kitchen,4.0,restaurants, American (Traditional) 
+739,BRONX,Landin Mac & Cheese,4.0,restaurants, Italian 
+740,BRONX,Patricia’s,4.0,restaurants, Italian 
+741,BRONX,Dominick’s Restaurant,4.5,restaurants, Diners 
+742,BRONX,George’s Diner & Cafe,4.0,restaurants, Dominican 
+743,BRONX,Ajo Y Oregano,4.5,restaurants," Greek, Seafood, Mediterranean "
+744,BRONX,SOFRA - Traditional Greek & Albanian cuisine,4.5,restaurants, Burgers 
+745,BRONX,Bronx Burger Bistro,4.0,restaurants," Seafood, Steakhouses, Caterers "
+746,BRONX,Arties Steak & Seafood,4.5,restaurants," Coffee & Tea, Cafes "
+747,BRONX,The Boogie Down Grind Café,4.0,restaurants, American (New) 
+748,BRONX,Hudson Garden Grill,4.5,restaurants," Italian, Pizza, Desserts "
+749,BRONX,Antonio’s Trattoria,4.0,restaurants, Latin American 
+750,BRONX,Travesias,4.0,restaurants," Cuban, Latin American "
+751,BRONX,Havana Cafe,4.5,restaurants, Mexican 
+752,BRONX,Taqueria Tlaxcalli,4.0,restaurants," Colombian, Empanadas "
+753,BRONX,La Masa,3.5,restaurants," Seafood, Italian, American (Traditional) "
+754,BRONX,The Original Crab Shanty Restaurant,4.0,restaurants," American (Traditional), Pubs "
+755,BRONX,Bronx Alehouse,4.0,restaurants," Sports Bars, American (Traditional) "
+756,BRONX,The Bronx Public,4.0,restaurants, Seafood 
+757,BRONX,Johnny’s Reef Restaurant,4.5,restaurants," American (Traditional), Speakeasies "
+758,BRONX,Beatstro,4.5,restaurants," American (Traditional), Wine Bars "
+759,BRONX,The Hill Bistro,4.0,restaurants," American (New), Latin American, Dominican "
+760,BRONX,Leche Y Miel Restaurant,4.5,restaurants," American (New), Seafood, Breakfast & Brunch "
+761,BRONX,The Waterfront NYC,4.0,restaurants, Vietnamese 
+762,BRONX,Com Tam Ninh Kieu,4.0,restaurants," Italian, Pizza "
+763,BRONX,Trattoria Zero Otto Nove,3.5,restaurants, Seafood 
+764,BRONX,City Island Lobster House,4.0,restaurants, Diners 
+765,BRONX,Jimmy’s Grand Cafe,4.0,restaurants," Caribbean, Seafood, Bars "
+766,BRONX,Fish N’ Ting,4.5,restaurants," American (New), Gastropubs, Burgers "
+767,BRONX,Archie’s Tap & Table,4.0,restaurants," Bars, American (Traditional), Salad "
+768,BRONX,Charlie’s Bar & Kitchen,4.0,restaurants, American (Traditional) 
+769,BRONX,Landin Mac & Cheese,4.0,restaurants, Italian 
+770,BRONX,Patricia’s,4.0,restaurants, Italian 
+771,BRONX,Dominick’s Restaurant,4.5,restaurants, Diners 
+772,BRONX,George’s Diner & Cafe,4.0,restaurants, Dominican 
+773,BRONX,Ajo Y Oregano,4.5,restaurants," Greek, Seafood, Mediterranean "
+774,BRONX,SOFRA - Traditional Greek & Albanian cuisine,4.5,restaurants, Burgers 
+775,BRONX,Bronx Burger Bistro,4.0,restaurants," Seafood, Steakhouses, Caterers "
+776,BRONX,Arties Steak & Seafood,4.5,restaurants," Coffee & Tea, Cafes "
+777,BRONX,The Boogie Down Grind Café,4.0,restaurants, American (New) 
+778,BRONX,Hudson Garden Grill,4.5,restaurants," Italian, Pizza, Desserts "
+779,BRONX,Antonio’s Trattoria,4.0,restaurants, Latin American 
+780,BRONX,Travesias,4.0,restaurants," Cuban, Latin American "
+781,BRONX,Havana Cafe,4.5,restaurants, Mexican 
+782,BRONX,Taqueria Tlaxcalli,4.0,restaurants," Colombian, Empanadas "
+783,BRONX,La Masa,3.5,restaurants," Seafood, Italian, American (Traditional) "
+784,BRONX,The Original Crab Shanty Restaurant,4.0,restaurants," American (Traditional), Pubs "
+785,BRONX,Bronx Alehouse,4.0,restaurants," Sports Bars, American (Traditional) "
+786,BRONX,The Bronx Public,4.0,restaurants, Seafood 
+787,BRONX,Johnny’s Reef Restaurant,4.5,restaurants," American (Traditional), Speakeasies "
+788,BRONX,Beatstro,4.5,restaurants," American (Traditional), Wine Bars "
+789,BRONX,The Hill Bistro,4.0,restaurants," American (New), Latin American, Dominican "
+790,BRONX,Leche Y Miel Restaurant,4.5,restaurants," American (New), Seafood, Breakfast & Brunch "
+791,BRONX,The Waterfront NYC,4.0,restaurants, Vietnamese 
+792,BRONX,Com Tam Ninh Kieu,4.0,restaurants," Italian, Pizza "
+793,BRONX,Trattoria Zero Otto Nove,3.5,restaurants, Seafood 
+794,BRONX,City Island Lobster House,4.0,restaurants, Diners 
+795,BRONX,Jimmy’s Grand Cafe,4.0,restaurants," Caribbean, Seafood, Bars "
+796,BRONX,Fish N’ Ting,4.5,restaurants," American (New), Gastropubs, Burgers "
+797,BRONX,Archie’s Tap & Table,4.0,restaurants," Bars, American (Traditional), Salad "
+798,BRONX,Charlie’s Bar & Kitchen,4.0,restaurants, American (Traditional) 
+799,BRONX,Landin Mac & Cheese,4.0,restaurants, Italian 
+800,BRONX,Patricia’s,4.0,restaurants, Italian 
+801,BRONX,Dominick’s Restaurant,4.5,restaurants, Diners 
+802,BRONX,George’s Diner & Cafe,4.0,restaurants, Dominican 
+803,BRONX,Ajo Y Oregano,4.5,restaurants," Greek, Seafood, Mediterranean "
+804,BRONX,SOFRA - Traditional Greek & Albanian cuisine,4.5,restaurants, Burgers 
+805,BRONX,Bronx Burger Bistro,4.0,restaurants," Seafood, Steakhouses, Caterers "
+806,BRONX,Arties Steak & Seafood,4.5,restaurants," Coffee & Tea, Cafes "
+807,BRONX,The Boogie Down Grind Café,4.0,restaurants, American (New) 
+808,BRONX,Hudson Garden Grill,4.5,restaurants," Italian, Pizza, Desserts "
+809,BRONX,Antonio’s Trattoria,4.0,restaurants, Latin American 
+810,BRONX,Travesias,4.0,restaurants," Cuban, Latin American "
+811,BRONX,Havana Cafe,4.5,restaurants, Mexican 
+812,BRONX,Taqueria Tlaxcalli,4.0,restaurants," Colombian, Empanadas "
+813,BRONX,La Masa,3.5,restaurants," Seafood, Italian, American (Traditional) "
+814,BRONX,The Original Crab Shanty Restaurant,4.0,restaurants," American (Traditional), Pubs "
+815,BRONX,Bronx Alehouse,4.0,restaurants," Sports Bars, American (Traditional) "
+816,BRONX,The Bronx Public,4.0,restaurants, Seafood 
+817,BRONX,Johnny’s Reef Restaurant,4.5,restaurants," American (Traditional), Speakeasies "
+818,BRONX,Beatstro,4.5,restaurants," American (Traditional), Wine Bars "
+819,BRONX,The Hill Bistro,4.0,restaurants," American (New), Latin American, Dominican "
+820,BRONX,Leche Y Miel Restaurant,4.5,restaurants," American (New), Seafood, Breakfast & Brunch "
+821,BRONX,The Waterfront NYC,4.0,restaurants, Vietnamese 
+822,BRONX,Com Tam Ninh Kieu,4.0,restaurants," Italian, Pizza "
+823,BRONX,Trattoria Zero Otto Nove,3.5,restaurants, Seafood 
+824,BRONX,City Island Lobster House,4.0,restaurants, Diners 
+825,BRONX,Jimmy’s Grand Cafe,4.0,restaurants," Caribbean, Seafood, Bars "
+826,BRONX,Fish N’ Ting,4.5,restaurants," American (New), Gastropubs, Burgers "
+827,BRONX,Archie’s Tap & Table,4.0,restaurants," Bars, American (Traditional), Salad "
+828,BRONX,Charlie’s Bar & Kitchen,4.0,restaurants, American (Traditional) 
+829,BRONX,Landin Mac & Cheese,4.0,restaurants, Italian 
+830,BRONX,Patricia’s,4.0,restaurants, Italian 
+831,BRONX,Dominick’s Restaurant,4.5,restaurants, Diners 
+832,BRONX,George’s Diner & Cafe,4.0,restaurants, Dominican 
+833,BRONX,Ajo Y Oregano,4.5,restaurants," Greek, Seafood, Mediterranean "
+834,BRONX,SOFRA - Traditional Greek & Albanian cuisine,4.5,restaurants, Burgers 
+835,BRONX,Bronx Burger Bistro,4.0,restaurants," Seafood, Steakhouses, Caterers "
+836,BRONX,Arties Steak & Seafood,4.5,restaurants," Coffee & Tea, Cafes "
+837,BRONX,The Boogie Down Grind Café,4.0,restaurants, American (New) 
+838,BRONX,Hudson Garden Grill,4.5,restaurants," Italian, Pizza, Desserts "
+839,BRONX,Antonio’s Trattoria,4.0,restaurants, Latin American 
+840,BRONX,Travesias,4.0,restaurants," Cuban, Latin American "
+841,BRONX,Havana Cafe,4.5,restaurants, Mexican 
+842,BRONX,Taqueria Tlaxcalli,4.0,restaurants," Colombian, Empanadas "
+843,BRONX,La Masa,3.5,restaurants," Seafood, Italian, American (Traditional) "
+844,BRONX,The Original Crab Shanty Restaurant,4.0,restaurants," American (Traditional), Pubs "
+845,BRONX,Bronx Alehouse,4.0,restaurants," Sports Bars, American (Traditional) "
+846,BRONX,The Bronx Public,4.0,restaurants, Seafood 
+847,BRONX,Johnny’s Reef Restaurant,4.5,restaurants," American (Traditional), Speakeasies "
+848,BRONX,Beatstro,4.5,restaurants," American (Traditional), Wine Bars "
+849,BRONX,The Hill Bistro,4.0,restaurants," American (New), Latin American, Dominican "
+850,BRONX,Leche Y Miel Restaurant,4.5,restaurants," American (New), Seafood, Breakfast & Brunch "
+851,BRONX,The Waterfront NYC,4.0,restaurants, Vietnamese 
+852,BRONX,Com Tam Ninh Kieu,4.0,restaurants," Italian, Pizza "
+853,BRONX,Trattoria Zero Otto Nove,3.5,restaurants, Seafood 
+854,BRONX,City Island Lobster House,4.0,restaurants, Diners 
+855,BRONX,Jimmy’s Grand Cafe,4.0,restaurants," Caribbean, Seafood, Bars "
+856,BRONX,Fish N’ Ting,4.5,restaurants," American (New), Gastropubs, Burgers "
+857,BRONX,Archie’s Tap & Table,4.0,restaurants," Bars, American (Traditional), Salad "
+858,BRONX,Charlie’s Bar & Kitchen,4.0,restaurants, American (Traditional) 
+859,BRONX,Landin Mac & Cheese,4.0,restaurants, Italian 
+860,BRONX,Patricia’s,4.0,restaurants, Italian 
+861,BRONX,Dominick’s Restaurant,4.5,restaurants, Diners 
+862,BRONX,George’s Diner & Cafe,4.0,restaurants, Dominican 
+863,BRONX,Ajo Y Oregano,4.5,restaurants," Greek, Seafood, Mediterranean "
+864,BRONX,SOFRA - Traditional Greek & Albanian cuisine,4.5,restaurants, Burgers 
+865,BRONX,Bronx Burger Bistro,4.0,restaurants," Seafood, Steakhouses, Caterers "
+866,BRONX,Arties Steak & Seafood,4.5,restaurants," Coffee & Tea, Cafes "
+867,BRONX,The Boogie Down Grind Café,4.0,restaurants, American (New) 
+868,BRONX,Hudson Garden Grill,4.0,Nightlife, Lounges 
+869,BRONX,Skyline Bar,4.5,Nightlife, Hookah Bars 
+870,BRONX,Lotus Lounge,5.0,Nightlife," American (New), Lounges "
+871,BRONX,Boca Restaurant and Lounge,3.5,Nightlife," Hookah Bars, Cocktail Bars "
+872,BRONX,Illusions Hookah & Mixology Lounge,5.0,Nightlife, Club Crawl 
+873,BRONX,The Garage,5.0,Nightlife," Bars, American (Traditional), Indian "
+874,BRONX,The Last Stop,4.5,Entertainment," Italian, Pizza, Desserts "
+875,BRONX,Plush101 lounge,4.5,Entertainment, Botanical Gardens 
+876,BRONX,Antonio’s Trattoria,4.0,Entertainment, Zoos 
+877,BRONX,New York Botanical Garden,4.5,Entertainment, Mexican 
+878,BRONX,Bronx Zoo,4.0,Entertainment," Italian, Pizza "
+879,BRONX,Taqueria Tlaxcalli,4.0,Entertainment," American (Traditional), Pubs "
+880,BRONX,Trattoria Zero Otto Nove,4.0,Entertainment," Cuban, Latin American "
+881,BRONX,Bronx Alehouse,4.0,Entertainment, Latin American 
+882,BRONX,Havana Cafe,4.5,Entertainment," Delis, Cheese Shops "
+883,BRONX,Travesias,4.0,Entertainment," Colombian, Empanadas "
+884,BRONX,Casa Della Mozzarella Italian Deli,4.5,Entertainment," Italian, Pizza, Desserts "
+885,BRONX,La Masa,4.5,Entertainment, Botanical Gardens 
+886,BRONX,Antonio’s Trattoria,4.0,Entertainment, Zoos 
+887,BRONX,New York Botanical Garden,4.5,Entertainment, Mexican 
+888,BRONX,Bronx Zoo,4.0,Entertainment," Italian, Pizza "
+889,BRONX,Taqueria Tlaxcalli,4.0,Entertainment," American (Traditional), Pubs "
+890,BRONX,Trattoria Zero Otto Nove,4.0,Entertainment," Cuban, Latin American "
+891,BRONX,Bronx Alehouse,4.0,Entertainment, Latin American 
+892,BRONX,Havana Cafe,4.5,Entertainment," Delis, Cheese Shops "
+893,BRONX,Travesias,4.0,Entertainment," Colombian, Empanadas "
+894,BRONX,Casa Della Mozzarella Italian Deli,4.5,Entertainment," Italian, Pizza, Desserts "
+895,BRONX,La Masa,4.5,Entertainment, Botanical Gardens 
+896,BRONX,Antonio’s Trattoria,4.0,Entertainment, Zoos 
+897,BRONX,New York Botanical Garden,4.5,Entertainment, Mexican 
+898,BRONX,Bronx Zoo,4.0,Entertainment," Italian, Pizza "
+899,BRONX,Taqueria Tlaxcalli,4.0,Entertainment," American (Traditional), Pubs "
+900,BRONX,Trattoria Zero Otto Nove,4.0,Entertainment," Cuban, Latin American "
+901,BRONX,Bronx Alehouse,4.0,Entertainment, Latin American 
+902,BRONX,Havana Cafe,4.5,Entertainment," Delis, Cheese Shops "
+903,BRONX,Travesias,4.0,Entertainment," Colombian, Empanadas "
+904,BRONX,Casa Della Mozzarella Italian Deli,4.5,Entertainment," Italian, Pizza, Desserts "
+905,BRONX,La Masa,4.5,Entertainment, Botanical Gardens 
+906,BRONX,Antonio’s Trattoria,4.0,Entertainment, Zoos 
+907,BRONX,New York Botanical Garden,4.5,Entertainment, Mexican 
+908,BRONX,Bronx Zoo,4.0,Entertainment," Italian, Pizza "
+909,BRONX,Taqueria Tlaxcalli,4.0,Entertainment," American (Traditional), Pubs "
+910,BRONX,Trattoria Zero Otto Nove,4.0,Entertainment," Cuban, Latin American "
+911,BRONX,Bronx Alehouse,4.0,Entertainment, Latin American 
+912,BRONX,Havana Cafe,4.5,Entertainment," Delis, Cheese Shops "
+913,BRONX,Travesias,4.0,Entertainment," Colombian, Empanadas "
+914,BRONX,Casa Della Mozzarella Italian Deli,4.5,Entertainment," Italian, Pizza, Desserts "
+915,BRONX,La Masa,4.5,Entertainment, Botanical Gardens 
+916,BRONX,Antonio’s Trattoria,4.0,Entertainment, Zoos 
+917,BRONX,New York Botanical Garden,4.5,Entertainment, Mexican 
+918,BRONX,Bronx Zoo,4.0,Entertainment," Italian, Pizza "
+919,BRONX,Taqueria Tlaxcalli,4.0,Entertainment," American (Traditional), Pubs "
+920,BRONX,Trattoria Zero Otto Nove,4.0,Entertainment," Cuban, Latin American "
+921,BRONX,Bronx Alehouse,4.0,Entertainment, Latin American 
+922,BRONX,Havana Cafe,4.5,Entertainment," Delis, Cheese Shops "
+923,BRONX,Travesias,4.0,Entertainment," Colombian, Empanadas "
+924,BRONX,Casa Della Mozzarella Italian Deli,4.5,Entertainment," Italian, Pizza, Desserts "
+925,BRONX,La Masa,4.5,Entertainment, Botanical Gardens 
+926,BRONX,Antonio’s Trattoria,4.0,Entertainment, Zoos 
+927,BRONX,New York Botanical Garden,4.5,Entertainment, Mexican 
+928,BRONX,Bronx Zoo,4.0,Entertainment," Italian, Pizza "
+929,BRONX,Taqueria Tlaxcalli,4.0,Entertainment," American (Traditional), Pubs "
+930,BRONX,Trattoria Zero Otto Nove,4.0,Entertainment," Cuban, Latin American "
+931,BRONX,Bronx Alehouse,4.0,Entertainment, Latin American 
+932,BRONX,Havana Cafe,4.5,Entertainment," Delis, Cheese Shops "
+933,BRONX,Travesias,4.0,Entertainment," Colombian, Empanadas "
+934,BRONX,Casa Della Mozzarella Italian Deli,4.5,Entertainment," Italian, Pizza, Desserts "
+935,BRONX,La Masa,4.5,Entertainment, Botanical Gardens 
+936,BRONX,Antonio’s Trattoria,4.0,Entertainment, Zoos 
+937,BRONX,New York Botanical Garden,4.5,Entertainment, Mexican 
+938,BRONX,Bronx Zoo,4.0,Entertainment," Italian, Pizza "
+939,BRONX,Taqueria Tlaxcalli,4.0,Entertainment," American (Traditional), Pubs "
+940,BRONX,Trattoria Zero Otto Nove,4.0,Entertainment," Cuban, Latin American "
+941,BRONX,Bronx Alehouse,4.0,Entertainment, Latin American 
+942,BRONX,Havana Cafe,4.5,Entertainment," Delis, Cheese Shops "
+943,BRONX,Travesias,4.0,Entertainment," Colombian, Empanadas "
+944,BRONX,Casa Della Mozzarella Italian Deli,4.5,Entertainment," Italian, Pizza, Desserts "
+945,BRONX,La Masa,4.5,Entertainment, Botanical Gardens 
+946,BRONX,Antonio’s Trattoria,4.0,Entertainment, Zoos 
+947,BRONX,New York Botanical Garden,4.5,Entertainment, Mexican 
+948,BRONX,Bronx Zoo,4.0,Entertainment," Italian, Pizza "
+949,BRONX,Taqueria Tlaxcalli,4.0,Entertainment," American (Traditional), Pubs "
+950,BRONX,Trattoria Zero Otto Nove,4.0,Entertainment," Cuban, Latin American "
+951,BRONX,Bronx Alehouse,4.0,Entertainment, Latin American 
+952,BRONX,Havana Cafe,4.5,Entertainment," Delis, Cheese Shops "
+953,BRONX,Travesias,4.0,Entertainment," Colombian, Empanadas "
+954,MANHATTAN,Casa Della Mozzarella Italian Deli,4.0,restaurants," Cocktail Bars, American (New), Speakeasies "
+955,MANHATTAN,La Masa,4.0,restaurants," Seafood, Burgers, American (New) "
+956,MANHATTAN,Tanner Smiths,4.5,restaurants," French, Wine Bars "
+957,MANHATTAN,Burger & Lobster,3.5,restaurants," Grocery, Italian, Meat Shops "
+958,MANHATTAN,Amélie,4.0,restaurants," Comfort Food, Southern, American (Traditional) "
+959,MANHATTAN,Eataly Downtown,4.5,restaurants, Ramen 
+960,MANHATTAN,Jacob’s Pickles,4.0,restaurants," Thai, Malaysian, Vietnamese "
+961,MANHATTAN,Teppen Ramen,4.0,restaurants," American (New), Cocktail Bars "
+962,MANHATTAN,LoveMama,4.0,restaurants," Bars, American (New) "
+963,MANHATTAN,Bea,4.0,restaurants," American (New), Breakfast & Brunch, Cocktail Bars "
+964,MANHATTAN,District Social,4.5,restaurants, Italian 
+965,MANHATTAN,The Smith,4.0,restaurants," Brazilian, Latin American, Portuguese "
+966,MANHATTAN,Angeletto Restaurant,4.0,restaurants, Italian 
+967,MANHATTAN,Ipanema Restaurant,4.0,restaurants," Sandwiches, French "
+968,MANHATTAN,Grazie,4.5,restaurants," Cocktail Bars, American (New), Breakfast & Brunch "
+969,MANHATTAN,Raclette,4.5,restaurants," Seafood, Wine Bars, Beer Bar "
+970,MANHATTAN,Dutch Freds,4.0,restaurants, Taiwanese 
+971,MANHATTAN,Upstate,4.0,restaurants," Mediterranean, Cafes, Breakfast & Brunch "
+972,MANHATTAN,886,4.0,restaurants," American (New), Gluten-Free, Breakfast & Brunch "
+973,MANHATTAN,Rustic Table,4.5,restaurants," Thai, Asian Fusion, Vegetarian "
+974,MANHATTAN,Friedman’s,4.0,restaurants," French, Salad, Breakfast & Brunch "
+975,MANHATTAN,Thai Villa,4.0,restaurants," Seafood, Burgers "
+976,MANHATTAN,Le Parisien,4.0,restaurants, Italian 
+977,MANHATTAN,Burger & Lobster,4.5,restaurants, French 
+978,MANHATTAN,Trattoria Trecolori,4.5,restaurants, American (New) 
+979,MANHATTAN,La Sirene,4.0,restaurants," Italian, Venues & Event Spaces, Seafood "
+980,MANHATTAN,Midwinter Kitchen,4.0,restaurants, Thai 
+981,MANHATTAN,Carmine’s Italian Restaurant - Times Square,4.5,restaurants," Thai, Asian Fusion "
+982,MANHATTAN,Topaz Noodle Bar,4.0,restaurants," American (Traditional), Cocktail Bars "
+983,MANHATTAN,Up Thai,4.0,restaurants," Southern, Breakfast & Brunch, American (Traditional) "
+984,MANHATTAN,Park Avenue Tavern,4.0,restaurants," Cocktail Bars, American (New), Speakeasies "
+985,MANHATTAN,Sweet Chick,4.0,restaurants," Seafood, Burgers, American (New) "
+986,MANHATTAN,Tanner Smiths,4.5,restaurants," French, Wine Bars "
+987,MANHATTAN,Burger & Lobster,3.5,restaurants," Grocery, Italian, Meat Shops "
+988,MANHATTAN,Amélie,4.0,restaurants," Comfort Food, Southern, American (Traditional) "
+989,MANHATTAN,Eataly Downtown,4.5,restaurants, Ramen 
+990,MANHATTAN,Jacob’s Pickles,4.0,restaurants," Thai, Malaysian, Vietnamese "
+991,MANHATTAN,Teppen Ramen,4.0,restaurants," American (New), Cocktail Bars "
+992,MANHATTAN,LoveMama,4.0,restaurants," Bars, American (New) "
+993,MANHATTAN,Bea,4.0,restaurants," American (New), Breakfast & Brunch, Cocktail Bars "
+994,MANHATTAN,District Social,4.5,restaurants, Italian 
+995,MANHATTAN,The Smith,4.0,restaurants," Brazilian, Latin American, Portuguese "
+996,MANHATTAN,Angeletto Restaurant,4.0,restaurants, Italian 
+997,MANHATTAN,Ipanema Restaurant,4.0,restaurants," Sandwiches, French "
+998,MANHATTAN,Grazie,4.5,restaurants," Cocktail Bars, American (New), Breakfast & Brunch "
+999,MANHATTAN,Raclette,4.5,restaurants," Seafood, Wine Bars, Beer Bar "
+1000,MANHATTAN,Dutch Freds,4.0,restaurants, Taiwanese 
+1001,MANHATTAN,Upstate,4.0,restaurants," Mediterranean, Cafes, Breakfast & Brunch "
+1002,MANHATTAN,886,4.0,restaurants," American (New), Gluten-Free, Breakfast & Brunch "
+1003,MANHATTAN,Rustic Table,4.5,restaurants," Thai, Asian Fusion, Vegetarian "
+1004,MANHATTAN,Friedman’s,4.0,restaurants," French, Salad, Breakfast & Brunch "
+1005,MANHATTAN,Thai Villa,4.0,restaurants," Seafood, Burgers "
+1006,MANHATTAN,Le Parisien,4.0,restaurants, Italian 
+1007,MANHATTAN,Burger & Lobster,4.5,restaurants, French 
+1008,MANHATTAN,Trattoria Trecolori,4.5,restaurants, American (New) 
+1009,MANHATTAN,La Sirene,4.0,restaurants," Italian, Venues & Event Spaces, Seafood "
+1010,MANHATTAN,Midwinter Kitchen,4.0,restaurants, Thai 
+1011,MANHATTAN,Carmine’s Italian Restaurant - Times Square,4.5,restaurants," Thai, Asian Fusion "
+1012,MANHATTAN,Topaz Noodle Bar,4.0,restaurants," American (Traditional), Cocktail Bars "
+1013,MANHATTAN,Up Thai,4.0,restaurants," Southern, Breakfast & Brunch, American (Traditional) "
+1014,MANHATTAN,Park Avenue Tavern,4.0,restaurants," Cocktail Bars, American (New), Speakeasies "
+1015,MANHATTAN,Sweet Chick,4.0,restaurants," Seafood, Burgers, American (New) "
+1016,MANHATTAN,Tanner Smiths,4.5,restaurants," French, Wine Bars "
+1017,MANHATTAN,Burger & Lobster,3.5,restaurants," Grocery, Italian, Meat Shops "
+1018,MANHATTAN,Amélie,4.0,restaurants," Comfort Food, Southern, American (Traditional) "
+1019,MANHATTAN,Eataly Downtown,4.5,restaurants, Ramen 
+1020,MANHATTAN,Jacob’s Pickles,4.0,restaurants," Thai, Malaysian, Vietnamese "
+1021,MANHATTAN,Teppen Ramen,4.0,restaurants," American (New), Cocktail Bars "
+1022,MANHATTAN,LoveMama,4.0,restaurants," Bars, American (New) "
+1023,MANHATTAN,Bea,4.0,restaurants," American (New), Breakfast & Brunch, Cocktail Bars "
+1024,MANHATTAN,District Social,4.5,restaurants, Italian 
+1025,MANHATTAN,The Smith,4.0,restaurants," Brazilian, Latin American, Portuguese "
+1026,MANHATTAN,Angeletto Restaurant,4.0,restaurants, Italian 
+1027,MANHATTAN,Ipanema Restaurant,4.0,restaurants," Sandwiches, French "
+1028,MANHATTAN,Grazie,4.5,restaurants," Cocktail Bars, American (New), Breakfast & Brunch "
+1029,MANHATTAN,Raclette,4.5,restaurants," Seafood, Wine Bars, Beer Bar "
+1030,MANHATTAN,Dutch Freds,4.0,restaurants, Taiwanese 
+1031,MANHATTAN,Upstate,4.0,restaurants," Mediterranean, Cafes, Breakfast & Brunch "
+1032,MANHATTAN,886,4.0,restaurants," American (New), Gluten-Free, Breakfast & Brunch "
+1033,MANHATTAN,Rustic Table,4.5,restaurants," Thai, Asian Fusion, Vegetarian "
+1034,MANHATTAN,Friedman’s,4.0,restaurants," French, Salad, Breakfast & Brunch "
+1035,MANHATTAN,Thai Villa,4.0,restaurants," Seafood, Burgers "
+1036,MANHATTAN,Le Parisien,4.0,restaurants, Italian 
+1037,MANHATTAN,Burger & Lobster,4.5,restaurants, French 
+1038,MANHATTAN,Trattoria Trecolori,4.5,restaurants, American (New) 
+1039,MANHATTAN,La Sirene,4.0,restaurants," Italian, Venues & Event Spaces, Seafood "
+1040,MANHATTAN,Midwinter Kitchen,4.0,restaurants, Thai 
+1041,MANHATTAN,Carmine’s Italian Restaurant - Times Square,4.5,restaurants," Thai, Asian Fusion "
+1042,MANHATTAN,Topaz Noodle Bar,4.0,restaurants," American (Traditional), Cocktail Bars "
+1043,MANHATTAN,Up Thai,4.0,restaurants," Southern, Breakfast & Brunch, American (Traditional) "
+1044,MANHATTAN,Park Avenue Tavern,4.0,restaurants," Cocktail Bars, American (New), Speakeasies "
+1045,MANHATTAN,Sweet Chick,4.0,restaurants," Seafood, Burgers, American (New) "
+1046,MANHATTAN,Tanner Smiths,4.5,restaurants," French, Wine Bars "
+1047,MANHATTAN,Burger & Lobster,3.5,restaurants," Grocery, Italian, Meat Shops "
+1048,MANHATTAN,Amélie,4.0,restaurants," Comfort Food, Southern, American (Traditional) "
+1049,MANHATTAN,Eataly Downtown,4.5,restaurants, Ramen 
+1050,MANHATTAN,Jacob’s Pickles,4.0,restaurants," Thai, Malaysian, Vietnamese "
+1051,MANHATTAN,Teppen Ramen,4.0,restaurants," American (New), Cocktail Bars "
+1052,MANHATTAN,LoveMama,4.0,restaurants," Bars, American (New) "
+1053,MANHATTAN,Bea,4.0,restaurants," American (New), Breakfast & Brunch, Cocktail Bars "
+1054,MANHATTAN,District Social,4.5,restaurants, Italian 
+1055,MANHATTAN,The Smith,4.0,restaurants," Brazilian, Latin American, Portuguese "
+1056,MANHATTAN,Angeletto Restaurant,4.0,restaurants, Italian 
+1057,MANHATTAN,Ipanema Restaurant,4.0,restaurants," Sandwiches, French "
+1058,MANHATTAN,Grazie,4.5,restaurants," Cocktail Bars, American (New), Breakfast & Brunch "
+1059,MANHATTAN,Raclette,4.5,restaurants," Seafood, Wine Bars, Beer Bar "
+1060,MANHATTAN,Dutch Freds,4.0,restaurants, Taiwanese 
+1061,MANHATTAN,Upstate,4.0,restaurants," Mediterranean, Cafes, Breakfast & Brunch "
+1062,MANHATTAN,886,4.0,restaurants," American (New), Gluten-Free, Breakfast & Brunch "
+1063,MANHATTAN,Rustic Table,4.5,restaurants," Thai, Asian Fusion, Vegetarian "
+1064,MANHATTAN,Friedman’s,4.0,restaurants," French, Salad, Breakfast & Brunch "
+1065,MANHATTAN,Thai Villa,4.0,restaurants," Seafood, Burgers "
+1066,MANHATTAN,Le Parisien,4.0,restaurants, Italian 
+1067,MANHATTAN,Burger & Lobster,4.5,restaurants, French 
+1068,MANHATTAN,Trattoria Trecolori,4.5,restaurants, American (New) 
+1069,MANHATTAN,La Sirene,4.0,restaurants," Italian, Venues & Event Spaces, Seafood "
+1070,MANHATTAN,Midwinter Kitchen,4.0,restaurants, Thai 
+1071,MANHATTAN,Carmine’s Italian Restaurant - Times Square,4.5,restaurants," Thai, Asian Fusion "
+1072,MANHATTAN,Topaz Noodle Bar,4.0,restaurants," American (Traditional), Cocktail Bars "
+1073,MANHATTAN,Up Thai,4.0,restaurants," Southern, Breakfast & Brunch, American (Traditional) "
+1074,MANHATTAN,Park Avenue Tavern,4.0,restaurants," Cocktail Bars, American (New), Speakeasies "
+1075,MANHATTAN,Sweet Chick,4.0,restaurants," Seafood, Burgers, American (New) "
+1076,MANHATTAN,Tanner Smiths,4.5,restaurants," French, Wine Bars "
+1077,MANHATTAN,Burger & Lobster,3.5,restaurants," Grocery, Italian, Meat Shops "
+1078,MANHATTAN,Amélie,4.0,restaurants," Comfort Food, Southern, American (Traditional) "
+1079,MANHATTAN,Eataly Downtown,4.5,restaurants, Ramen 
+1080,MANHATTAN,Jacob’s Pickles,4.0,restaurants," Thai, Malaysian, Vietnamese "
+1081,MANHATTAN,Teppen Ramen,4.0,restaurants," American (New), Cocktail Bars "
+1082,MANHATTAN,LoveMama,4.0,restaurants," Bars, American (New) "
+1083,MANHATTAN,Bea,4.0,restaurants," American (New), Breakfast & Brunch, Cocktail Bars "
+1084,MANHATTAN,District Social,4.5,restaurants, Italian 
+1085,MANHATTAN,The Smith,4.0,restaurants," Brazilian, Latin American, Portuguese "
+1086,MANHATTAN,Angeletto Restaurant,4.0,restaurants, Italian 
+1087,MANHATTAN,Ipanema Restaurant,4.0,restaurants," Sandwiches, French "
+1088,MANHATTAN,Grazie,4.5,restaurants," Cocktail Bars, American (New), Breakfast & Brunch "
+1089,MANHATTAN,Raclette,4.5,restaurants," Seafood, Wine Bars, Beer Bar "
+1090,MANHATTAN,Dutch Freds,4.0,restaurants, Taiwanese 
+1091,MANHATTAN,Upstate,4.0,restaurants," Mediterranean, Cafes, Breakfast & Brunch "
+1092,MANHATTAN,886,4.0,restaurants," American (New), Gluten-Free, Breakfast & Brunch "
+1093,MANHATTAN,Rustic Table,4.5,restaurants," Thai, Asian Fusion, Vegetarian "
+1094,MANHATTAN,Friedman’s,4.0,restaurants," French, Salad, Breakfast & Brunch "
+1095,MANHATTAN,Thai Villa,4.0,restaurants," Seafood, Burgers "
+1096,MANHATTAN,Le Parisien,4.0,restaurants, Italian 
+1097,MANHATTAN,Burger & Lobster,4.5,restaurants, French 
+1098,MANHATTAN,Trattoria Trecolori,4.5,restaurants, American (New) 
+1099,MANHATTAN,La Sirene,4.0,restaurants," Italian, Venues & Event Spaces, Seafood "
+1100,MANHATTAN,Midwinter Kitchen,4.0,restaurants, Thai 
+1101,MANHATTAN,Carmine’s Italian Restaurant - Times Square,4.5,restaurants," Thai, Asian Fusion "
+1102,MANHATTAN,Topaz Noodle Bar,4.0,restaurants," American (Traditional), Cocktail Bars "
+1103,MANHATTAN,Up Thai,4.0,restaurants," Southern, Breakfast & Brunch, American (Traditional) "
+1104,MANHATTAN,Park Avenue Tavern,4.0,restaurants," Cocktail Bars, American (New), Speakeasies "
+1105,MANHATTAN,Sweet Chick,4.0,restaurants," Seafood, Burgers, American (New) "
+1106,MANHATTAN,Tanner Smiths,4.5,restaurants," French, Wine Bars "
+1107,MANHATTAN,Burger & Lobster,3.5,restaurants," Grocery, Italian, Meat Shops "
+1108,MANHATTAN,Amélie,4.0,restaurants," Comfort Food, Southern, American (Traditional) "
+1109,MANHATTAN,Eataly Downtown,4.5,restaurants, Ramen 
+1110,MANHATTAN,Jacob’s Pickles,4.0,restaurants," Thai, Malaysian, Vietnamese "
+1111,MANHATTAN,Teppen Ramen,4.0,restaurants," American (New), Cocktail Bars "
+1112,MANHATTAN,LoveMama,4.0,restaurants," Bars, American (New) "
+1113,MANHATTAN,Bea,4.0,restaurants," American (New), Breakfast & Brunch, Cocktail Bars "
+1114,MANHATTAN,District Social,4.5,restaurants, Italian 
+1115,MANHATTAN,The Smith,4.0,restaurants," Brazilian, Latin American, Portuguese "
+1116,MANHATTAN,Angeletto Restaurant,4.0,restaurants, Italian 
+1117,MANHATTAN,Ipanema Restaurant,4.0,restaurants," Sandwiches, French "
+1118,MANHATTAN,Grazie,4.5,restaurants," Cocktail Bars, American (New), Breakfast & Brunch "
+1119,MANHATTAN,Raclette,4.5,restaurants," Seafood, Wine Bars, Beer Bar "
+1120,MANHATTAN,Dutch Freds,4.0,restaurants, Taiwanese 
+1121,MANHATTAN,Upstate,4.0,restaurants," Mediterranean, Cafes, Breakfast & Brunch "
+1122,MANHATTAN,886,4.0,restaurants," American (New), Gluten-Free, Breakfast & Brunch "
+1123,MANHATTAN,Rustic Table,4.5,restaurants," Thai, Asian Fusion, Vegetarian "
+1124,MANHATTAN,Friedman’s,4.0,restaurants," French, Salad, Breakfast & Brunch "
+1125,MANHATTAN,Thai Villa,4.0,restaurants," Seafood, Burgers "
+1126,MANHATTAN,Le Parisien,4.0,restaurants, Italian 
+1127,MANHATTAN,Burger & Lobster,4.5,restaurants, French 
+1128,MANHATTAN,Trattoria Trecolori,4.5,restaurants, American (New) 
+1129,MANHATTAN,La Sirene,4.0,restaurants," Italian, Venues & Event Spaces, Seafood "
+1130,MANHATTAN,Midwinter Kitchen,4.0,restaurants, Thai 
+1131,MANHATTAN,Carmine’s Italian Restaurant - Times Square,4.5,restaurants," Thai, Asian Fusion "
+1132,MANHATTAN,Topaz Noodle Bar,4.0,restaurants," American (Traditional), Cocktail Bars "
+1133,MANHATTAN,Up Thai,4.0,restaurants," Southern, Breakfast & Brunch, American (Traditional) "
+1134,MANHATTAN,Park Avenue Tavern,4.0,restaurants," Cocktail Bars, American (New), Speakeasies "
+1135,MANHATTAN,Sweet Chick,4.0,restaurants," Seafood, Burgers, American (New) "
+1136,MANHATTAN,Tanner Smiths,4.5,restaurants," French, Wine Bars "
+1137,MANHATTAN,Burger & Lobster,3.5,restaurants," Grocery, Italian, Meat Shops "
+1138,MANHATTAN,Amélie,4.0,restaurants," Comfort Food, Southern, American (Traditional) "
+1139,MANHATTAN,Eataly Downtown,4.5,restaurants, Ramen 
+1140,MANHATTAN,Jacob’s Pickles,4.0,restaurants," Thai, Malaysian, Vietnamese "
+1141,MANHATTAN,Teppen Ramen,4.0,restaurants," American (New), Cocktail Bars "
+1142,MANHATTAN,LoveMama,4.0,restaurants," Bars, American (New) "
+1143,MANHATTAN,Bea,4.0,restaurants," American (New), Breakfast & Brunch, Cocktail Bars "
+1144,MANHATTAN,District Social,4.5,restaurants, Italian 
+1145,MANHATTAN,The Smith,4.0,restaurants," Brazilian, Latin American, Portuguese "
+1146,MANHATTAN,Angeletto Restaurant,4.0,restaurants, Italian 
+1147,MANHATTAN,Ipanema Restaurant,4.0,restaurants," Sandwiches, French "
+1148,MANHATTAN,Grazie,4.5,restaurants," Cocktail Bars, American (New), Breakfast & Brunch "
+1149,MANHATTAN,Raclette,4.5,restaurants," Seafood, Wine Bars, Beer Bar "
+1150,MANHATTAN,Dutch Freds,4.0,restaurants, Taiwanese 
+1151,MANHATTAN,Upstate,4.0,restaurants," Mediterranean, Cafes, Breakfast & Brunch "
+1152,MANHATTAN,886,4.0,restaurants," American (New), Gluten-Free, Breakfast & Brunch "
+1153,MANHATTAN,Rustic Table,4.5,restaurants," Thai, Asian Fusion, Vegetarian "
+1154,MANHATTAN,Friedman’s,4.0,restaurants," French, Salad, Breakfast & Brunch "
+1155,MANHATTAN,Thai Villa,4.0,restaurants," Seafood, Burgers "
+1156,MANHATTAN,Le Parisien,4.0,restaurants, Italian 
+1157,MANHATTAN,Burger & Lobster,4.5,restaurants, French 
+1158,MANHATTAN,Trattoria Trecolori,4.5,restaurants, American (New) 
+1159,MANHATTAN,La Sirene,4.0,restaurants," Italian, Venues & Event Spaces, Seafood "
+1160,MANHATTAN,Midwinter Kitchen,4.0,restaurants, Thai 
+1161,MANHATTAN,Carmine’s Italian Restaurant - Times Square,4.5,restaurants," Thai, Asian Fusion "
+1162,MANHATTAN,Topaz Noodle Bar,4.0,restaurants," American (Traditional), Cocktail Bars "
+1163,MANHATTAN,Up Thai,4.0,restaurants," Southern, Breakfast & Brunch, American (Traditional) "
+1164,MANHATTAN,Park Avenue Tavern,4.0,restaurants," Cocktail Bars, American (New), Speakeasies "
+1165,MANHATTAN,Sweet Chick,4.0,restaurants," Seafood, Burgers, American (New) "
+1166,MANHATTAN,Tanner Smiths,4.5,restaurants," French, Wine Bars "
+1167,MANHATTAN,Burger & Lobster,3.5,restaurants," Grocery, Italian, Meat Shops "
+1168,MANHATTAN,Amélie,4.0,restaurants," Comfort Food, Southern, American (Traditional) "
+1169,MANHATTAN,Eataly Downtown,4.5,restaurants, Ramen 
+1170,MANHATTAN,Jacob’s Pickles,4.0,restaurants," Thai, Malaysian, Vietnamese "
+1171,MANHATTAN,Teppen Ramen,4.0,restaurants," American (New), Cocktail Bars "
+1172,MANHATTAN,LoveMama,4.0,restaurants," Bars, American (New) "
+1173,MANHATTAN,Bea,4.0,restaurants," American (New), Breakfast & Brunch, Cocktail Bars "
+1174,MANHATTAN,District Social,4.5,restaurants, Italian 
+1175,MANHATTAN,The Smith,4.0,restaurants," Brazilian, Latin American, Portuguese "
+1176,MANHATTAN,Angeletto Restaurant,4.0,restaurants, Italian 
+1177,MANHATTAN,Ipanema Restaurant,4.0,restaurants," Sandwiches, French "
+1178,MANHATTAN,Grazie,4.5,restaurants," Cocktail Bars, American (New), Breakfast & Brunch "
+1179,MANHATTAN,Raclette,4.5,restaurants," Seafood, Wine Bars, Beer Bar "
+1180,MANHATTAN,Dutch Freds,4.0,restaurants, Taiwanese 
+1181,MANHATTAN,Upstate,4.0,restaurants," Mediterranean, Cafes, Breakfast & Brunch "
+1182,MANHATTAN,886,4.0,restaurants," American (New), Gluten-Free, Breakfast & Brunch "
+1183,MANHATTAN,Rustic Table,4.5,restaurants," Thai, Asian Fusion, Vegetarian "
+1184,MANHATTAN,Friedman’s,4.0,restaurants," French, Salad, Breakfast & Brunch "
+1185,MANHATTAN,Thai Villa,4.0,restaurants," Seafood, Burgers "
+1186,MANHATTAN,Le Parisien,4.0,restaurants, Italian 
+1187,MANHATTAN,Burger & Lobster,4.5,restaurants, French 
+1188,MANHATTAN,Trattoria Trecolori,4.5,restaurants, American (New) 
+1189,MANHATTAN,La Sirene,4.0,restaurants," Italian, Venues & Event Spaces, Seafood "
+1190,MANHATTAN,Midwinter Kitchen,4.0,restaurants, Thai 
+1191,MANHATTAN,Carmine’s Italian Restaurant - Times Square,4.5,restaurants," Thai, Asian Fusion "
+1192,MANHATTAN,Topaz Noodle Bar,4.0,restaurants," American (Traditional), Cocktail Bars "
+1193,MANHATTAN,Up Thai,4.0,restaurants," Southern, Breakfast & Brunch, American (Traditional) "
+1194,MANHATTAN,Park Avenue Tavern,4.0,Nightlife," Lounges, Cocktail Bars "
+1195,MANHATTAN,Sweet Chick,3.5,Nightlife, Lounges 
+1196,MANHATTAN,Rooftop 93,4.0,Nightlife," Dance Clubs, Lounges, Comedy Clubs "
+1197,MANHATTAN,Playboy Club NYC,5.0,Nightlife," Bars, American (Traditional) "
+1198,MANHATTAN,The Village Underground,4.5,Nightlife," Karaoke, Cocktail Bars "
+1199,MANHATTAN,The Wilson,4.0,Nightlife, Lounges 
+1200,MANHATTAN,Anytime Karaoke,3.5,Nightlife," Dance Clubs, Event Planning & Services "
+1201,MANHATTAN,The Living Room,4.0,Nightlife," Seafood, American (New), Bars "
+1202,MANHATTAN,Red Rabbit Club,4.0,Nightlife," Cocktail Bars, Venues & Event Spaces, Lounges "
+1203,MANHATTAN,Sall Restaurant & Lounge,3.5,Nightlife," Lounges, Karaoke, Dance Clubs "
+1204,MANHATTAN,Ascent Lounge,4.0,Nightlife," Lounges, Cocktail Bars "
+1205,MANHATTAN,On Now Lounge,4.0,Nightlife," American (New), Bars "
+1206,MANHATTAN,Keybar,5.0,Nightlife," Dive Bars, Bar Crawl "
+1207,MANHATTAN,Henry’s Rooftop Bar,3.5,Nightlife," Lounges, Venues & Event Spaces "
+1208,MANHATTAN,Strangelove,5.0,Nightlife," Dance Clubs, Jazz & Blues "
+1209,MANHATTAN,48 Lounge,5.0,Nightlife," Dance Clubs, Party & Event Planning "
+1210,MANHATTAN,Friday Night Blues,5.0,Nightlife, Comedy Clubs 
+1211,MANHATTAN,"Nightlife, Party, Club & VIP Bottle Services",4.0,Nightlife," Music Venues, Bars "
+1212,MANHATTAN,New York Comedy Club,4.0,Nightlife," Karaoke, Lounges, Venues & Event Spaces "
+1213,MANHATTAN,Pier 17,5.0,Nightlife," Beer Gardens, American (New), Bars "
+1214,MANHATTAN,Queen’s Cabinet Bar & Lounge,4.5,Nightlife, Cocktail Bars 
+1215,MANHATTAN,Clinton Hall,4.5,Entertainment, Bakeries 
+1216,MANHATTAN,Waiting On a Friend,4.0,Entertainment," Food Stands, Middle Eastern, Halal "
+1217,MANHATTAN,Veil,4.0,Entertainment, Ramen 
+1218,MANHATTAN,Levain Bakery,4.5,Entertainment, Art Museums 
+1219,MANHATTAN,The Halal Guys,5.0,Entertainment, Parks 
+1220,MANHATTAN,Ippudo NY,4.0,Entertainment," Delis, Sandwiches "
+1221,MANHATTAN,The Metropolitan Museum of Art,4.5,Entertainment," Coffee & Tea, Bakeries "
+1222,MANHATTAN,Central Park,4.5,Entertainment, Tacos 
+1223,MANHATTAN,Katz’s Delicatessen,4.0,Entertainment," Seafood, Burgers, American (New) "
+1224,MANHATTAN,Bibble & Sip,4.5,Entertainment," Parks, Local Flavor "
+1225,MANHATTAN,Los Tacos No.1,4.5,Entertainment, Bakeries 
+1226,MANHATTAN,Burger & Lobster,4.0,Entertainment," Food Stands, Middle Eastern, Halal "
+1227,MANHATTAN,The High Line,4.0,Entertainment, Ramen 
+1228,MANHATTAN,Levain Bakery,4.5,Entertainment, Art Museums 
+1229,MANHATTAN,The Halal Guys,5.0,Entertainment, Parks 
+1230,MANHATTAN,Ippudo NY,4.0,Entertainment," Delis, Sandwiches "
+1231,MANHATTAN,The Metropolitan Museum of Art,4.5,Entertainment," Coffee & Tea, Bakeries "
+1232,MANHATTAN,Central Park,4.5,Entertainment, Tacos 
+1233,MANHATTAN,Katz’s Delicatessen,4.0,Entertainment," Seafood, Burgers, American (New) "
+1234,MANHATTAN,Bibble & Sip,4.5,Entertainment," Parks, Local Flavor "
+1235,MANHATTAN,Los Tacos No.1,4.5,Entertainment, Bakeries 
+1236,MANHATTAN,Burger & Lobster,4.0,Entertainment," Food Stands, Middle Eastern, Halal "
+1237,MANHATTAN,The High Line,4.0,Entertainment, Ramen 
+1238,MANHATTAN,Levain Bakery,4.5,Entertainment, Art Museums 
+1239,MANHATTAN,The Halal Guys,5.0,Entertainment, Parks 
+1240,MANHATTAN,Ippudo NY,4.0,Entertainment," Delis, Sandwiches "
+1241,MANHATTAN,The Metropolitan Museum of Art,4.5,Entertainment," Coffee & Tea, Bakeries "
+1242,MANHATTAN,Central Park,4.5,Entertainment, Tacos 
+1243,MANHATTAN,Katz’s Delicatessen,4.0,Entertainment," Seafood, Burgers, American (New) "
+1244,MANHATTAN,Bibble & Sip,4.5,Entertainment," Parks, Local Flavor "
+1245,MANHATTAN,Los Tacos No.1,4.5,Entertainment, Bakeries 
+1246,MANHATTAN,Burger & Lobster,4.0,Entertainment," Food Stands, Middle Eastern, Halal "
+1247,MANHATTAN,The High Line,4.0,Entertainment, Ramen 
+1248,MANHATTAN,Levain Bakery,4.5,Entertainment, Art Museums 
+1249,MANHATTAN,The Halal Guys,5.0,Entertainment, Parks 
+1250,MANHATTAN,Ippudo NY,4.0,Entertainment," Delis, Sandwiches "
+1251,MANHATTAN,The Metropolitan Museum of Art,4.5,Entertainment," Coffee & Tea, Bakeries "
+1252,MANHATTAN,Central Park,4.5,Entertainment, Tacos 
+1253,MANHATTAN,Katz’s Delicatessen,4.0,Entertainment," Seafood, Burgers, American (New) "
+1254,MANHATTAN,Bibble & Sip,4.5,Entertainment," Parks, Local Flavor "
+1255,MANHATTAN,Los Tacos No.1,4.5,Entertainment, Bakeries 
+1256,MANHATTAN,Burger & Lobster,4.0,Entertainment," Food Stands, Middle Eastern, Halal "
+1257,MANHATTAN,The High Line,4.0,Entertainment, Ramen 
+1258,MANHATTAN,Levain Bakery,4.5,Entertainment, Art Museums 
+1259,MANHATTAN,The Halal Guys,5.0,Entertainment, Parks 
+1260,MANHATTAN,Ippudo NY,4.0,Entertainment," Delis, Sandwiches "
+1261,MANHATTAN,The Metropolitan Museum of Art,4.5,Entertainment," Coffee & Tea, Bakeries "
+1262,MANHATTAN,Central Park,4.5,Entertainment, Tacos 
+1263,MANHATTAN,Katz’s Delicatessen,4.0,Entertainment," Seafood, Burgers, American (New) "
+1264,MANHATTAN,Bibble & Sip,4.5,Entertainment," Parks, Local Flavor "
+1265,MANHATTAN,Los Tacos No.1,4.5,Entertainment, Bakeries 
+1266,MANHATTAN,Burger & Lobster,4.0,Entertainment," Food Stands, Middle Eastern, Halal "
+1267,MANHATTAN,The High Line,4.0,Entertainment, Ramen 
+1268,MANHATTAN,Levain Bakery,4.5,Entertainment, Art Museums 
+1269,MANHATTAN,The Halal Guys,5.0,Entertainment, Parks 
+1270,MANHATTAN,Ippudo NY,4.0,Entertainment," Delis, Sandwiches "
+1271,MANHATTAN,The Metropolitan Museum of Art,4.5,Entertainment," Coffee & Tea, Bakeries "
+1272,MANHATTAN,Central Park,4.5,Entertainment, Tacos 
+1273,MANHATTAN,Katz’s Delicatessen,4.0,Entertainment," Seafood, Burgers, American (New) "
+1274,MANHATTAN,Bibble & Sip,4.5,Entertainment," Parks, Local Flavor "
+1275,MANHATTAN,Los Tacos No.1,4.5,Entertainment, Bakeries 
+1276,MANHATTAN,Burger & Lobster,4.0,Entertainment," Food Stands, Middle Eastern, Halal "
+1277,MANHATTAN,The High Line,4.0,Entertainment, Ramen 
+1278,MANHATTAN,Levain Bakery,4.5,Entertainment, Art Museums 
+1279,MANHATTAN,The Halal Guys,5.0,Entertainment, Parks 
+1280,MANHATTAN,Ippudo NY,4.0,Entertainment," Delis, Sandwiches "
+1281,MANHATTAN,The Metropolitan Museum of Art,4.5,Entertainment," Coffee & Tea, Bakeries "
+1282,MANHATTAN,Central Park,4.5,Entertainment, Tacos 
+1283,MANHATTAN,Katz’s Delicatessen,4.0,Entertainment," Seafood, Burgers, American (New) "
+1284,MANHATTAN,Bibble & Sip,4.5,Entertainment," Parks, Local Flavor "
+1285,MANHATTAN,Los Tacos No.1,4.5,Entertainment, Bakeries 
+1286,MANHATTAN,Burger & Lobster,4.0,Entertainment," Food Stands, Middle Eastern, Halal "
+1287,MANHATTAN,The High Line,4.0,Entertainment, Ramen 
+1288,MANHATTAN,Levain Bakery,4.5,Entertainment, Art Museums 
+1289,MANHATTAN,The Halal Guys,5.0,Entertainment, Parks 
+1290,MANHATTAN,Ippudo NY,4.0,Entertainment," Delis, Sandwiches "
+1291,MANHATTAN,The Metropolitan Museum of Art,4.5,Entertainment," Coffee & Tea, Bakeries "
+1292,MANHATTAN,Central Park,4.5,Entertainment, Tacos 
+1293,MANHATTAN,Katz’s Delicatessen,4.0,Entertainment," Seafood, Burgers, American (New) "
+1294,MANHATTAN,Bibble & Sip,4.5,Entertainment," Parks, Local Flavor "
+1295,BROOKLYN,Los Tacos No.1,4.0,restaurants," American (Traditional), Gastropubs "
+1296,BROOKLYN,Burger & Lobster,4.5,restaurants," Bars, Breakfast & Brunch, Sicilian "
+1297,BROOKLYN,The High Line,5.0,restaurants," Turkish, Mediterranean "
+1298,BROOKLYN,Uglyduckling,5.0,restaurants," American (New), Beer Bar, Wine Bars "
+1299,BROOKLYN,Concrete,4.0,restaurants," American (New), Breakfast & Brunch "
+1300,BROOKLYN,Tava Turkish and Mediterranean,4.5,restaurants," Korean, Bars "
+1301,BROOKLYN,Bernie’s,4.5,restaurants," Italian, Gluten-Free, Salad "
+1302,BROOKLYN,Buttermilk Channel,4.5,restaurants, Pizza 
+1303,BROOKLYN,Silver Factory,4.0,restaurants, Steakhouses 
+1304,BROOKLYN,Mariella,4.0,restaurants," Coffee & Tea, Desserts, Breakfast & Brunch "
+1305,BROOKLYN,Juliana’s Pizza,4.0,restaurants," American (New), Cocktail Bars "
+1306,BROOKLYN,Peter Luger,4.5,restaurants," American (New), Bars, Seafood "
+1307,BROOKLYN,Milk & Honey Cafe,4.0,restaurants, Seafood 
+1308,BROOKLYN,Bijan’s,4.5,restaurants," Vegan, Vegetarian "
+1309,BROOKLYN,Baron’s,4.0,restaurants," Cajun/Creole, Barbeque, Soul Food "
+1310,BROOKLYN,Red Hook Lobster Pound,4.0,restaurants," French, Cocktail Bars, Seafood "
+1311,BROOKLYN,Greedi Vegan,4.0,restaurants," Vietnamese, Gastropubs, Cocktail Bars "
+1312,BROOKLYN,Soco,4.5,restaurants," American (Traditional), Comfort Food "
+1313,BROOKLYN,Mominette,4.5,restaurants," American (New), French, Bars "
+1314,BROOKLYN,Bricolage,4.5,restaurants," Mediterranean, Turkish, Seafood "
+1315,BROOKLYN,The Brooklyn Tree,4.0,restaurants, Shanghainese 
+1316,BROOKLYN,Gentleman Farmer - Fort Greene,4.0,restaurants," Vietnamese, Coffee & Tea, Salad "
+1317,BROOKLYN,Seed,4.0,restaurants," Southern, American (Traditional), Bars "
+1318,BROOKLYN,Yaso Tangbao,4.0,restaurants," Barbeque, Bars, American (Traditional) "
+1319,BROOKLYN,5ive Spice,4.0,restaurants," Southern, Breakfast & Brunch, American (Traditional) "
+1320,BROOKLYN,Peaches HotHouse,4.0,restaurants," Breakfast & Brunch, Mediterranean, Beer, Wine & Spirits "
+1321,BROOKLYN,Mable’s Smokehouse & Banquet Hall,4.5,restaurants," Cajun/Creole, Seafood, Southern "
+1322,BROOKLYN,Sweet Chick,5.0,restaurants," Italian, Breakfast & Brunch "
+1323,BROOKLYN,Olea,4.5,restaurants, Hot Pot 
+1324,BROOKLYN,Lowerline,5.0,restaurants, Taiwanese 
+1325,BROOKLYN,Flora,4.0,restaurants," American (Traditional), Gastropubs "
+1326,BROOKLYN,Laojie Hotpot,4.5,restaurants," Bars, Breakfast & Brunch, Sicilian "
+1327,BROOKLYN,Fan Fried Rice Bar,5.0,restaurants," Turkish, Mediterranean "
+1328,BROOKLYN,Uglyduckling,5.0,restaurants," American (New), Beer Bar, Wine Bars "
+1329,BROOKLYN,Concrete,4.0,restaurants," American (New), Breakfast & Brunch "
+1330,BROOKLYN,Tava Turkish and Mediterranean,4.5,restaurants," Korean, Bars "
+1331,BROOKLYN,Bernie’s,4.5,restaurants," Italian, Gluten-Free, Salad "
+1332,BROOKLYN,Buttermilk Channel,4.5,restaurants, Pizza 
+1333,BROOKLYN,Silver Factory,4.0,restaurants, Steakhouses 
+1334,BROOKLYN,Mariella,4.0,restaurants," Coffee & Tea, Desserts, Breakfast & Brunch "
+1335,BROOKLYN,Juliana’s Pizza,4.0,restaurants," American (New), Cocktail Bars "
+1336,BROOKLYN,Peter Luger,4.5,restaurants," American (New), Bars, Seafood "
+1337,BROOKLYN,Milk & Honey Cafe,4.0,restaurants, Seafood 
+1338,BROOKLYN,Bijan’s,4.5,restaurants," Vegan, Vegetarian "
+1339,BROOKLYN,Baron’s,4.0,restaurants," Cajun/Creole, Barbeque, Soul Food "
+1340,BROOKLYN,Red Hook Lobster Pound,4.0,restaurants," French, Cocktail Bars, Seafood "
+1341,BROOKLYN,Greedi Vegan,4.0,restaurants," Vietnamese, Gastropubs, Cocktail Bars "
+1342,BROOKLYN,Soco,4.5,restaurants," American (Traditional), Comfort Food "
+1343,BROOKLYN,Mominette,4.5,restaurants," American (New), French, Bars "
+1344,BROOKLYN,Bricolage,4.5,restaurants," Mediterranean, Turkish, Seafood "
+1345,BROOKLYN,The Brooklyn Tree,4.0,restaurants, Shanghainese 
+1346,BROOKLYN,Gentleman Farmer - Fort Greene,4.0,restaurants," Vietnamese, Coffee & Tea, Salad "
+1347,BROOKLYN,Seed,4.0,restaurants," Southern, American (Traditional), Bars "
+1348,BROOKLYN,Yaso Tangbao,4.0,restaurants," Barbeque, Bars, American (Traditional) "
+1349,BROOKLYN,5ive Spice,4.0,restaurants," Southern, Breakfast & Brunch, American (Traditional) "
+1350,BROOKLYN,Peaches HotHouse,4.0,restaurants," Breakfast & Brunch, Mediterranean, Beer, Wine & Spirits "
+1351,BROOKLYN,Mable’s Smokehouse & Banquet Hall,4.5,restaurants," Cajun/Creole, Seafood, Southern "
+1352,BROOKLYN,Sweet Chick,5.0,restaurants," Italian, Breakfast & Brunch "
+1353,BROOKLYN,Olea,4.5,restaurants, Hot Pot 
+1354,BROOKLYN,Lowerline,5.0,restaurants, Taiwanese 
+1355,BROOKLYN,Flora,4.0,restaurants," American (Traditional), Gastropubs "
+1356,BROOKLYN,Laojie Hotpot,4.5,restaurants," Bars, Breakfast & Brunch, Sicilian "
+1357,BROOKLYN,Fan Fried Rice Bar,5.0,restaurants," Turkish, Mediterranean "
+1358,BROOKLYN,Uglyduckling,5.0,restaurants," American (New), Beer Bar, Wine Bars "
+1359,BROOKLYN,Concrete,4.0,restaurants," American (New), Breakfast & Brunch "
+1360,BROOKLYN,Tava Turkish and Mediterranean,4.5,restaurants," Korean, Bars "
+1361,BROOKLYN,Bernie’s,4.5,restaurants," Italian, Gluten-Free, Salad "
+1362,BROOKLYN,Buttermilk Channel,4.5,restaurants, Pizza 
+1363,BROOKLYN,Silver Factory,4.0,restaurants, Steakhouses 
+1364,BROOKLYN,Mariella,4.0,restaurants," Coffee & Tea, Desserts, Breakfast & Brunch "
+1365,BROOKLYN,Juliana’s Pizza,4.0,restaurants," American (New), Cocktail Bars "
+1366,BROOKLYN,Peter Luger,4.5,restaurants," American (New), Bars, Seafood "
+1367,BROOKLYN,Milk & Honey Cafe,4.0,restaurants, Seafood 
+1368,BROOKLYN,Bijan’s,4.5,restaurants," Vegan, Vegetarian "
+1369,BROOKLYN,Baron’s,4.0,restaurants," Cajun/Creole, Barbeque, Soul Food "
+1370,BROOKLYN,Red Hook Lobster Pound,4.0,restaurants," French, Cocktail Bars, Seafood "
+1371,BROOKLYN,Greedi Vegan,4.0,restaurants," Vietnamese, Gastropubs, Cocktail Bars "
+1372,BROOKLYN,Soco,4.5,restaurants," American (Traditional), Comfort Food "
+1373,BROOKLYN,Mominette,4.5,restaurants," American (New), French, Bars "
+1374,BROOKLYN,Bricolage,4.5,restaurants," Mediterranean, Turkish, Seafood "
+1375,BROOKLYN,The Brooklyn Tree,4.0,restaurants, Shanghainese 
+1376,BROOKLYN,Gentleman Farmer - Fort Greene,4.0,restaurants," Vietnamese, Coffee & Tea, Salad "
+1377,BROOKLYN,Seed,4.0,restaurants," Southern, American (Traditional), Bars "
+1378,BROOKLYN,Yaso Tangbao,4.0,restaurants," Barbeque, Bars, American (Traditional) "
+1379,BROOKLYN,5ive Spice,4.0,restaurants," Southern, Breakfast & Brunch, American (Traditional) "
+1380,BROOKLYN,Peaches HotHouse,4.0,restaurants," Breakfast & Brunch, Mediterranean, Beer, Wine & Spirits "
+1381,BROOKLYN,Mable’s Smokehouse & Banquet Hall,4.5,restaurants," Cajun/Creole, Seafood, Southern "
+1382,BROOKLYN,Sweet Chick,5.0,restaurants," Italian, Breakfast & Brunch "
+1383,BROOKLYN,Olea,4.5,restaurants, Hot Pot 
+1384,BROOKLYN,Lowerline,5.0,restaurants, Taiwanese 
+1385,BROOKLYN,Flora,4.0,restaurants," American (Traditional), Gastropubs "
+1386,BROOKLYN,Laojie Hotpot,4.5,restaurants," Bars, Breakfast & Brunch, Sicilian "
+1387,BROOKLYN,Fan Fried Rice Bar,5.0,restaurants," Turkish, Mediterranean "
+1388,BROOKLYN,Uglyduckling,5.0,restaurants," American (New), Beer Bar, Wine Bars "
+1389,BROOKLYN,Concrete,4.0,restaurants," American (New), Breakfast & Brunch "
+1390,BROOKLYN,Tava Turkish and Mediterranean,4.5,restaurants," Korean, Bars "
+1391,BROOKLYN,Bernie’s,4.5,restaurants," Italian, Gluten-Free, Salad "
+1392,BROOKLYN,Buttermilk Channel,4.5,restaurants, Pizza 
+1393,BROOKLYN,Silver Factory,4.0,restaurants, Steakhouses 
+1394,BROOKLYN,Mariella,4.0,restaurants," Coffee & Tea, Desserts, Breakfast & Brunch "
+1395,BROOKLYN,Juliana’s Pizza,4.0,restaurants," American (New), Cocktail Bars "
+1396,BROOKLYN,Peter Luger,4.5,restaurants," American (New), Bars, Seafood "
+1397,BROOKLYN,Milk & Honey Cafe,4.0,restaurants, Seafood 
+1398,BROOKLYN,Bijan’s,4.5,restaurants," Vegan, Vegetarian "
+1399,BROOKLYN,Baron’s,4.0,restaurants," Cajun/Creole, Barbeque, Soul Food "
+1400,BROOKLYN,Red Hook Lobster Pound,4.0,restaurants," French, Cocktail Bars, Seafood "
+1401,BROOKLYN,Greedi Vegan,4.0,restaurants," Vietnamese, Gastropubs, Cocktail Bars "
+1402,BROOKLYN,Soco,4.5,restaurants," American (Traditional), Comfort Food "
+1403,BROOKLYN,Mominette,4.5,restaurants," American (New), French, Bars "
+1404,BROOKLYN,Bricolage,4.5,restaurants," Mediterranean, Turkish, Seafood "
+1405,BROOKLYN,The Brooklyn Tree,4.0,restaurants, Shanghainese 
+1406,BROOKLYN,Gentleman Farmer - Fort Greene,4.0,restaurants," Vietnamese, Coffee & Tea, Salad "
+1407,BROOKLYN,Seed,4.0,restaurants," Southern, American (Traditional), Bars "
+1408,BROOKLYN,Yaso Tangbao,4.0,restaurants," Barbeque, Bars, American (Traditional) "
+1409,BROOKLYN,5ive Spice,4.0,restaurants," Southern, Breakfast & Brunch, American (Traditional) "
+1410,BROOKLYN,Peaches HotHouse,4.0,restaurants," Breakfast & Brunch, Mediterranean, Beer, Wine & Spirits "
+1411,BROOKLYN,Mable’s Smokehouse & Banquet Hall,4.5,restaurants," Cajun/Creole, Seafood, Southern "
+1412,BROOKLYN,Sweet Chick,5.0,restaurants," Italian, Breakfast & Brunch "
+1413,BROOKLYN,Olea,4.5,restaurants, Hot Pot 
+1414,BROOKLYN,Lowerline,5.0,restaurants, Taiwanese 
+1415,BROOKLYN,Flora,4.0,restaurants," American (Traditional), Gastropubs "
+1416,BROOKLYN,Laojie Hotpot,4.5,restaurants," Bars, Breakfast & Brunch, Sicilian "
+1417,BROOKLYN,Fan Fried Rice Bar,5.0,restaurants," Turkish, Mediterranean "
+1418,BROOKLYN,Uglyduckling,5.0,restaurants," American (New), Beer Bar, Wine Bars "
+1419,BROOKLYN,Concrete,4.0,restaurants," American (New), Breakfast & Brunch "
+1420,BROOKLYN,Tava Turkish and Mediterranean,4.5,restaurants," Korean, Bars "
+1421,BROOKLYN,Bernie’s,4.5,restaurants," Italian, Gluten-Free, Salad "
+1422,BROOKLYN,Buttermilk Channel,4.5,restaurants, Pizza 
+1423,BROOKLYN,Silver Factory,4.0,restaurants, Steakhouses 
+1424,BROOKLYN,Mariella,4.0,restaurants," Coffee & Tea, Desserts, Breakfast & Brunch "
+1425,BROOKLYN,Juliana’s Pizza,4.0,restaurants," American (New), Cocktail Bars "
+1426,BROOKLYN,Peter Luger,4.5,restaurants," American (New), Bars, Seafood "
+1427,BROOKLYN,Milk & Honey Cafe,4.0,restaurants, Seafood 
+1428,BROOKLYN,Bijan’s,4.5,restaurants," Vegan, Vegetarian "
+1429,BROOKLYN,Baron’s,4.0,restaurants," Cajun/Creole, Barbeque, Soul Food "
+1430,BROOKLYN,Red Hook Lobster Pound,4.0,restaurants," French, Cocktail Bars, Seafood "
+1431,BROOKLYN,Greedi Vegan,4.0,restaurants," Vietnamese, Gastropubs, Cocktail Bars "
+1432,BROOKLYN,Soco,4.5,restaurants," American (Traditional), Comfort Food "
+1433,BROOKLYN,Mominette,4.5,restaurants," American (New), French, Bars "
+1434,BROOKLYN,Bricolage,4.5,restaurants," Mediterranean, Turkish, Seafood "
+1435,BROOKLYN,The Brooklyn Tree,4.0,restaurants, Shanghainese 
+1436,BROOKLYN,Gentleman Farmer - Fort Greene,4.0,restaurants," Vietnamese, Coffee & Tea, Salad "
+1437,BROOKLYN,Seed,4.0,restaurants," Southern, American (Traditional), Bars "
+1438,BROOKLYN,Yaso Tangbao,4.0,restaurants," Barbeque, Bars, American (Traditional) "
+1439,BROOKLYN,5ive Spice,4.0,restaurants," Southern, Breakfast & Brunch, American (Traditional) "
+1440,BROOKLYN,Peaches HotHouse,4.0,restaurants," Breakfast & Brunch, Mediterranean, Beer, Wine & Spirits "
+1441,BROOKLYN,Mable’s Smokehouse & Banquet Hall,4.5,restaurants," Cajun/Creole, Seafood, Southern "
+1442,BROOKLYN,Sweet Chick,5.0,restaurants," Italian, Breakfast & Brunch "
+1443,BROOKLYN,Olea,4.5,restaurants, Hot Pot 
+1444,BROOKLYN,Lowerline,5.0,restaurants, Taiwanese 
+1445,BROOKLYN,Flora,4.0,restaurants," American (Traditional), Gastropubs "
+1446,BROOKLYN,Laojie Hotpot,4.5,restaurants," Bars, Breakfast & Brunch, Sicilian "
+1447,BROOKLYN,Fan Fried Rice Bar,5.0,restaurants," Turkish, Mediterranean "
+1448,BROOKLYN,Uglyduckling,5.0,restaurants," American (New), Beer Bar, Wine Bars "
+1449,BROOKLYN,Concrete,4.0,restaurants," American (New), Breakfast & Brunch "
+1450,BROOKLYN,Tava Turkish and Mediterranean,4.5,restaurants," Korean, Bars "
+1451,BROOKLYN,Bernie’s,4.5,restaurants," Italian, Gluten-Free, Salad "
+1452,BROOKLYN,Buttermilk Channel,4.5,restaurants, Pizza 
+1453,BROOKLYN,Silver Factory,4.0,restaurants, Steakhouses 
+1454,BROOKLYN,Mariella,4.0,restaurants," Coffee & Tea, Desserts, Breakfast & Brunch "
+1455,BROOKLYN,Juliana’s Pizza,4.0,restaurants," American (New), Cocktail Bars "
+1456,BROOKLYN,Peter Luger,4.5,restaurants," American (New), Bars, Seafood "
+1457,BROOKLYN,Milk & Honey Cafe,4.0,restaurants, Seafood 
+1458,BROOKLYN,Bijan’s,4.5,restaurants," Vegan, Vegetarian "
+1459,BROOKLYN,Baron’s,4.0,restaurants," Cajun/Creole, Barbeque, Soul Food "
+1460,BROOKLYN,Red Hook Lobster Pound,4.0,restaurants," French, Cocktail Bars, Seafood "
+1461,BROOKLYN,Greedi Vegan,4.0,restaurants," Vietnamese, Gastropubs, Cocktail Bars "
+1462,BROOKLYN,Soco,4.5,restaurants," American (Traditional), Comfort Food "
+1463,BROOKLYN,Mominette,4.5,restaurants," American (New), French, Bars "
+1464,BROOKLYN,Bricolage,4.5,restaurants," Mediterranean, Turkish, Seafood "
+1465,BROOKLYN,The Brooklyn Tree,4.0,restaurants, Shanghainese 
+1466,BROOKLYN,Gentleman Farmer - Fort Greene,4.0,restaurants," Vietnamese, Coffee & Tea, Salad "
+1467,BROOKLYN,Seed,4.0,restaurants," Southern, American (Traditional), Bars "
+1468,BROOKLYN,Yaso Tangbao,4.0,restaurants," Barbeque, Bars, American (Traditional) "
+1469,BROOKLYN,5ive Spice,4.0,restaurants," Southern, Breakfast & Brunch, American (Traditional) "
+1470,BROOKLYN,Peaches HotHouse,4.0,restaurants," Breakfast & Brunch, Mediterranean, Beer, Wine & Spirits "
+1471,BROOKLYN,Mable’s Smokehouse & Banquet Hall,4.5,restaurants," Cajun/Creole, Seafood, Southern "
+1472,BROOKLYN,Sweet Chick,5.0,restaurants," Italian, Breakfast & Brunch "
+1473,BROOKLYN,Olea,4.5,restaurants, Hot Pot 
+1474,BROOKLYN,Lowerline,5.0,restaurants, Taiwanese 
+1475,BROOKLYN,Flora,4.0,restaurants," American (Traditional), Gastropubs "
+1476,BROOKLYN,Laojie Hotpot,4.5,restaurants," Bars, Breakfast & Brunch, Sicilian "
+1477,BROOKLYN,Fan Fried Rice Bar,5.0,restaurants," Turkish, Mediterranean "
+1478,BROOKLYN,Uglyduckling,5.0,restaurants," American (New), Beer Bar, Wine Bars "
+1479,BROOKLYN,Concrete,4.0,restaurants," American (New), Breakfast & Brunch "
+1480,BROOKLYN,Tava Turkish and Mediterranean,4.5,restaurants," Korean, Bars "
+1481,BROOKLYN,Bernie’s,4.5,restaurants," Italian, Gluten-Free, Salad "
+1482,BROOKLYN,Buttermilk Channel,4.5,restaurants, Pizza 
+1483,BROOKLYN,Silver Factory,4.0,restaurants, Steakhouses 
+1484,BROOKLYN,Mariella,4.0,restaurants," Coffee & Tea, Desserts, Breakfast & Brunch "
+1485,BROOKLYN,Juliana’s Pizza,4.0,restaurants," American (New), Cocktail Bars "
+1486,BROOKLYN,Peter Luger,4.5,restaurants," American (New), Bars, Seafood "
+1487,BROOKLYN,Milk & Honey Cafe,4.0,restaurants, Seafood 
+1488,BROOKLYN,Bijan’s,4.5,restaurants," Vegan, Vegetarian "
+1489,BROOKLYN,Baron’s,4.0,restaurants," Cajun/Creole, Barbeque, Soul Food "
+1490,BROOKLYN,Red Hook Lobster Pound,4.0,restaurants," French, Cocktail Bars, Seafood "
+1491,BROOKLYN,Greedi Vegan,4.0,restaurants," Vietnamese, Gastropubs, Cocktail Bars "
+1492,BROOKLYN,Soco,4.5,restaurants," American (Traditional), Comfort Food "
+1493,BROOKLYN,Mominette,4.5,restaurants," American (New), French, Bars "
+1494,BROOKLYN,Bricolage,4.5,restaurants," Mediterranean, Turkish, Seafood "
+1495,BROOKLYN,The Brooklyn Tree,4.0,restaurants, Shanghainese 
+1496,BROOKLYN,Gentleman Farmer - Fort Greene,4.0,restaurants," Vietnamese, Coffee & Tea, Salad "
+1497,BROOKLYN,Seed,4.0,restaurants," Southern, American (Traditional), Bars "
+1498,BROOKLYN,Yaso Tangbao,4.0,restaurants," Barbeque, Bars, American (Traditional) "
+1499,BROOKLYN,5ive Spice,4.0,restaurants," Southern, Breakfast & Brunch, American (Traditional) "
+1500,BROOKLYN,Peaches HotHouse,4.0,restaurants," Breakfast & Brunch, Mediterranean, Beer, Wine & Spirits "
+1501,BROOKLYN,Mable’s Smokehouse & Banquet Hall,4.5,restaurants," Cajun/Creole, Seafood, Southern "
+1502,BROOKLYN,Sweet Chick,5.0,restaurants," Italian, Breakfast & Brunch "
+1503,BROOKLYN,Olea,4.5,restaurants, Hot Pot 
+1504,BROOKLYN,Lowerline,5.0,restaurants, Taiwanese 
+1505,BROOKLYN,Flora,4.0,restaurants," American (Traditional), Gastropubs "
+1506,BROOKLYN,Laojie Hotpot,4.5,restaurants," Bars, Breakfast & Brunch, Sicilian "
+1507,BROOKLYN,Fan Fried Rice Bar,5.0,restaurants," Turkish, Mediterranean "
+1508,BROOKLYN,Uglyduckling,5.0,restaurants," American (New), Beer Bar, Wine Bars "
+1509,BROOKLYN,Concrete,4.0,restaurants," American (New), Breakfast & Brunch "
+1510,BROOKLYN,Tava Turkish and Mediterranean,4.5,restaurants," Korean, Bars "
+1511,BROOKLYN,Bernie’s,4.5,restaurants," Italian, Gluten-Free, Salad "
+1512,BROOKLYN,Buttermilk Channel,4.5,restaurants, Pizza 
+1513,BROOKLYN,Silver Factory,4.0,restaurants, Steakhouses 
+1514,BROOKLYN,Mariella,4.0,restaurants," Coffee & Tea, Desserts, Breakfast & Brunch "
+1515,BROOKLYN,Juliana’s Pizza,4.0,restaurants," American (New), Cocktail Bars "
+1516,BROOKLYN,Peter Luger,4.5,restaurants," American (New), Bars, Seafood "
+1517,BROOKLYN,Milk & Honey Cafe,4.0,restaurants, Seafood 
+1518,BROOKLYN,Bijan’s,4.5,restaurants," Vegan, Vegetarian "
+1519,BROOKLYN,Baron’s,4.0,restaurants," Cajun/Creole, Barbeque, Soul Food "
+1520,BROOKLYN,Red Hook Lobster Pound,4.0,restaurants," French, Cocktail Bars, Seafood "
+1521,BROOKLYN,Greedi Vegan,4.0,restaurants," Vietnamese, Gastropubs, Cocktail Bars "
+1522,BROOKLYN,Soco,4.5,restaurants," American (Traditional), Comfort Food "
+1523,BROOKLYN,Mominette,4.5,restaurants," American (New), French, Bars "
+1524,BROOKLYN,Bricolage,4.5,restaurants," Mediterranean, Turkish, Seafood "
+1525,BROOKLYN,The Brooklyn Tree,4.0,restaurants, Shanghainese 
+1526,BROOKLYN,Gentleman Farmer - Fort Greene,4.0,restaurants," Vietnamese, Coffee & Tea, Salad "
+1527,BROOKLYN,Seed,4.0,restaurants," Southern, American (Traditional), Bars "
+1528,BROOKLYN,Yaso Tangbao,4.0,restaurants," Barbeque, Bars, American (Traditional) "
+1529,BROOKLYN,5ive Spice,4.0,restaurants," Southern, Breakfast & Brunch, American (Traditional) "
+1530,BROOKLYN,Peaches HotHouse,4.0,restaurants," Breakfast & Brunch, Mediterranean, Beer, Wine & Spirits "
+1531,BROOKLYN,Mable’s Smokehouse & Banquet Hall,4.5,restaurants," Cajun/Creole, Seafood, Southern "
+1532,BROOKLYN,Sweet Chick,5.0,restaurants," Italian, Breakfast & Brunch "
+1533,BROOKLYN,Olea,4.5,restaurants, Hot Pot 
+1534,BROOKLYN,Lowerline,5.0,restaurants, Taiwanese 
+1535,BROOKLYN,Flora,4.0,Nightlife, Lounges 
+1536,BROOKLYN,Laojie Hotpot,4.0,Nightlife," Lounges, Cocktail Bars "
+1537,BROOKLYN,Fan Fried Rice Bar,4.5,Nightlife, Bars 
+1538,BROOKLYN,Brooklyn Vibes Bar & Lounge,4.5,Nightlife," Sushi Bars, Lounges "
+1539,BROOKLYN,Rooftop 93,4.0,Nightlife," Pubs, Music Venues "
+1540,BROOKLYN,Our Wicked Lady,4.5,Nightlife," Caribbean, Modern European, Lounges "
+1541,BROOKLYN,Minami Lounge,4.0,Nightlife, Dive Bars 
+1542,BROOKLYN,Union Hall,5.0,Nightlife," Dance Clubs, Bars "
+1543,BROOKLYN,Dkalabash,3.5,Nightlife," Bars, Music Venues "
+1544,BROOKLYN,Boobie Trap,5.0,Nightlife, Dive Bars 
+1545,BROOKLYN,101 Brooklyn,3.5,Nightlife, Dance Clubs 
+1546,BROOKLYN,Friends and Lovers,5.0,Nightlife," Social Clubs, Lounges "
+1547,BROOKLYN,Luv Story Bar,5.0,Nightlife, Lounges 
+1548,BROOKLYN,Bembe,3.0,Nightlife," Dance Clubs, Gay Bars "
+1549,BROOKLYN,Bare Naked Bake Sale,4.5,Nightlife," Bars, American (New) "
+1550,BROOKLYN,RFTP,4.5,Nightlife, Cocktail Bars 
+1551,BROOKLYN,Xstasy Night Club,4.5,Nightlife, Lounges 
+1552,BROOKLYN,The CopperPot,4.0,Nightlife," Dance Clubs, Venues & Event Spaces "
+1553,BROOKLYN,The Armory,5.0,Nightlife," Seafood, Bars "
+1554,BROOKLYN,Sev Studio Lounge,5.0,Nightlife, Cocktail Bars 
+1555,BROOKLYN,B66 Club,4.5,Nightlife, Tiki Bars 
+1556,BROOKLYN,Saint Julivert,4.5,Nightlife," Arcades, Lounges, Virtual Reality Centers "
+1557,BROOKLYN,L’Wren,4.5,Nightlife, Dance Clubs 
+1558,BROOKLYN,Flatbush Zombie House,4.5,Nightlife, Music Venues 
+1559,BROOKLYN,YokeyPokey Virtual Reality Club,5.0,Nightlife," Bars, Sandwiches, Tapas/Small Plates "
+1560,BROOKLYN,The Rub,3.0,Nightlife," Lounges, Dance Clubs "
+1561,BROOKLYN,Depot 52,3.5,Nightlife," Music Venues, Bars "
+1562,BROOKLYN,Mekelburg’s Domino,4.5,Nightlife," Cocktail Bars, Lounges "
+1563,BROOKLYN,The Social Butterfly,4.5,Nightlife, Bars 
+1564,BROOKLYN,C’mon Everybody,5.0,Nightlife," Performing Arts, Bars "
+1565,BROOKLYN,Drink,4.0,Nightlife, Lounges 
+1566,BROOKLYN,Bar 718,4.0,Nightlife," Lounges, Cocktail Bars "
+1567,BROOKLYN,The Illuminati Ball,4.5,Nightlife, Bars 
+1568,BROOKLYN,Brooklyn Vibes Bar & Lounge,4.5,Nightlife," Sushi Bars, Lounges "
+1569,BROOKLYN,Rooftop 93,4.0,Nightlife," Pubs, Music Venues "
+1570,BROOKLYN,Our Wicked Lady,4.5,Nightlife," Caribbean, Modern European, Lounges "
+1571,BROOKLYN,Minami Lounge,4.0,Nightlife, Dive Bars 
+1572,BROOKLYN,Union Hall,5.0,Nightlife," Dance Clubs, Bars "
+1573,BROOKLYN,Dkalabash,3.5,Nightlife," Bars, Music Venues "
+1574,BROOKLYN,Boobie Trap,5.0,Nightlife, Dive Bars 
+1575,BROOKLYN,101 Brooklyn,3.5,Nightlife, Dance Clubs 
+1576,BROOKLYN,Friends and Lovers,5.0,Nightlife," Social Clubs, Lounges "
+1577,BROOKLYN,Luv Story Bar,5.0,Nightlife, Lounges 
+1578,BROOKLYN,Bembe,3.0,Nightlife," Dance Clubs, Gay Bars "
+1579,BROOKLYN,Bare Naked Bake Sale,4.5,Nightlife," Bars, American (New) "
+1580,BROOKLYN,RFTP,4.5,Nightlife, Cocktail Bars 
+1581,BROOKLYN,Xstasy Night Club,4.5,Nightlife, Lounges 
+1582,BROOKLYN,The CopperPot,4.0,Nightlife," Dance Clubs, Venues & Event Spaces "
+1583,BROOKLYN,The Armory,5.0,Nightlife," Seafood, Bars "
+1584,BROOKLYN,Sev Studio Lounge,5.0,Nightlife, Cocktail Bars 
+1585,BROOKLYN,B66 Club,4.5,Nightlife, Tiki Bars 
+1586,BROOKLYN,Saint Julivert,4.5,Nightlife," Arcades, Lounges, Virtual Reality Centers "
+1587,BROOKLYN,L’Wren,4.5,Nightlife, Dance Clubs 
+1588,BROOKLYN,Flatbush Zombie House,4.5,Nightlife, Music Venues 
+1589,BROOKLYN,YokeyPokey Virtual Reality Club,5.0,Nightlife," Bars, Sandwiches, Tapas/Small Plates "
+1590,BROOKLYN,The Rub,3.0,Nightlife," Lounges, Dance Clubs "
+1591,BROOKLYN,Depot 52,3.5,Nightlife," Music Venues, Bars "
+1592,BROOKLYN,Mekelburg’s Domino,4.5,Nightlife," Cocktail Bars, Lounges "
+1593,BROOKLYN,The Social Butterfly,4.5,Nightlife, Bars 
+1594,BROOKLYN,C’mon Everybody,5.0,Nightlife," Performing Arts, Bars "
+1595,BROOKLYN,Drink,4.0,Nightlife, Lounges 
+1596,BROOKLYN,Bar 718,4.0,Nightlife," Lounges, Cocktail Bars "
+1597,BROOKLYN,The Illuminati Ball,4.5,Nightlife, Bars 
+1598,BROOKLYN,Brooklyn Vibes Bar & Lounge,4.5,Nightlife," Sushi Bars, Lounges "
+1599,BROOKLYN,Rooftop 93,4.0,Nightlife," Pubs, Music Venues "
+1600,BROOKLYN,Our Wicked Lady,4.5,Nightlife," Caribbean, Modern European, Lounges "
+1601,BROOKLYN,Minami Lounge,4.0,Nightlife, Dive Bars 
+1602,BROOKLYN,Union Hall,5.0,Nightlife," Dance Clubs, Bars "
+1603,BROOKLYN,Dkalabash,3.5,Nightlife," Bars, Music Venues "
+1604,BROOKLYN,Boobie Trap,5.0,Nightlife, Dive Bars 
+1605,BROOKLYN,101 Brooklyn,3.5,Nightlife, Dance Clubs 
+1606,BROOKLYN,Friends and Lovers,5.0,Nightlife," Social Clubs, Lounges "
+1607,BROOKLYN,Luv Story Bar,5.0,Nightlife, Lounges 
+1608,BROOKLYN,Bembe,3.0,Nightlife," Dance Clubs, Gay Bars "
+1609,BROOKLYN,Bare Naked Bake Sale,4.5,Nightlife," Bars, American (New) "
+1610,BROOKLYN,RFTP,4.5,Nightlife, Cocktail Bars 
+1611,BROOKLYN,Xstasy Night Club,4.5,Nightlife, Lounges 
+1612,BROOKLYN,The CopperPot,4.0,Nightlife," Dance Clubs, Venues & Event Spaces "
+1613,BROOKLYN,The Armory,5.0,Nightlife," Seafood, Bars "
+1614,BROOKLYN,Sev Studio Lounge,5.0,Nightlife, Cocktail Bars 
+1615,BROOKLYN,B66 Club,4.5,Nightlife, Tiki Bars 
+1616,BROOKLYN,Saint Julivert,4.5,Nightlife," Arcades, Lounges, Virtual Reality Centers "
+1617,BROOKLYN,L’Wren,4.5,Nightlife, Dance Clubs 
+1618,BROOKLYN,Flatbush Zombie House,4.5,Nightlife, Music Venues 
+1619,BROOKLYN,YokeyPokey Virtual Reality Club,5.0,Nightlife," Bars, Sandwiches, Tapas/Small Plates "
+1620,BROOKLYN,The Rub,3.0,Nightlife," Lounges, Dance Clubs "
+1621,BROOKLYN,Depot 52,3.5,Nightlife," Music Venues, Bars "
+1622,BROOKLYN,Mekelburg’s Domino,4.5,Nightlife," Cocktail Bars, Lounges "
+1623,BROOKLYN,The Social Butterfly,4.5,Nightlife, Bars 
+1624,BROOKLYN,C’mon Everybody,5.0,Nightlife," Performing Arts, Bars "
+1625,BROOKLYN,Drink,4.0,Nightlife, Lounges 
+1626,BROOKLYN,Bar 718,4.0,Nightlife," Lounges, Cocktail Bars "
+1627,BROOKLYN,The Illuminati Ball,4.5,Nightlife, Bars 
+1628,BROOKLYN,Brooklyn Vibes Bar & Lounge,4.5,Nightlife," Sushi Bars, Lounges "
+1629,BROOKLYN,Rooftop 93,4.0,Nightlife," Pubs, Music Venues "
+1630,BROOKLYN,Our Wicked Lady,4.5,Nightlife," Caribbean, Modern European, Lounges "
+1631,BROOKLYN,Minami Lounge,4.0,Nightlife, Dive Bars 
+1632,BROOKLYN,Union Hall,5.0,Nightlife," Dance Clubs, Bars "
+1633,BROOKLYN,Dkalabash,3.5,Nightlife," Bars, Music Venues "
+1634,BROOKLYN,Boobie Trap,5.0,Nightlife, Dive Bars 
+1635,BROOKLYN,101 Brooklyn,3.5,Nightlife, Dance Clubs 
+1636,BROOKLYN,Friends and Lovers,5.0,Nightlife," Social Clubs, Lounges "
+1637,BROOKLYN,Luv Story Bar,5.0,Nightlife, Lounges 
+1638,BROOKLYN,Bembe,3.0,Nightlife," Dance Clubs, Gay Bars "
+1639,BROOKLYN,Bare Naked Bake Sale,4.5,Nightlife," Bars, American (New) "
+1640,BROOKLYN,RFTP,4.5,Nightlife, Cocktail Bars 
+1641,BROOKLYN,Xstasy Night Club,4.5,Nightlife, Lounges 
+1642,BROOKLYN,The CopperPot,4.0,Nightlife," Dance Clubs, Venues & Event Spaces "
+1643,BROOKLYN,The Armory,5.0,Nightlife," Seafood, Bars "
+1644,BROOKLYN,Sev Studio Lounge,5.0,Nightlife, Cocktail Bars 
+1645,BROOKLYN,B66 Club,4.5,Nightlife, Tiki Bars 
+1646,BROOKLYN,Saint Julivert,4.5,Nightlife," Arcades, Lounges, Virtual Reality Centers "
+1647,BROOKLYN,L’Wren,4.5,Nightlife, Dance Clubs 
+1648,BROOKLYN,Flatbush Zombie House,4.5,Nightlife, Music Venues 
+1649,BROOKLYN,YokeyPokey Virtual Reality Club,5.0,Nightlife," Bars, Sandwiches, Tapas/Small Plates "
+1650,BROOKLYN,The Rub,3.0,Nightlife," Lounges, Dance Clubs "
+1651,BROOKLYN,Depot 52,3.5,Nightlife," Music Venues, Bars "
+1652,BROOKLYN,Mekelburg’s Domino,4.5,Nightlife," Cocktail Bars, Lounges "
+1653,BROOKLYN,The Social Butterfly,4.5,Nightlife, Bars 
+1654,BROOKLYN,C’mon Everybody,5.0,Nightlife," Performing Arts, Bars "
+1655,BROOKLYN,Drink,4.0,Nightlife, Lounges 
+1656,BROOKLYN,Bar 718,4.0,Nightlife," Lounges, Cocktail Bars "
+1657,BROOKLYN,The Illuminati Ball,4.5,Nightlife, Bars 
+1658,BROOKLYN,Brooklyn Vibes Bar & Lounge,4.5,Nightlife," Sushi Bars, Lounges "
+1659,BROOKLYN,Rooftop 93,4.0,Nightlife," Pubs, Music Venues "
+1660,BROOKLYN,Our Wicked Lady,4.5,Nightlife," Caribbean, Modern European, Lounges "
+1661,BROOKLYN,Minami Lounge,4.0,Nightlife, Dive Bars 
+1662,BROOKLYN,Union Hall,5.0,Nightlife," Dance Clubs, Bars "
+1663,BROOKLYN,Dkalabash,3.5,Nightlife," Bars, Music Venues "
+1664,BROOKLYN,Boobie Trap,5.0,Nightlife, Dive Bars 
+1665,BROOKLYN,101 Brooklyn,3.5,Nightlife, Dance Clubs 
+1666,BROOKLYN,Friends and Lovers,5.0,Nightlife," Social Clubs, Lounges "
+1667,BROOKLYN,Luv Story Bar,5.0,Nightlife, Lounges 
+1668,BROOKLYN,Bembe,3.0,Nightlife," Dance Clubs, Gay Bars "
+1669,BROOKLYN,Bare Naked Bake Sale,4.5,Nightlife," Bars, American (New) "
+1670,BROOKLYN,RFTP,4.5,Nightlife, Cocktail Bars 
+1671,BROOKLYN,Xstasy Night Club,4.5,Nightlife, Lounges 
+1672,BROOKLYN,The CopperPot,4.0,Nightlife," Dance Clubs, Venues & Event Spaces "
+1673,BROOKLYN,The Armory,5.0,Nightlife," Seafood, Bars "
+1674,BROOKLYN,Sev Studio Lounge,5.0,Nightlife, Cocktail Bars 
+1675,BROOKLYN,B66 Club,4.5,Nightlife, Tiki Bars 
+1676,BROOKLYN,Saint Julivert,4.5,Nightlife," Arcades, Lounges, Virtual Reality Centers "
+1677,BROOKLYN,L’Wren,4.5,Nightlife, Dance Clubs 
+1678,BROOKLYN,Flatbush Zombie House,4.5,Nightlife, Music Venues 
+1679,BROOKLYN,YokeyPokey Virtual Reality Club,5.0,Nightlife," Bars, Sandwiches, Tapas/Small Plates "
+1680,BROOKLYN,The Rub,3.0,Nightlife," Lounges, Dance Clubs "
+1681,BROOKLYN,Depot 52,3.5,Nightlife," Music Venues, Bars "
+1682,BROOKLYN,Mekelburg’s Domino,4.5,Nightlife," Cocktail Bars, Lounges "
+1683,BROOKLYN,The Social Butterfly,4.5,Nightlife, Bars 
+1684,BROOKLYN,C’mon Everybody,5.0,Nightlife," Performing Arts, Bars "
+1685,BROOKLYN,Drink,4.0,Nightlife, Lounges 
+1686,BROOKLYN,Bar 718,4.0,Nightlife," Lounges, Cocktail Bars "
+1687,BROOKLYN,The Illuminati Ball,4.5,Nightlife, Bars 
+1688,BROOKLYN,Brooklyn Vibes Bar & Lounge,4.5,Nightlife," Sushi Bars, Lounges "
+1689,BROOKLYN,Rooftop 93,4.0,Nightlife," Pubs, Music Venues "
+1690,BROOKLYN,Our Wicked Lady,4.5,Nightlife," Caribbean, Modern European, Lounges "
+1691,BROOKLYN,Minami Lounge,4.0,Nightlife, Dive Bars 
+1692,BROOKLYN,Union Hall,5.0,Nightlife," Dance Clubs, Bars "
+1693,BROOKLYN,Dkalabash,3.5,Nightlife," Bars, Music Venues "
+1694,BROOKLYN,Boobie Trap,5.0,Nightlife, Dive Bars 
+1695,BROOKLYN,101 Brooklyn,3.5,Nightlife, Dance Clubs 
+1696,BROOKLYN,Friends and Lovers,5.0,Nightlife," Social Clubs, Lounges "
+1697,BROOKLYN,Luv Story Bar,5.0,Nightlife, Lounges 
+1698,BROOKLYN,Bembe,3.0,Nightlife," Dance Clubs, Gay Bars "
+1699,BROOKLYN,Bare Naked Bake Sale,4.5,Nightlife," Bars, American (New) "
+1700,BROOKLYN,RFTP,4.5,Nightlife, Cocktail Bars 
+1701,BROOKLYN,Xstasy Night Club,4.5,Nightlife, Lounges 
+1702,BROOKLYN,The CopperPot,4.0,Nightlife," Dance Clubs, Venues & Event Spaces "
+1703,BROOKLYN,The Armory,5.0,Nightlife," Seafood, Bars "
+1704,BROOKLYN,Sev Studio Lounge,5.0,Nightlife, Cocktail Bars 
+1705,BROOKLYN,B66 Club,4.5,Nightlife, Tiki Bars 
+1706,BROOKLYN,Saint Julivert,4.5,Nightlife," Arcades, Lounges, Virtual Reality Centers "
+1707,BROOKLYN,L’Wren,4.5,Nightlife, Dance Clubs 
+1708,BROOKLYN,Flatbush Zombie House,4.5,Nightlife, Music Venues 
+1709,BROOKLYN,YokeyPokey Virtual Reality Club,5.0,Nightlife," Bars, Sandwiches, Tapas/Small Plates "
+1710,BROOKLYN,The Rub,3.0,Nightlife," Lounges, Dance Clubs "
+1711,BROOKLYN,Depot 52,3.5,Nightlife," Music Venues, Bars "
+1712,BROOKLYN,Mekelburg’s Domino,4.5,Nightlife," Cocktail Bars, Lounges "
+1713,BROOKLYN,The Social Butterfly,4.5,Nightlife, Bars 
+1714,BROOKLYN,C’mon Everybody,5.0,Nightlife," Performing Arts, Bars "
+1715,BROOKLYN,Drink,4.0,Nightlife, Lounges 
+1716,BROOKLYN,Bar 718,4.0,Nightlife," Lounges, Cocktail Bars "
+1717,BROOKLYN,The Illuminati Ball,4.5,Nightlife, Bars 
+1718,BROOKLYN,Brooklyn Vibes Bar & Lounge,4.5,Nightlife," Sushi Bars, Lounges "
+1719,BROOKLYN,Rooftop 93,4.0,Nightlife," Pubs, Music Venues "
+1720,BROOKLYN,Our Wicked Lady,4.5,Nightlife," Caribbean, Modern European, Lounges "
+1721,BROOKLYN,Minami Lounge,4.0,Nightlife, Dive Bars 
+1722,BROOKLYN,Union Hall,5.0,Nightlife," Dance Clubs, Bars "
+1723,BROOKLYN,Dkalabash,3.5,Nightlife," Bars, Music Venues "
+1724,BROOKLYN,Boobie Trap,5.0,Nightlife, Dive Bars 
+1725,BROOKLYN,101 Brooklyn,3.5,Nightlife, Dance Clubs 
+1726,BROOKLYN,Friends and Lovers,5.0,Nightlife," Social Clubs, Lounges "
+1727,BROOKLYN,Luv Story Bar,5.0,Nightlife, Lounges 
+1728,BROOKLYN,Bembe,3.0,Nightlife," Dance Clubs, Gay Bars "
+1729,BROOKLYN,Bare Naked Bake Sale,4.5,Nightlife," Bars, American (New) "
+1730,BROOKLYN,RFTP,4.5,Nightlife, Cocktail Bars 
+1731,BROOKLYN,Xstasy Night Club,4.5,Nightlife, Lounges 
+1732,BROOKLYN,The CopperPot,4.0,Nightlife," Dance Clubs, Venues & Event Spaces "
+1733,BROOKLYN,The Armory,5.0,Nightlife," Seafood, Bars "
+1734,BROOKLYN,Sev Studio Lounge,5.0,Nightlife, Cocktail Bars 
+1735,BROOKLYN,B66 Club,4.5,Nightlife, Tiki Bars 
+1736,BROOKLYN,Saint Julivert,4.5,Nightlife," Arcades, Lounges, Virtual Reality Centers "
+1737,BROOKLYN,L’Wren,4.5,Nightlife, Dance Clubs 
+1738,BROOKLYN,Flatbush Zombie House,4.5,Nightlife, Music Venues 
+1739,BROOKLYN,YokeyPokey Virtual Reality Club,5.0,Nightlife," Bars, Sandwiches, Tapas/Small Plates "
+1740,BROOKLYN,The Rub,3.0,Nightlife," Lounges, Dance Clubs "
+1741,BROOKLYN,Depot 52,3.5,Nightlife," Music Venues, Bars "
+1742,BROOKLYN,Mekelburg’s Domino,4.5,Nightlife," Cocktail Bars, Lounges "
+1743,BROOKLYN,The Social Butterfly,4.5,Nightlife, Bars 
+1744,BROOKLYN,C’mon Everybody,5.0,Nightlife," Performing Arts, Bars "
+1745,BROOKLYN,Drink,4.0,Nightlife, Lounges 
+1746,BROOKLYN,Bar 718,4.0,Nightlife," Lounges, Cocktail Bars "
+1747,BROOKLYN,The Illuminati Ball,4.5,Nightlife, Bars 
+1748,BROOKLYN,Brooklyn Vibes Bar & Lounge,4.5,Nightlife," Sushi Bars, Lounges "
+1749,BROOKLYN,Rooftop 93,4.0,Nightlife," Pubs, Music Venues "
+1750,BROOKLYN,Our Wicked Lady,4.5,Nightlife," Caribbean, Modern European, Lounges "
+1751,BROOKLYN,Minami Lounge,4.0,Nightlife, Dive Bars 
+1752,BROOKLYN,Union Hall,5.0,Nightlife," Dance Clubs, Bars "
+1753,BROOKLYN,Dkalabash,3.5,Nightlife," Bars, Music Venues "
+1754,BROOKLYN,Boobie Trap,5.0,Nightlife, Dive Bars 
+1755,BROOKLYN,101 Brooklyn,3.5,Nightlife, Dance Clubs 
+1756,BROOKLYN,Friends and Lovers,5.0,Nightlife," Social Clubs, Lounges "
+1757,BROOKLYN,Luv Story Bar,5.0,Nightlife, Lounges 
+1758,BROOKLYN,Bembe,3.0,Nightlife," Dance Clubs, Gay Bars "
+1759,BROOKLYN,Bare Naked Bake Sale,4.5,Nightlife," Bars, American (New) "
+1760,BROOKLYN,RFTP,4.5,Nightlife, Cocktail Bars 
+1761,BROOKLYN,Xstasy Night Club,4.5,Nightlife, Lounges 
+1762,BROOKLYN,The CopperPot,4.0,Nightlife," Dance Clubs, Venues & Event Spaces "
+1763,BROOKLYN,The Armory,5.0,Nightlife," Seafood, Bars "
+1764,BROOKLYN,Sev Studio Lounge,5.0,Nightlife, Cocktail Bars 
+1765,BROOKLYN,B66 Club,4.5,Nightlife, Tiki Bars 
+1766,BROOKLYN,Saint Julivert,4.5,Nightlife," Arcades, Lounges, Virtual Reality Centers "
+1767,BROOKLYN,L’Wren,4.5,Nightlife, Dance Clubs 
+1768,BROOKLYN,Flatbush Zombie House,4.5,Nightlife, Music Venues 
+1769,BROOKLYN,YokeyPokey Virtual Reality Club,5.0,Nightlife," Bars, Sandwiches, Tapas/Small Plates "
+1770,BROOKLYN,The Rub,3.0,Nightlife," Lounges, Dance Clubs "
+1771,BROOKLYN,Depot 52,3.5,Nightlife," Music Venues, Bars "
+1772,BROOKLYN,Mekelburg’s Domino,4.5,Nightlife," Cocktail Bars, Lounges "
+1773,BROOKLYN,The Social Butterfly,4.5,Nightlife, Bars 
+1774,BROOKLYN,C’mon Everybody,5.0,Nightlife," Performing Arts, Bars "
+1775,BROOKLYN,Drink,4.0,Entertainment, Steakhouses 
+1776,BROOKLYN,Bar 718,4.5,Entertainment," Donuts, Coffee & Tea "
+1777,BROOKLYN,The Illuminati Ball,4.5,Entertainment, Landmarks & Historical Buildings 
+1778,BROOKLYN,Peter Luger,4.5,Entertainment, Pizza 
+1779,BROOKLYN,Dough,4.0,Entertainment," Pizza, Italian "
+1780,BROOKLYN,Brooklyn Bridge,4.5,Entertainment," Ice Cream & Frozen Yogurt, Coffee & Tea "
+1781,BROOKLYN,Juliana’s Pizza,4.5,Entertainment," American (New), Tapas/Small Plates "
+1782,BROOKLYN,L & B Spumoni Gardens,4.0,Entertainment, Pizza 
+1783,BROOKLYN,Ample Hills Creamery,4.0,Entertainment," Gluten-Free, Colombian "
+1784,BROOKLYN,Traif,4.0,Entertainment," Pizza, Italian "
+1785,BROOKLYN,Di Fara Pizza,4.0,Entertainment, Steakhouses 
+1786,BROOKLYN,Bogota Latin Bistro,4.5,Entertainment," Donuts, Coffee & Tea "
+1787,BROOKLYN,Roberta’s,4.5,Entertainment, Landmarks & Historical Buildings 
+1788,BROOKLYN,Peter Luger,4.5,Entertainment, Pizza 
+1789,BROOKLYN,Dough,4.0,Entertainment," Pizza, Italian "
+1790,BROOKLYN,Brooklyn Bridge,4.5,Entertainment," Ice Cream & Frozen Yogurt, Coffee & Tea "
+1791,BROOKLYN,Juliana’s Pizza,4.5,Entertainment," American (New), Tapas/Small Plates "
+1792,BROOKLYN,L & B Spumoni Gardens,4.0,Entertainment, Pizza 
+1793,BROOKLYN,Ample Hills Creamery,4.0,Entertainment," Gluten-Free, Colombian "
+1794,BROOKLYN,Traif,4.0,Entertainment," Pizza, Italian "
+1795,BROOKLYN,Di Fara Pizza,4.0,Entertainment, Steakhouses 
+1796,BROOKLYN,Bogota Latin Bistro,4.5,Entertainment," Donuts, Coffee & Tea "
+1797,BROOKLYN,Roberta’s,4.5,Entertainment, Landmarks & Historical Buildings 
+1798,BROOKLYN,Peter Luger,4.5,Entertainment, Pizza 
+1799,BROOKLYN,Dough,4.0,Entertainment," Pizza, Italian "
+1800,BROOKLYN,Brooklyn Bridge,4.5,Entertainment," Ice Cream & Frozen Yogurt, Coffee & Tea "
+1801,BROOKLYN,Juliana’s Pizza,4.5,Entertainment," American (New), Tapas/Small Plates "
+1802,BROOKLYN,L & B Spumoni Gardens,4.0,Entertainment, Pizza 
+1803,BROOKLYN,Ample Hills Creamery,4.0,Entertainment," Gluten-Free, Colombian "
+1804,BROOKLYN,Traif,4.0,Entertainment," Pizza, Italian "
+1805,BROOKLYN,Di Fara Pizza,4.0,Entertainment, Steakhouses 
+1806,BROOKLYN,Bogota Latin Bistro,4.5,Entertainment," Donuts, Coffee & Tea "
+1807,BROOKLYN,Roberta’s,4.5,Entertainment, Landmarks & Historical Buildings 
+1808,BROOKLYN,Peter Luger,4.5,Entertainment, Pizza 
+1809,BROOKLYN,Dough,4.0,Entertainment," Pizza, Italian "
+1810,BROOKLYN,Brooklyn Bridge,4.5,Entertainment," Ice Cream & Frozen Yogurt, Coffee & Tea "
+1811,BROOKLYN,Juliana’s Pizza,4.5,Entertainment," American (New), Tapas/Small Plates "
+1812,BROOKLYN,L & B Spumoni Gardens,4.0,Entertainment, Pizza 
+1813,BROOKLYN,Ample Hills Creamery,4.0,Entertainment," Gluten-Free, Colombian "
+1814,BROOKLYN,Traif,4.0,Entertainment," Pizza, Italian "
+1815,BROOKLYN,Di Fara Pizza,4.0,Entertainment, Steakhouses 
+1816,BROOKLYN,Bogota Latin Bistro,4.5,Entertainment," Donuts, Coffee & Tea "
+1817,BROOKLYN,Roberta’s,4.5,Entertainment, Landmarks & Historical Buildings 
+1818,BROOKLYN,Peter Luger,4.5,Entertainment, Pizza 
+1819,BROOKLYN,Dough,4.0,Entertainment," Pizza, Italian "
+1820,BROOKLYN,Brooklyn Bridge,4.5,Entertainment," Ice Cream & Frozen Yogurt, Coffee & Tea "
+1821,BROOKLYN,Juliana’s Pizza,4.5,Entertainment," American (New), Tapas/Small Plates "
+1822,BROOKLYN,L & B Spumoni Gardens,4.0,Entertainment, Pizza 
+1823,BROOKLYN,Ample Hills Creamery,4.0,Entertainment," Gluten-Free, Colombian "
+1824,BROOKLYN,Traif,4.0,Entertainment," Pizza, Italian "
+1825,BROOKLYN,Di Fara Pizza,4.0,Entertainment, Steakhouses 
+1826,BROOKLYN,Bogota Latin Bistro,4.5,Entertainment," Donuts, Coffee & Tea "
+1827,BROOKLYN,Roberta’s,4.5,Entertainment, Landmarks & Historical Buildings 
+1828,BROOKLYN,Peter Luger,4.5,Entertainment, Pizza 
+1829,BROOKLYN,Dough,4.0,Entertainment," Pizza, Italian "
+1830,BROOKLYN,Brooklyn Bridge,4.5,Entertainment," Ice Cream & Frozen Yogurt, Coffee & Tea "
+1831,BROOKLYN,Juliana’s Pizza,4.5,Entertainment," American (New), Tapas/Small Plates "
+1832,BROOKLYN,L & B Spumoni Gardens,4.0,Entertainment, Pizza 
+1833,BROOKLYN,Ample Hills Creamery,4.0,Entertainment," Gluten-Free, Colombian "
+1834,BROOKLYN,Traif,4.0,Entertainment," Pizza, Italian "
+1835,BROOKLYN,Di Fara Pizza,4.0,Entertainment, Steakhouses 
+1836,BROOKLYN,Bogota Latin Bistro,4.5,Entertainment," Donuts, Coffee & Tea "
+1837,BROOKLYN,Roberta’s,4.5,Entertainment, Landmarks & Historical Buildings 
+1838,BROOKLYN,Peter Luger,4.5,Entertainment, Pizza 
+1839,BROOKLYN,Dough,4.0,Entertainment," Pizza, Italian "
+1840,BROOKLYN,Brooklyn Bridge,4.5,Entertainment," Ice Cream & Frozen Yogurt, Coffee & Tea "
+1841,BROOKLYN,Juliana’s Pizza,4.5,Entertainment," American (New), Tapas/Small Plates "
+1842,BROOKLYN,L & B Spumoni Gardens,4.0,Entertainment, Pizza 
+1843,BROOKLYN,Ample Hills Creamery,4.0,Entertainment," Gluten-Free, Colombian "
+1844,BROOKLYN,Traif,4.0,Entertainment," Pizza, Italian "
+1845,BROOKLYN,Di Fara Pizza,4.0,Entertainment, Steakhouses 
+1846,BROOKLYN,Bogota Latin Bistro,4.5,Entertainment," Donuts, Coffee & Tea "
+1847,BROOKLYN,Roberta’s,4.5,Entertainment, Landmarks & Historical Buildings 
+1848,BROOKLYN,Peter Luger,4.5,Entertainment, Pizza 
+1849,BROOKLYN,Dough,4.0,Entertainment," Pizza, Italian "
+1850,BROOKLYN,Brooklyn Bridge,4.5,Entertainment," Ice Cream & Frozen Yogurt, Coffee & Tea "
+1851,BROOKLYN,Juliana’s Pizza,4.5,Entertainment," American (New), Tapas/Small Plates "
+1852,BROOKLYN,L & B Spumoni Gardens,4.0,Entertainment, Pizza 
+1853,BROOKLYN,Ample Hills Creamery,4.0,Entertainment," Gluten-Free, Colombian "
+1854,BROOKLYN,Traif,4.0,Entertainment," Pizza, Italian "
